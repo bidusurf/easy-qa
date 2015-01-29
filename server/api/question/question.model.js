@@ -8,12 +8,13 @@ var AnswerSchema = new Schema({
 	isCorrect: Boolean
 });
 
-var QuestionsSchema = new Schema({
+var QuestionSchema = new Schema({
   language: String,
   level: String,
   context: String,
   question: String,
+  author: String,
   answers: [AnswerSchema]
 });
 
-module.exports = mongoose.model('Questions', QuestionsSchema);
+module.exports = mongoose.model('Question', QuestionSchema);

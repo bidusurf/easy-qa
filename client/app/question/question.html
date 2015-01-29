@@ -1,0 +1,26 @@
+<div class='container' ng-controller="QuestionCtrl">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1 class="page-header">Features:</h1>
+      <ul class="nav nav-tabs nav-stacked col-md-4 col-lg-4 col-sm-6" ng-repeat="question in questions">
+        <li><a href="#" tooltip="{{ question.language }} {{ question.level }}">{{question.question}}<button type="button" class="close" ng-click="deleteQuestion(question)">&times;</button></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <form class="question-form">
+    <label>Syncs in realtime across clients</label>
+    <p class="input-group">
+      <input type="text" class="form-control" placeholder="Language" ng-model="newQuestion.language">
+      <input type="text" class="form-control" placeholder="Level" ng-model="newQuestion.level">
+      <input type="text" class="form-control" placeholder="Context" ng-model="newQuestion.context">
+      <input type="text" class="form-control" placeholder="Question" ng-model="newQuestion.question">
+      <input type="text" class="form-control" placeholder="Author" ng-model="newQuestion.author">
+<!--       <input type="text" class="form-control" placeholder="Language" ng-model="newQuestion.language">
+      <input type="text" class="form-control" placeholder="Language" ng-model="newQuestion.language">
+ -->      <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary" ng-click="addQuestion()">Add New</button>
+      </span>
+    </p>
+  </form>
+</div>

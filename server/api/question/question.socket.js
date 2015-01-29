@@ -4,21 +4,21 @@
 
 'use strict';
 
-var Questions = require('./questions.model');
+var Question = require('./question.model');
 
 exports.register = function(socket) {
-  Questions.schema.post('save', function (doc) {
+  Question.schema.post('save', function (doc) {
     onSave(socket, doc);
   });
-  Questions.schema.post('remove', function (doc) {
+  Question.schema.post('remove', function (doc) {
     onRemove(socket, doc);
   });
 }
 
 function onSave(socket, doc, cb) {
-  socket.emit('questions:save', doc);
+  socket.emit('question:save', doc);
 }
 
 function onRemove(socket, doc, cb) {
-  socket.emit('questions:remove', doc);
+  socket.emit('question:remove', doc);
 }

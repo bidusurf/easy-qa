@@ -1,16 +1,16 @@
 'use strict';
 
-describe('Controller: QuestionsCtrl', function () {
+describe('Controller: QuestionCtrl', function () {
 
   // load the controller's module
   beforeEach(module('easyQaApp'));
 
-  var QuestionsCtrl, scope;
+  var QuestionCtrl, scope;
 
   // Initialize the controller and a mock scope
   beforeEach(inject(function ($controller, $rootScope) {
     scope = $rootScope.$new();
-    QuestionsCtrl = $controller('QuestionsCtrl', {
+    QuestionCtrl = $controller('QuestionCtrl', {
       $scope: scope
     });
   }));
