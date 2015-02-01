@@ -14,6 +14,7 @@ angular.module('easyQaApp')
         return;
       }
       console.log($scope.newQuestion);
+      $scope.newQuestion.answers = [{answer: $scope.answer, isCorrect: true}];
       $http.post('/api/questions', $scope.newQuestion);
       $scope.newQuestion = {};
     };

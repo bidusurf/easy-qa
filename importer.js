@@ -5,6 +5,7 @@ var request = require('request');
 
 var output = [];
 var parser = csv.parse({delimiter: ';'})
+// console.log(parser)
 var input = fs.createReadStream(process.argv[2]);
 var transformer = transform(function(record, callback){
   setTimeout(function(){
@@ -32,11 +33,18 @@ var transformer = transform(function(record, callback){
     		}
     	],
     	author: record[9]
-    }
-    request.post('http://localhost:9000/api/questions/', {form: recordToPost});
+    };
+    request({ method: 'POST'
+    , uri: 'http://localhost:9000/api/questions/'
+    , headers: { 'content-type': 'application/json'}
+    , body: recordToPost
+    , json: true}
+    , function(error, response){
+        console.log(error);
+        // console.log(response);
+      }
+    );
   }, 500);
 }, {parallel: 10});
-var postRecord = function(record) {
-	console.log(record);
-}
-input.pipe(parser).pipe(transformer)
+
+input.pipe(parser).pipe(transformer);

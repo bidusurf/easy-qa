@@ -4,6 +4,10 @@
       <h1 class="page-header">Features:</h1>
       <ul class="nav nav-tabs nav-stacked col-md-4 col-lg-4 col-sm-6" ng-repeat="question in questions">
         <li><a href="#" tooltip="{{ question.language }} {{ question.level }}">{{question.question}}<button type="button" class="close" ng-click="deleteQuestion(question)">&times;</button></a></li>
+        <ul class="nav nav-tabs nav-stacked col-md-4 col-lg-4 col-sm-6" ng-repeat="answer in question.answers">
+
+          <li>{{ answer.answer }} -<input type="checkbox" ng-model="answer.isCorrect" /></li>
+        </ul>
       </ul>
     </div>
   </div>
@@ -16,6 +20,7 @@
       <input type="text" class="form-control" placeholder="Context" ng-model="newQuestion.context">
       <input type="text" class="form-control" placeholder="Question" ng-model="newQuestion.question">
       <input type="text" class="form-control" placeholder="Author" ng-model="newQuestion.author">
+      <input type="text" class="form-control" placeholder="Answer" ng-model="answer">
 <!--       <input type="text" class="form-control" placeholder="Language" ng-model="newQuestion.language">
       <input type="text" class="form-control" placeholder="Language" ng-model="newQuestion.language">
  -->      <span class="input-group-btn">
