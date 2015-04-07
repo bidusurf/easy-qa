@@ -7,8 +7,7 @@ var output = [];
 var parser = csv.parse({delimiter: ';', escape: '\\'})
 // console.log(parser)
 var input = fs.createReadStream(process.argv[2]);
-var transformer = transform(function(record, callback){
-  // setTimeout(function(){
+var transformer = transform(function(record){
     var recordToPost = {
     	language: record[0],
     	level: record[1],
@@ -44,7 +43,6 @@ var transformer = transform(function(record, callback){
         // console.log(response);
       }
     );
-  // }, 500);
 });
 
 input.pipe(parser).pipe(transformer);
