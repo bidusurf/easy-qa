@@ -5,7 +5,8 @@ var mongoose = require('mongoose'),
 
 var AnswerSchema = new Schema({
 	answer: String,
-	isCorrect: Boolean
+	isCorrect: Boolean,
+  order: Number
 });
 
 var QuestionSchema = new Schema({
@@ -14,7 +15,8 @@ var QuestionSchema = new Schema({
   context: String,
   question: String,
   author: String,
-  answers: [AnswerSchema]
+  answers: [AnswerSchema],
+  info_job_id: Number
 });
 
 module.exports = mongoose.model('Question', QuestionSchema);

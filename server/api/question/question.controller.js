@@ -5,7 +5,7 @@ var Question = require('./question.model');
 
 // Get list of questionss
 exports.index = function(req, res) {
-  Question.find(function (err, questions) {
+  Question.find({}, null, {sort: {info_job_id: 1}}, function (err, questions) {
     if(err) { return handleError(res, err); }
     return res.json(200, questions);
   });
