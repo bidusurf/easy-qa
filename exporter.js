@@ -1,7 +1,6 @@
 var fs = require('fs');
 var transform = require('stream-transform');
 var request = require('request');
-
 var output_questions = fs.createWriteStream('info_job_perguntas.csv'/*, {flags: "a"}*/);
 output_questions.write('idIdioma;idPergunta;Nivel;Competencia;Pergunta\n');
 var output_answers = fs.createWriteStream('info_job_respostas.csv'/*, {flags: "a"}*/);
@@ -22,7 +21,7 @@ var transformer = transform(function(response){
     question_line.push(question.info_job_id);
     question_line.push(question.level);
     question_line.push(question.context);
-    question_line.push(question.question);
+    question_line.push(question.question.replace('\n', 'xpto'));
     questions_lines.push(question_line.join(';'));
     var answers = [];
     for (var j = 0; j < question.answers.length; j++) {

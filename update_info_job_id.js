@@ -19,6 +19,8 @@ function shuffle(array) {
 
 var last_id = db.questions.find({info_job_id: { $exists: true }}).sort({info_job_id: -1}).limit(1)[0].info_job_id;
 
+if (!last_id) {last_id = 0};
+
 db.questions.find({info_job_id: { $exists: false }}).forEach(
   function(doc){ 
     last_id++; 

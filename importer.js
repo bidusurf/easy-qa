@@ -4,7 +4,7 @@ var transform = require('stream-transform');
 var request = require('request');
 
 var output = [];
-var parser = csv.parse({delimiter: ';', escape: '\\'})
+var parser = csv.parse({delimiter: ';', escape: '\\', quote: '|'})
 // console.log(parser)
 var input = fs.createReadStream(process.argv[2]);
 var transformer = transform(function(record){

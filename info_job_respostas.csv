@@ -1,265 +1,401 @@
 idPergunta;idResposta;Certa;Column1
-1;1;Nao;are
-1;2;Sim;is
-1;3;Nao;has
-1;4;Nao;does
-2;5;Nao;stays
-2;6;Nao;be
-2;7;Nao;has
-2;8;Sim;is
-3;9;Sim;am
-3;10;Nao;did
-3;11;Nao;is
-3;12;Nao;be
-4;13;Nao;is
-4;14;Nao;do
-4;15;Sim;are
-4;16;Nao;was
-5;17;Nao;make
-5;18;Nao;are
-5;19;Sim;is
-5;20;Nao;do
-6;21;Sim;are
-6;22;Nao;do
-6;23;Nao;is
-6;24;Nao;be
-7;25;Nao;do
-7;26;Sim;am
-7;27;Nao;good
-7;28;Nao;be
-8;29;Nao;are not
-8;30;Sim;is not
-8;31;Nao;is
-8;32;Nao;be
-9;33;Nao;How
-9;34;Nao;Does
-9;35;Sim;Is
-9;36;Nao;Are
+2;5;Nao;Aren't
+2;6;Nao;Are
+2;7;Sim;Is
+2;8;Nao;Can
+3;9;Nao;You're
+3;10;Sim;She's
+3;11;Nao;He's
+3;12;Nao;They're
+4;13;Sim;is
+4;14;Nao;be
+4;15;Nao;am
+4;16;Nao;are
+5;17;Nao;do
+5;18;Sim;am 
+5;19;Nao;is
+5;20;Nao;have
+6;21;Sim;Is Paul
+6;22;Nao;Paul is
+6;23;Nao;Paul are
+6;24;Nao;Are Paul
+7;25;Nao;Are
+7;26;Nao;Can
+7;27;Sim;Is
+7;28;Nao;Aren't
+8;29;Nao;Isn't
+8;30;Nao;Is
+8;31;Sim;Are
+8;32;Nao;Can
+9;33;Nao;Is
+9;34;Nao;Can
+9;35;Nao;Do
+9;36;Sim;Are
 10;37;Sim;is
-10;38;Nao;am
-10;39;Nao;am  not
-10;40;Nao;m
-11;41;Sim;is
-11;42;Nao;doen't
-11;43;Nao;are
-11;44;Nao;does
-12;45;Sim;aren't
-12;46;Nao;do
-12;47;Nao;is
-12;48;Nao;isn't
-13;49;Nao;aren't
-13;50;Nao;does
-13;51;Nao;are
-13;52;Sim;is
-14;53;Sim;Be
-14;54;Nao;Do
-14;55;Nao;Are
-14;56;Nao;Make
-15;57;Nao;Do
-15;58;Nao;Be
-15;59;Sim;Are
-15;60;Nao;Does
-16;61;Nao;s
-16;62;Nao;is
-16;63;Nao;isn't
-16;64;Sim;are
-17;65;Nao;are
-17;66;Nao;re
-17;67;Sim;don't
-17;68;Nao;aren't
-18;69;Nao;are
-18;70;Nao;been
-18;71;Sim;is
-18;72;Nao;be
-19;73;Sim;is
-19;74;Nao;doesn't
-19;75;Nao;do
-19;76;Nao;can
-20;77;Nao;m
-20;78;Nao;is
-20;79;Sim;can't
-20;80;Nao;are
-21;81;Sim;We're/great
-21;82;Nao;Are they/spectacular
-21;83;Nao;Am I/excellent
-21;84;Nao;I'm/ terrible
-22;85;Nao;you are
-22;86;Nao;you is
-22;87;Nao;you
-22;88;Sim;are you
-23;89;Nao;is/is
-23;90;Nao;is/be
-23;91;Nao;are/is
-23;92;Sim;is/are
-24;93;Nao;Is/there is
-24;94;Sim;Is/it's
-24;95;Nao;Is/its
-24;96;Nao;Is/be
-25;97;Nao;they aren't
-25;98;Nao;she doesn't
-25;99;Sim;she is
-25;100;Nao;they are
-26;101;Sim;She's
-26;102;Nao;You're
-26;103;Nao;He's
-26;104;Nao;They're
-27;105;Nao;She's
-27;106;Sim;It's
-27;107;Nao;They're
-27;108;Nao;It has
-28;109;Sim;We're
-28;110;Nao;They're
-28;111;Nao;I'm
-28;112;Nao;He's
-29;113;Nao;Yes, they are.
-29;114;Nao;No, we aren't.
-29;115;Nao;No, it's my aunt.
-29;116;Sim;No, she isn't.
-30;117;Nao;be
-30;118;Nao;am
-30;119;Nao;are
-30;120;Sim;is
-31;121;Nao;It is
-31;122;Nao;Is
-31;123;Sim;Is it
-31;124;Nao;He is
-32;125;Sim;am 
-32;126;Nao;do
-32;127;Nao;have
-32;128;Nao;is
-33;129;Sim;Is Paul
-33;130;Nao;Paul are
-33;131;Nao;Are Paul
-33;132;Nao;Paul is
-34;133;Sim;Are they
-34;134;Nao;Do they
-34;135;Nao;They are
-34;136;Nao;They aren't
-35;137;Sim;is not
-35;138;Nao;are not
-35;139;Nao;be
-35;140;Nao;is
-36;141;Sim;He is
-36;142;Nao;He are
-36;143;Nao;Isn't he
-36;144;Nao;Is he
-37;145;Nao;can't
-37;146;Sim;are
-37;147;Nao;is
-37;148;Nao;isn't
-38;149;Nao;are
-38;150;Nao;aren't
-38;151;Nao;isn't
-38;152;Sim;is
-39;153;Nao;isn't
-39;154;Nao;is
-39;155;Sim;aren't
-39;156;Nao;are
-40;157;Nao;aren't
-40;158;Sim;Is
-40;159;Nao;isn't
-40;160;Nao;are
-41;161;Nao;isn't
+10;38;Nao;has
+10;39;Nao;does
+10;40;Nao;are
+11;41;Nao;stays
+11;42;Sim;is
+11;43;Nao;be
+11;44;Nao;has
+12;45;Sim;is
+12;46;Nao;are
+12;47;Nao;make
+12;48;Nao;do
+13;49;Nao;do
+13;50;Nao;be
+13;51;Sim;am
+13;52;Nao;good
+14;53;Nao;How
+14;54;Nao;Are
+14;55;Nao;Does
+14;56;Sim;Is
+15;57;Sim;are
+15;58;Nao;do
+15;59;Nao;be
+15;60;Nao;is
+16;61;Sim;is
+16;62;Nao;are
+16;63;Nao;does
+16;64;Nao;aren't
+17;65;Nao;Are
+17;66;Sim;Be
+17;67;Nao;Do
+17;68;Nao;Make
+18;69;Nao;Do
+18;70;Nao;Be
+18;71;Nao;Does
+18;72;Sim;Are
+19;73;Nao;aren't
+19;74;Nao;re
+19;75;Sim;don't
+19;76;Nao;are
+20;77;Nao;are
+20;78;Nao;been
+20;79;Nao;be
+20;80;Sim;is
+21;81;Nao;doesn't
+21;82;Nao;can
+21;83;Nao;do
+21;84;Sim;is
+22;85;Nao;m
+22;86;Sim;can't
+22;87;Nao;are
+22;88;Nao;is
+23;89;Nao;Yes, they are.
+23;90;Nao;No, it's my aunt.
+23;91;Sim;No, she isn't.
+23;92;Nao;No, we aren't.
+24;93;Nao;you are/I am
+24;94;Nao;you/am I
+24;95;Sim;are you/I am
+24;96;Nao;you aren't/Iam
+25;97;Nao;Are/isn't
+25;98;Nao;Can/can't
+25;99;Nao;Is/aren't
+25;100;Sim;Are/aren't
+26;101;Nao;isn't
+26;102;Nao;aren't
+26;103;Nao;is
+26;104;Sim;are
+27;105;Nao;isn't
+27;106;Sim;are
+27;107;Nao;is
+27;108;Nao;aren't
+28;109;Nao;are
+28;110;Sim;is
+28;111;Nao;can
+28;112;Nao;aren't
+29;113;Nao;Are/is
+29;114;Nao;Can/can
+29;115;Nao;Is/are
+29;116;Sim;Are/are
+30;117;Nao;aren't
+30;118;Nao;is
+30;119;Nao;isn't
+30;120;Sim;are
+31;121;Nao;aren't
+31;122;Sim;is
+31;123;Nao;isn't
+31;124;Nao;are
+32;125;Nao;is/isn't
+32;126;Nao;aren't/isn't
+32;127;Nao;are/is
+32;128;Sim;is/are
+33;129;Sim;is
+33;130;Nao;are
+33;131;Nao;can
+33;132;Nao;aren't
+34;133;Nao;is/are
+34;134;Nao;aren't/are
+34;135;Sim;are/are
+34;136;Nao;are/is
+35;137;Sim;Is/it's
+35;138;Nao;Is/its
+35;139;Nao;Is/be
+35;140;Nao;Is/there is
+36;141;Nao;they aren't
+36;142;Sim;she is
+36;143;Nao;they are
+36;144;Nao;she doesn't
+37;145;Sim;It's
+37;146;Nao;She's
+37;147;Nao;It has
+37;148;Nao;They're
+38;149;Sim;We're
+38;150;Nao;I'm
+38;151;Nao;He's
+38;152;Nao;They're
+39;153;Nao;Is
+39;154;Nao;It is
+39;155;Sim;Is it
+39;156;Nao;He is
+40;157;Nao;They are
+40;158;Nao;They aren't
+40;159;Sim;Are they
+40;160;Nao;Do they
+41;161;Sim;is not
 41;162;Nao;is
-41;163;Nao;aren't
-41;164;Sim;are
-42;165;Nao;am not
-42;166;Nao;are
-42;167;Sim;am
-42;168;Nao;is
-43;169;Nao;is
-43;170;Nao;aren't
-43;171;Nao;am not
-43;172;Sim;isn't
-44;173;Sim;Is
-44;174;Nao;Are
-44;175;Nao;Can
-44;176;Nao;Aren't
-45;177;Nao;aren't
-45;178;Sim;isn't
-45;179;Nao;can't
+41;163;Nao;are not
+41;164;Nao;be
+42;165;Nao;Isn't he
+42;166;Nao;He are
+42;167;Sim;He is
+42;168;Nao;Is he
+43;169;Nao;can't
+43;170;Sim;are
+43;171;Nao;isn't
+43;172;Nao;is
+44;173;Sim;is
+44;174;Nao;aren't
+44;175;Nao;are
+44;176;Nao;isn't
+45;177;Nao;isn't
+45;178;Nao;is
+45;179;Sim;aren't
 45;180;Nao;are
-46;181;Nao;Is
-46;182;Nao;Can
-46;183;Nao;Isn't
-46;184;Sim;Are
-47;185;Nao;She isn't
-47;186;Nao;Does she
-47;187;Sim;Is she
-47;188;Nao;She is
-48;189;Nao;is/are
-48;190;Sim;are/are
-48;191;Nao;are/isn`t
-48;192;Nao;are/is
-49;193;Nao;are
-49;194;Nao;isn't
+46;181;Nao;Aren't/are
+46;182;Nao;Are/is
+46;183;Nao;Is/isn't
+46;184;Sim;Is/is
+47;185;Nao;aren't
+47;186;Sim;are
+47;187;Nao;is
+47;188;Nao;isn't
+48;189;Nao;is
+48;190;Sim;am
+48;191;Nao;am not
+48;192;Nao;are
+49;193;Nao;is
+49;194;Sim;isn't
 49;195;Nao;aren't
-49;196;Sim;is
-50;197;Nao;aren't
-50;198;Sim;isn't
-50;199;Nao;doesn't
-50;200;Nao;don't
-51;201;Nao;Is/isn't
-51;202;Sim;Is/is
-51;203;Nao;Is/are
-51;204;Nao;Are/is
-52;205;Nao;aren't
-52;206;Nao;isn't
-52;207;Nao;is
-52;208;Sim;are
-53;209;Nao;are
-53;210;Nao;isn't
-53;211;Nao;aren't
-53;212;Sim;is
-54;213;Nao;aren't/isn't
-54;214;Nao;are/is
-54;215;Nao;is/are
-54;216;Sim;is/is
-55;217;Nao;Are/isn't
-55;218;Nao;is/aren't
-55;219;Sim;Is/isn't
-55;220;Nao;Is/is
-56;221;Nao;aren't
-56;222;Sim;are
-56;223;Nao;is
-56;224;Nao;isn't
-57;225;Sim;is
-57;226;Nao;it is
-57;227;Nao;isn't
-57;228;Nao;it's
-58;229;Nao;are/They
-58;230;Nao;am/We
-58;231;Sim;are/We
-58;232;Nao;am/You
-59;233;Nao;She isn't
-59;234;Sim;It isn't
-59;235;Nao;Isn't 
-59;236;Nao;Is not
-60;237;Nao;isn't
-60;238;Nao;is
-60;239;Nao;are not
-60;240;Sim;are
-61;241;Nao;aren't
-61;242;Sim;is
-61;243;Nao;are
-61;244;Nao;be
-62;245;Nao;You are/I am
-62;246;Nao;You is/I am
-62;247;Sim;Are you/I'm
-62;248;Nao;Are you/I do
-63;249;Nao;Brazil is/it is
-63;250;Nao;Is Brazil/he is
-63;251;Sim;Is Brazil/it is
-63;252;Nao;Is Brazil/is it
-64;253;Nao;are/is
-64;254;Sim;is/are
-64;255;Nao;is/aren't
-64;256;Nao;aren't/aren't
-65;257;Nao;is your sister/She is
-65;258;Nao;your sister is/Is she
-65;259;Sim;is your sister/Is she
-65;260;Nao;your sister is/She is
-66;261;Nao;aren't
-66;262;Nao;is
-66;263;Nao;isn't
-66;264;Sim;are
+49;196;Nao;am not
+50;197;Nao;can't
+50;198;Nao;aren't
+50;199;Sim;isn't
+50;200;Nao;are
+51;201;Sim;Is she
+51;202;Nao;She isn't
+51;203;Nao;She is
+51;204;Nao;Does she
+52;205;Sim;Is Brazil/it is
+52;206;Nao;Is Brazil/is it
+52;207;Nao;Brazil is/it is
+52;208;Nao;Is Brazil/he is
+53;209;Nao;is/are
+53;210;Sim;are/are
+53;211;Nao;are/is
+53;212;Nao;are/isn`t
+54;213;Sim;is
+54;214;Nao;isn't
+54;215;Nao;are
+54;216;Nao;aren't
+55;217;Nao;doesn't
+55;218;Nao;don't
+55;219;Sim;isn't
+55;220;Nao;aren't
+56;221;Sim;is/are
+56;222;Nao;aren't/aren't
+56;223;Nao;is/aren't
+56;224;Nao;are/is
+57;225;Nao;Is/are
+57;226;Sim;Is/is
+57;227;Nao;Is/isn't
+57;228;Nao;Are/is
+58;229;Nao;isn't
+58;230;Nao;aren't
+58;231;Sim;are
+58;232;Nao;is
+59;233;Sim;is
+59;234;Nao;aren't
+59;235;Nao;isn't
+59;236;Nao;are
+60;237;Nao;is/are
+60;238;Sim;is/is
+60;239;Nao;aren't/isn't
+60;240;Nao;are/is
+61;241;Nao;Is/is
+61;242;Nao;Are/isn't
+61;243;Nao;is/aren't
+61;244;Sim;Is/isn't
+62;245;Nao;aren't
+62;246;Nao;isn't
+62;247;Sim;are
+62;248;Nao;is
+63;249;Nao;it is
+63;250;Nao;it's
+63;251;Sim;is
+63;252;Nao;isn't
+64;253;Nao;am/We
+64;254;Nao;am/You
+64;255;Sim;are/We
+64;256;Nao;are/They
+65;257;Nao;She isn't
+65;258;Nao;Is not
+65;259;Sim;It isn't
+65;260;Nao;Isn't 
+66;261;Nao;your sister is/Is she
+66;262;Nao;is your sister/She is
+66;263;Sim;is your sister/Is she
+66;264;Nao;your sister is/She is
+67;265;Nao;is
+67;266;Nao;aren't
+67;267;Sim;are
+67;268;Nao;isn't
+68;269;Nao;is
+68;270;Nao;are not
+68;271;Sim;are
+68;272;Nao;isn't
+69;273;Nao;aren't
+69;274;Nao;be
+69;275;Sim;is
+69;276;Nao;are
+70;277;Sim;is/it isn't
+70;278;Nao;is/not on
+70;279;Nao;is/no
+70;280;Nao;isn't/are
+71;281;Sim;are
+71;282;Nao;aren't
+71;283;Nao;be
+71;284;Nao;is
+72;285;Nao;is
+72;286;Nao;being
+72;287;Sim;are
+72;288;Nao;comes
+73;289;Nao;Is not
+73;290;Sim;It isn't
+73;291;Nao;It is
+73;292;Nao;Is it
+74;293;Sim;It is
+74;294;Nao;Is
+74;295;Nao;Its
+74;296;Nao;Its'
+75;297;Sim;are/is
+75;298;Nao;is/is
+75;299;Nao;are/isn't
+75;300;Nao;aren't/are
+76;301;Sim;are
+76;302;Nao;is
+76;303;Nao;aren't
+76;304;Nao;isn't
+77;305;Sim;is
+77;306;Nao;it isn't
+77;307;Nao;not
+77;308;Nao;it is
+78;309;Nao;is
+78;310;Sim;are
+78;311;Nao;be
+78;312;Nao;isn't
+79;313;Nao;it's
+79;314;Nao;it is
+79;315;Sim;is
+79;316;Nao;its
+80;317;Nao;We are
+80;318;Sim;He is
+80;319;Nao;Its
+80;320;Nao;They are
+81;321;Nao;They are
+81;322;Nao;Is
+81;323;Nao;Do
+81;324;Sim;Are
+82;325;Nao;it isn't/he is
+82;326;Nao;isn't/is he
+82;327;Nao;is/is
+82;328;Sim;isn't/he is
+83;329;Nao;It isn't
+83;330;Nao;Its
+83;331;Nao;It is
+83;332;Sim;Is it
+84;333;Nao;isn't
+84;334;Nao;aren't
+84;335;Nao;is
+84;336;Sim;are
+85;337;Nao;is/am
+85;338;Sim;have/have
+85;339;Nao;are/am
+85;340;Nao;has/have
+86;341;Nao;this is/is
+86;342;Nao;these are/is
+86;343;Sim;is this/is
+86;344;Nao;are these/is
+87;345;Sim;Are the children
+87;346;Nao;Is the men
+87;347;Nao;The girls are
+87;348;Nao;He isn't
+88;349;Nao;is
+88;350;Nao;aren't
+88;351;Sim;isn't
+88;352;Nao;are
+89;353;Nao;isn't
+89;354;Nao;are
+89;355;Nao;is
+89;356;Sim;aren't
+90;357;Sim;isn't
+90;358;Nao;are
+90;359;Nao;is
+90;360;Nao;aren't
+91;361;Nao;did
+91;362;Sim;am
+91;363;Nao;is
+91;364;Nao;be
+92;365;Sim;are
+92;366;Nao;was
+92;367;Nao;do
+92;368;Nao;is
+93;369;Nao;be
+93;370;Nao;are not
+93;371;Sim;is not
+93;372;Nao;is
+94;373;Nao;am  not
+94;374;Nao;am
+94;375;Nao;m
+94;376;Sim;is
+95;377;Nao;doesn't
+95;378;Nao;does
+95;379;Sim;is
+95;380;Nao;are
+96;381;Nao;isn't
+96;382;Nao;do
+96;383;Sim;aren't
+96;384;Nao;is
+97;385;Sim;are
+97;386;Nao;is
+97;387;Nao;s
+97;388;Nao;isn't
+98;389;Nao;you
+98;390;Nao;you are
+98;391;Sim;are you
+98;392;Nao;you is
+99;393;Sim;Are you/I'm
+99;394;Nao;You is/I am
+99;395;Nao;You are/I am
+99;396;Nao;Are you/I do
+100;397;Sim;We're/great
+100;398;Nao;I'm/ terrible
+100;399;Nao;Am I/excellent
+100;400;Nao;Are they/spectacular
+101;401;Nao;are/is
+101;402;Nao;is/is
+101;403;Sim;is/are
+101;404;Nao;is/be
