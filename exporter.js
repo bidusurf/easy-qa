@@ -8,10 +8,11 @@ output_answers.write('idPergunta;idResposta;Certa;Column1\n');
 var input = request({ method: 'GET'
     , uri: 'http://localhost:9000/api/questions/'
     , headers: { 'content-type': 'application/json'}
-    , json: true});
-
-var transformer = transform(function(response){
-  questions = JSON.parse(response.toString());
+    , json: true}, function(error, response, body) {
+// var transformer = transform(function(response){
+  // console.log(body.toString());
+  // questions = JSON.parse(body.toString());
+  questions = body;
   var questions_lines = [];
   var answers_lines = [];
   for (var i = 0; i < questions.length; i++) {
@@ -21,7 +22,7 @@ var transformer = transform(function(response){
     question_line.push(question.info_job_id);
     question_line.push(question.level);
     question_line.push(question.context);
-    question_line.push(question.question.replace('\n', 'xpto'));
+    question_line.push(question.question.replace(/\n/g, 'xpto'));
     questions_lines.push(question_line.join(';'));
     var answers = [];
     for (var j = 0; j < question.answers.length; j++) {
@@ -39,8 +40,3 @@ var transformer = transform(function(response){
   output_questions.write(questions_lines.join('\n'));
   output_answers.write(answers_lines.join('\n'));
 });
-
-input.pipe(transformer);
-// input.pipe(transformer).pipe(process.stdout);
-// input.pipe(transformer);
-// input.pipe(process.stdout);
