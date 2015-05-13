@@ -1,4001 +1,4001 @@
 idPergunta;idResposta;Certa;Column1
-1;1;Nao;are
-1;2;Sim;is
-1;3;Nao;has
-1;4;Nao;does
-2;5;Nao;be
-2;6;Nao;stays
-2;7;Nao;has
-2;8;Sim;is
-3;9;Nao;did
-3;10;Nao;be
-3;11;Sim;am
-3;12;Nao;is
-4;13;Sim;are
-4;14;Nao;was
-4;15;Nao;is
-4;16;Nao;do
-5;17;Nao;are
-5;18;Nao;do
-5;19;Sim;is
-5;20;Nao;make
-6;21;Nao;be
-6;22;Nao;do
-6;23;Nao;good
-6;24;Sim;am
-7;25;Sim;is not
-7;26;Nao;be
-7;27;Nao;are not
-7;28;Nao;is
-8;29;Nao;How
-8;30;Nao;Are
-8;31;Sim;Is
-8;32;Nao;Does
-9;33;Nao;is
-9;34;Nao;do
-9;35;Sim;are
-9;36;Nao;be
-10;37;Nao;am
-10;38;Sim;is
-10;39;Nao;m
-10;40;Nao;am  not
-11;41;Nao;does
-11;42;Nao;doesn't
-11;43;Nao;are
-11;44;Sim;is
-12;45;Nao;do
-12;46;Nao;is
-12;47;Sim;aren't
-12;48;Nao;isn't
-13;49;Nao;does
-13;50;Sim;is
-13;51;Nao;aren't
-13;52;Nao;are
-14;53;Sim;Be
-14;54;Nao;Do
-14;55;Nao;Make
-14;56;Nao;Are
-15;57;Nao;Do
-15;58;Nao;Be
-15;59;Nao;Does
-15;60;Sim;Are
-16;61;Nao;isn't
-16;62;Sim;are
-16;63;Nao;is
-16;64;Nao;s
-17;65;Nao;aren't
-17;66;Nao;re
-17;67;Nao;are
-17;68;Sim;don't
-18;69;Sim;is
-18;70;Nao;been
-18;71;Nao;are
-18;72;Nao;be
-19;73;Nao;can
-19;74;Nao;do
-19;75;Nao;doesn't
-19;76;Sim;is
-20;77;Nao;are
-20;78;Nao;isn't
-20;79;Nao;is
-20;80;Sim;can't
-21;81;Sim;Are you/I'm
-21;82;Nao;Are you/I do
-21;83;Nao;You is/I am
-21;84;Nao;You are/I am
-22;85;Sim;We're/great
-22;86;Nao;Are they/spectacular
-22;87;Nao;Am I/excellent
-22;88;Nao;I'm/ terrible
-23;89;Nao;you
-23;90;Sim;are you
-23;91;Nao;you is
-23;92;Nao;you are
-24;93;Nao;is/be
-24;94;Sim;is/are
-24;95;Nao;is/is
-24;96;Nao;are/is
-25;97;Nao;Is/there is
-25;98;Nao;Is/be
-25;99;Sim;Is/it's
-25;100;Nao;Is/its
-26;101;Sim;she is
-26;102;Nao;they are
-26;103;Nao;they aren't
-26;104;Nao;she doesn't
-27;105;Nao;You're
-27;106;Sim;She's
-27;107;Nao;He's
-27;108;Nao;They're
-28;109;Nao;They're
-28;110;Sim;It's
-28;111;Nao;It has
-28;112;Nao;She's
-29;113;Nao;They're
-29;114;Nao;I'm
-29;115;Nao;He's
-29;116;Sim;We're
-30;117;Sim;No, she isn't.
-30;118;Nao;No, it's my aunt.
-30;119;Nao;Yes, they are.
-30;120;Nao;No, we aren't.
-31;121;Nao;be
-31;122;Nao;am
-31;123;Nao;are
-31;124;Sim;is
-32;125;Sim;Is it
-32;126;Nao;It is
-32;127;Nao;He is
-32;128;Nao;Is
-33;129;Nao;have
-33;130;Nao;is
-33;131;Sim;am 
-33;132;Nao;do
-34;133;Nao;Paul is
-34;134;Nao;Are Paul
-34;135;Sim;Is Paul
-34;136;Nao;Paul are
-35;137;Nao;Do they
-35;138;Nao;They aren't
-35;139;Sim;Are they
-35;140;Nao;They are
-36;141;Nao;be
-36;142;Nao;is
-36;143;Nao;are not
-36;144;Sim;is not
-37;145;Nao;Is he
-37;146;Nao;He are
-37;147;Nao;Isn't he
-37;148;Sim;He is
-38;149;Nao;can't
-38;150;Nao;is
-38;151;Nao;isn't
-38;152;Sim;are
-39;153;Nao;are
-39;154;Nao;aren't
-39;155;Nao;isn't
-39;156;Sim;is
-40;157;Nao;are
-40;158;Sim;aren't
-40;159;Nao;isn't
-40;160;Nao;is
-41;161;Sim;Is/is
-41;162;Nao;Aren't/are
-41;163;Nao;Is/isn't
-41;164;Nao;Are/is
-42;165;Nao;is
-42;166;Sim;are
-42;167;Nao;isn't
-42;168;Nao;aren't
-43;169;Sim;am
-43;170;Nao;is
-43;171;Nao;are
-43;172;Nao;am not
-44;173;Nao;aren't
-44;174;Nao;is
-44;175;Nao;am not
-44;176;Sim;isn't
-45;177;Sim;Is
-45;178;Nao;Can
-45;179;Nao;Are
-45;180;Nao;Aren't
-46;181;Nao;can't
-46;182;Sim;isn't
-46;183;Nao;aren't
-46;184;Nao;are
-47;185;Nao;Can
-47;186;Nao;Is
-47;187;Nao;Isn't
-47;188;Sim;Are
-48;189;Nao;She isn't
-48;190;Nao;She is
-48;191;Sim;Is she
-48;192;Nao;Does she
-49;193;Nao;Is Brazil/he is
-49;194;Sim;Is Brazil/it is
-49;195;Nao;Is Brazil/is it
-49;196;Nao;Brazil is/it is
-50;197;Sim;are/are
-50;198;Nao;are/is
-50;199;Nao;is/are
-50;200;Nao;are/isn't
-51;201;Nao;isn't
-51;202;Nao;are
-51;203;Sim;is
-51;204;Nao;aren't
-52;205;Sim;isn't
-52;206;Nao;doesn't
-52;207;Nao;don't
-52;208;Nao;aren't
-53;209;Nao;are/is
-53;210;Nao;aren't/is
-53;211;Nao;aren't/aren't
-53;212;Sim;is/are
-54;213;Nao;Is/are
-54;214;Sim;Is/is
-54;215;Nao;Is/isn't
-54;216;Nao;Are/is
-55;217;Sim;are
-55;218;Nao;is
-55;219;Nao;isn't
-55;220;Nao;aren't
-56;221;Nao;are
-56;222;Nao;isn't
-56;223;Nao;aren't
-56;224;Sim;is
-57;225;Sim;is/is
-57;226;Nao;are/is
-57;227;Nao;aren't/isn't
-57;228;Nao;is/are
-58;229;Nao;Is/aren't
-58;230;Sim;Is/isn't
-58;231;Nao;Is/is
-58;232;Nao;Are/isn't
-59;233;Sim;are
-59;234;Nao;aren't
-59;235;Nao;is
-59;236;Nao;isn't
-60;237;Sim;is
-60;238;Nao;isn't
-60;239;Nao;it's
-60;240;Nao;it is
-61;241;Sim;are/We
-61;242;Nao;am/You
-61;243;Nao;am/We
-61;244;Nao;are/They
-62;245;Nao;She isn't
-62;246;Sim;It isn't
-62;247;Nao;Isn't 
-62;248;Nao;Is not
-63;249;Nao;is your sister/She is
-63;250;Nao;your sister is/Is she
-63;251;Nao;your sister is/She is
-63;252;Sim;is your sister/Is she
-64;253;Sim;are
-64;254;Nao;aren't
-64;255;Nao;isn't
-64;256;Nao;is
-65;257;Nao;is
-65;258;Sim;are
-65;259;Nao;isn't
-65;260;Nao;are not
-66;261;Nao;aren't
-66;262;Nao;are
-66;263;Nao;be
-66;264;Sim;is
-67;265;Nao;is/no
-67;266;Nao;is/not on
-67;267;Sim;is/it isn't
-67;268;Nao;isn't/are
-68;269;Nao;aren't
-68;270;Nao;is
-68;271;Nao;be
-68;272;Sim;are
-69;273;Nao;is
-69;274;Sim;are
-69;275;Nao;comes
-69;276;Nao;being
-70;277;Nao;Is not
-70;278;Nao;It is
-70;279;Sim;It isn't
-70;280;Nao;Is it
-71;281;Nao;you are/I am
-71;282;Sim;are you/I am
-71;283;Nao;you/am I
-71;284;Nao;you aren't/I am
-72;285;Nao;Its
-72;286;Sim;It is
-72;287;Nao;Its'
-72;288;Nao;Is
-73;289;Nao;is/is
-73;290;Sim;are/is
-73;291;Nao;are/isn't
-73;292;Nao;aren't/are
-74;293;Nao;is
-74;294;Sim;are
-74;295;Nao;aren't
-74;296;Nao;isn't
-75;297;Nao;not
-75;298;Sim;is
-75;299;Nao;it is
-75;300;Nao;it isn't
-76;301;Nao;isn't
-76;302;Nao;be
-76;303;Nao;is
-76;304;Sim;are
-77;305;Nao;it is
-77;306;Sim;is
-77;307;Nao;its
-77;308;Nao;it's
-78;309;Nao;Its
-78;310;Sim;He is
-78;311;Nao;They are
-78;312;Nao;We are
-79;313;Nao;Do
-79;314;Nao;They are
-79;315;Sim;Are
-79;316;Nao;Is
-80;317;Sim;isn't/he is
-80;318;Nao;it isn't/he is
-80;319;Nao;is/is
-80;320;Nao;isn't/is he
-81;321;Sim;Is it
-81;322;Nao;It is
-81;323;Nao;Its
-81;324;Nao;It isn't
-82;325;Nao;aren't
-82;326;Nao;is
-82;327;Sim;are
-82;328;Nao;isn't
-83;329;Nao;is/am
-83;330;Nao;are/am
-83;331;Nao;has/have
-83;332;Sim;have/have
-84;333;Nao;this is/is
-84;334;Nao;are these/is
-84;335;Nao;these are/is
-84;336;Sim;is this/is
-85;337;Nao;He isn't
-85;338;Nao;The girls are
-85;339;Nao;Is the men
-85;340;Sim;Are the children
-86;341;Nao;aren't
-86;342;Sim;isn't
-86;343;Nao;are
-86;344;Nao;is
-87;345;Nao;isn't
-87;346;Nao;are
-87;347;Sim;aren't
-87;348;Nao;is
-88;349;Nao;is
-88;350;Sim;isn't
-88;351;Nao;aren't
-88;352;Nao;are
-89;353;Nao;Is
-89;354;Sim;Are
-89;355;Nao;Can
-89;356;Nao;Do
-90;357;Nao;Is/aren't
-90;358;Sim;Are/aren't
-90;359;Nao;Are/isn't
-90;360;Nao;Can/can't
-91;361;Sim;are
-91;362;Nao;isn't
-91;363;Nao;aren't
-91;364;Nao;is
-92;365;Nao;Is/are
-92;366;Nao;Are/is
-92;367;Nao;Can/can
-92;368;Sim;Are/are
-93;369;Nao;aren't
-93;370;Nao;is
-93;371;Sim;are
-93;372;Nao;isn't
-94;373;Sim;is
-94;374;Nao;can
-94;375;Nao;aren't
-94;376;Nao;are
-95;377;Nao;Can
-95;378;Sim;Is
-95;379;Nao;Are
-95;380;Nao;Aren't
-96;381;Nao;aren't
-96;382;Nao;is
-96;383;Sim;are
-96;384;Nao;isn't
-97;385;Nao;isn't
-97;386;Nao;are
-97;387;Sim;is
-97;388;Nao;aren't
-98;389;Nao;are/is
-98;390;Nao;is/isn't
-98;391;Sim;is/are
-98;392;Nao;aren't/isn't
-99;393;Nao;aren't
-99;394;Nao;are
-99;395;Sim;is
-99;396;Nao;can
-100;397;Nao;aren't/are
-100;398;Sim;are/are
-100;399;Nao;is/are
-100;400;Nao;are/is
-101;401;Nao;that
-101;402;Nao;this is
-101;403;Sim;these
-101;404;Nao;this
-102;405;Nao;Hers
-102;406;Sim;His
-102;407;Nao;Her
-102;408;Nao;Our
-103;409;Nao;Mine
-103;410;Nao;Our
-103;411;Sim;Its
-103;412;Nao;His
-104;413;Sim;its
-104;414;Nao;her
-104;415;Nao;my
-104;416;Nao;theirs
-105;417;Sim;my
-105;418;Nao;their
-105;419;Nao;his
-105;420;Nao;your
-106;421;Nao;their/Their
-106;422;Nao;his/Are
-106;423;Nao;his/Its
-106;424;Sim;his/His
-107;425;Nao;Our
-107;426;Sim;Their
-107;427;Nao;Theirs
-107;428;Nao;Her
-108;429;Nao;His
-108;430;Nao;She
-108;431;Nao;Your
-108;432;Sim;Her
-109;433;Nao;Your
-109;434;Sim;His
-109;435;Nao;Her
-109;436;Nao;He
-110;437;Nao;her
-110;438;Sim;my
-110;439;Nao;his
-110;440;Nao;their
-111;441;Nao;their
-111;442;Nao;her
-111;443;Nao;its
-111;444;Sim;his
-112;445;Sim;her
-112;446;Nao;his
-112;447;Nao;their
-112;448;Nao;its
-113;449;Nao;Her
-113;450;Nao;His
-113;451;Sim;Their
-113;452;Nao;Its
-114;453;Nao;Him
-114;454;Nao;Our
-114;455;Nao;Their
-114;456;Sim;Its
-115;457;Nao;their
-115;458;Nao;her
-115;459;Sim;your
-115;460;Nao;his
-116;461;Nao;His
-116;462;Nao;Our
-116;463;Nao;Their
-116;464;Sim;Her
-117;465;Nao;our
-117;466;Sim;his
-117;467;Nao;its
-117;468;Nao;their
-118;469;Sim;her
-118;470;Nao;he
-118;471;Nao;she
-118;472;Nao;us
-119;473;Nao;His
-119;474;Sim;Their
-119;475;Nao;Her
-119;476;Nao;Its
-120;477;Nao;She/Her
-120;478;Nao;You/You're
-120;479;Sim;You/Your
-120;480;Nao;They/They
-121;481;Nao;he
-121;482;Sim;her
-121;483;Nao;his
-121;484;Nao;she
-122;485;Nao;She
-122;486;Sim;Its
-122;487;Nao;He
-122;488;Nao;My
-123;489;Nao;their
-123;490;Nao;his
-123;491;Nao;her
-123;492;Sim;my
-124;493;Sim;your
-124;494;Nao;he
-124;495;Nao;you
-124;496;Nao;she
-125;497;Nao;our
-125;498;Sim;their
-125;499;Nao;his
-125;500;Nao;her
-126;501;Sim;his
-126;502;Nao;he
-126;503;Nao;she
-126;504;Nao;her
-127;505;Nao;ours
-127;506;Nao;mine
-127;507;Sim;my
-127;508;Nao;theirs
-128;509;Sim;his
-128;510;Nao;her
-128;511;Nao;our
-128;512;Nao;their
-129;513;Nao;he
-129;514;Sim;her
-129;515;Nao;his
-129;516;Nao;she
-130;517;Nao;It
-130;518;Nao;Our
-130;519;Nao;Their
-130;520;Sim;Its
-131;521;Nao;our
-131;522;Sim;their
-131;523;Nao;they
-131;524;Nao;us
-132;525;Nao;His
-132;526;Nao;She's
-132;527;Nao;Your
-132;528;Sim;Her
-133;529;Sim;Their
-133;530;Nao;His
-133;531;Nao;Her
-133;532;Nao;Our
-134;533;Sim;Our
-134;534;Nao;We
-134;535;Nao;Her
-134;536;Nao;Their
-135;537;Nao;they're
-135;538;Sim;their
-135;539;Nao;those
-135;540;Nao;they
-136;541;Nao;her
-136;542;Nao;their
-136;543;Nao;it's
-136;544;Sim;its
-137;545;Nao;her
-137;546;Nao;hers
-137;547;Nao;theirs
-137;548;Sim;their
-138;549;Sim;their
-138;550;Nao;its
-138;551;Nao;our
-138;552;Nao;his
-139;553;Nao;my
-139;554;Nao;their
-139;555;Sim;his
-139;556;Nao;her
-140;557;Nao;your
-140;558;Nao;his
-140;559;Sim;her
-140;560;Nao;my
-141;561;Nao;Your
-141;562;Nao;My
-141;563;Sim;Their
-141;564;Nao;Its
-142;565;Sim;his
-142;566;Nao;her
-142;567;Nao;your
-142;568;Nao;my
-143;569;Sim;your
-143;570;Nao;her
-143;571;Nao;my
-143;572;Nao;his
-144;573;Nao;his
-144;574;Nao;their
-144;575;Sim;my
-144;576;Nao;your
-145;577;Sim;her
-145;578;Nao;their
-145;579;Nao;my
-145;580;Nao;your
-146;581;Nao;his
-146;582;Sim;our
-146;583;Nao;their
-146;584;Nao;her
-147;585;Nao;our
-147;586;Nao;their
-147;587;Nao;her
-147;588;Sim;his 
-148;589;Nao;Their
-148;590;Nao;Her
-148;591;Sim;His
-148;592;Nao;Our
-149;593;Nao;Her
-149;594;Nao;Our
-149;595;Sim;Its
-149;596;Nao;His
-150;597;Nao;theirs
-150;598;Nao;him
-150;599;Sim;their
-150;600;Nao;you
-151;601;Nao;Hers
-151;602;Nao;Her
-151;603;Sim;Their
-151;604;Nao;My
-152;605;Nao;Ours
-152;606;Nao;Do
-152;607;Sim;Our
-152;608;Nao;Are
-153;609;Sim;her
-153;610;Nao;its
-153;611;Nao;you
-153;612;Nao;mine
-154;613;Nao;yours
-154;614;Nao;mine
-154;615;Nao;her
-154;616;Sim;his
-155;617;Nao;You're/your
-155;618;Nao;Your/your
-155;619;Sim;Your/you're
-155;620;Nao;You/you're
-156;621;Nao;mine
-156;622;Nao;their
-156;623;Nao;your
-156;624;Sim;my
-157;625;Nao;Her
-157;626;Nao;Their
-157;627;Nao;Your
-157;628;Sim;His
-158;629;Nao;We
-158;630;Sim;Our
-158;631;Nao;Your
-158;632;Nao;Their
-159;633;Nao;Its
-159;634;Nao;Yours
-159;635;Nao;His
-159;636;Sim;Their
-160;637;Nao;their
-160;638;Nao;your
-160;639;Sim;its
-160;640;Nao;her
-161;641;Nao;These is
-161;642;Nao;This are
-161;643;Sim;These are
-161;644;Nao;This is
-162;645;Sim;Their
-162;646;Nao;Theirs
-162;647;Nao;His
-162;648;Nao;Her
-163;649;Sim;his
-163;650;Nao;hers
-163;651;Nao;her
-163;652;Nao;its
-164;653;Nao;their
-164;654;Sim;our
-164;655;Nao;theirs
-164;656;Nao;ours
-165;657;Nao;mine
-165;658;Nao;yours
-165;659;Nao;you
-165;660;Sim;your
-166;661;Nao;theirs
-166;662;Sim;their
-166;663;Nao;hers
-166;664;Nao;they
-167;665;Nao;hers
-167;666;Sim;my
-167;667;Nao;ours
-167;668;Nao;mine
-168;669;Nao;Their
-168;670;Nao;His
-168;671;Sim;Its
-168;672;Nao;Her
-169;673;Nao;ours
-169;674;Nao;theirs
-169;675;Nao;mine
-169;676;Sim;my
-170;677;Sim;their
-170;678;Nao;mine
-170;679;Nao;theirs
-170;680;Nao;hers
-171;681;Nao;their
-171;682;Nao;our
-171;683;Nao;theirs
-171;684;Sim;Its
-172;685;Sim;Their
-172;686;Nao;Theirs
-172;687;Nao;Hers
-172;688;Nao;His
-173;689;Sim;your
-173;690;Nao;yours
-173;691;Nao;its
-173;692;Nao;ours
-174;693;Nao;Its
-174;694;Nao;His
-174;695;Sim;Her
-174;696;Nao;Their
-175;697;Nao;his
-175;698;Nao;its
-175;699;Nao;their
-175;700;Sim;her
-176;701;Nao;Their
-176;702;Sim;His
-176;703;Nao;Her
-176;704;Nao;Its
-177;705;Nao;its
-177;706;Sim;his
-177;707;Nao;her
-177;708;Nao;hers
-178;709;Nao;Their
-178;710;Sim;Her
-178;711;Nao;His
-178;712;Nao;Our
-179;713;Nao;Ours
-179;714;Sim;Our
-179;715;Nao;Their
-179;716;Nao;Theirs
-180;717;Nao;Ours
-180;718;Nao;Theirs
-180;719;Sim;His
-180;720;Nao;Her
-181;721;Nao;this
-181;722;Sim;these
-181;723;Nao;those
-181;724;Nao;that
-182;725;Sim;this
-182;726;Nao;those
-182;727;Nao;these
-182;728;Nao;that
-183;729;Nao;that
-183;730;Nao;this
-183;731;Sim;these
-183;732;Nao;those
-184;733;Nao;that
-184;734;Nao;this
-184;735;Sim;those
-184;736;Nao;these
-185;737;Sim;this
-185;738;Nao;those
-185;739;Nao;these
-185;740;Nao;that
-186;741;Nao;those
-186;742;Sim;that
-186;743;Nao;these
-186;744;Nao;this
-187;745;Sim;that
-187;746;Nao;these
-187;747;Nao;this
-187;748;Nao;those
-188;749;Sim;those
-188;750;Nao;that
-188;751;Nao;these
-188;752;Nao;this
-189;753;Nao;these
-189;754;Sim;those
-189;755;Nao;this
-189;756;Nao;that
-190;757;Nao;This
-190;758;Nao;That
-190;759;Nao;These
-190;760;Sim;Those
-191;761;Nao;those
-191;762;Nao;that
-191;763;Nao;these
-191;764;Sim;this
-192;765;Nao;this
-192;766;Nao;these
-192;767;Nao;those
-192;768;Sim;that
-193;769;Nao;that
-193;770;Nao;these
-193;771;Sim;those
-193;772;Nao;this
-194;773;Nao;these
-194;774;Nao;those
-194;775;Nao;this
-194;776;Sim;that
-195;777;Nao;This/those
-195;778;Nao;This/that
-195;779;Sim;These/those
-195;780;Nao;These/that
-196;781;Nao;these
-196;782;Nao;this
-196;783;Sim;that
-196;784;Nao;those
-197;785;Sim;that
-197;786;Nao;this
-197;787;Nao;these
-197;788;Nao;those
-198;789;Nao;That
-198;790;Nao;These
-198;791;Sim;Those
-198;792;Nao;This
-199;793;Nao;Those
-199;794;Sim;That
-199;795;Nao;This
-199;796;Nao;These
-200;797;Nao;This
-200;798;Nao;That
-200;799;Sim;Those
-200;800;Nao;These
-201;801;Nao;does he look
-201;802;Nao;she looks
-201;803;Nao;she does look
-201;804;Sim;does she look
-202;805;Nao;leaving
-202;806;Nao;don't leave
-202;807;Nao;leave
-202;808;Sim;leaves
-203;809;Nao;Does/have
-203;810;Sim;Do/have
-203;811;Nao;Have/have
-203;812;Nao;Are/have
-204;813;Nao;likes/don't like
-204;814;Nao;like/don't like
-204;815;Nao;doesn't like/like
-204;816;Sim;likes/doesn't like
-205;817;Nao;don't start
-205;818;Nao;start
-205;819;Sim;starts
-205;820;Nao;starting
-206;821;Nao;is/opening
-206;822;Sim;does/open
-206;823;Nao;do/opens
-206;824;Nao;does/opens
-207;825;Sim;does/come
-207;826;Nao;does/comes
-207;827;Nao;is/come
-207;828;Nao;do/comes
-208;829;Nao;am
-208;830;Nao;coming
-208;831;Nao;be
-208;832;Sim;come
-209;833;Nao;rise
-209;834;Nao;never rise
-209;835;Nao;don't rise
-209;836;Sim;rises
-210;837;Nao;spoke
-210;838;Nao;is speaking
-210;839;Sim;speaks
-210;840;Nao;speak
-211;841;Nao;watching
-211;842;Nao;watched
-211;843;Sim;watch
-211;844;Nao;am watching
-212;845;Sim;plays
-212;846;Nao;play
-212;847;Nao;doesn't play
-212;848;Nao;playing
-213;849;Sim;travel
-213;850;Nao;are traveling
-213;851;Nao;travels
-213;852;Nao;traveled
-214;853;Sim;clean
-214;854;Nao;cleans
-214;855;Nao;cleaning
-214;856;Nao;cleaned
-215;857;Nao;not like
-215;858;Sim;doesn't like
-215;859;Nao;don't like
-215;860;Nao;likes
-216;861;Nao;likes/getting
-216;862;Sim;likes/gets
-216;863;Nao;likes/get
-216;864;Nao;like/gets
-217;865;Nao;selecting
-217;866;Sim;select
-217;867;Nao;selected
-217;868;Nao;selects
-218;869;Nao;has
-218;870;Sim;have
-218;871;Nao;having
-218;872;Nao;doesn't have
-219;873;Nao;sees/want
-219;874;Nao;sees/wants
-219;875;Nao;see/want
-219;876;Sim;see/wants
-220;877;Nao;travels 
-220;878;Sim;travel
-220;879;Nao;doesn't travel
-220;880;Nao;traveling
-221;881;Nao;needing
-221;882;Nao;needs
-221;883;Sim;need
-221;884;Nao;to need
-222;885;Nao;cook/love
-222;886;Nao;cook/loving
-222;887;Nao;cooking/loving
-222;888;Sim;cooks/love
-223;889;Sim;does/has
-223;890;Nao;do/has
-223;891;Nao;do/have
-223;892;Nao;does/have
-224;893;Nao;doesn't share
-224;894;Nao;sharing
-224;895;Nao;shares
-224;896;Sim;share
-225;897;Nao;likes
-225;898;Nao;like
-225;899;Nao;don't like
-225;900;Sim;doesn't like
-226;901;Nao;washing
-226;902;Nao;wash
-226;903;Nao;washed
-226;904;Sim;washes
-227;905;Sim;Carl
-227;906;Nao;My cousins
-227;907;Nao;Peter and I
-227;908;Nao;Alice and Mary
-228;909;Nao;Paul
-228;910;Sim;Peter and Sally
-228;911;Nao;Carla 
-228;912;Nao;My brother
-229;913;Nao;eat/taste
-229;914;Nao;eating/taste
-229;915;Nao;eating/tastes
-229;916;Sim;eat/tastes
-230;917;Sim;has
-230;918;Nao;have
-230;919;Nao;doesn't have
-230;920;Nao;having
-231;921;Nao;do/has
-231;922;Nao;do/have
-231;923;Sim;does/have
-231;924;Nao;does/has
-232;925;Sim;eat
-232;926;Nao;eats
-232;927;Nao;eaten
-232;928;Nao;eating
-233;929;Nao;are having
-233;930;Sim;have
-233;931;Nao;has
-233;932;Nao;does not have
-234;933;Sim;travel
-234;934;Nao;travels
-234;935;Nao;is traveling
-234;936;Nao;doesn't travel
-235;937;Nao;she does/sells
-235;938;Sim;she do/sells
-235;939;Nao;she does/sell
-235;940;Nao;she do/sell
-236;941;Nao;get up
-236;942;Sim;gets up
-236;943;Nao;got up
-236;944;Nao;is getting up
-237;945;Nao;am having
-237;946;Nao;had
-237;947;Sim;have
-237;948;Nao;has
-238;949;Nao;want to come
-238;950;Sim;do you want to come
-238;951;Nao;does she want to come
-238;952;Nao;you want to come
-239;953;Nao;snowed
-239;954;Sim;snows
-239;955;Nao;snow
-239;956;Nao;is snowing
-240;957;Nao;likes
-240;958;Nao;don't like
-240;959;Sim;doesn't like
-240;960;Nao;like
-241;961;Nao;knowing
-241;962;Nao;doesn't know
-241;963;Sim;don't know
-241;964;Nao;knows
-242;965;Nao;wake
-242;966;Nao;don't wake
-242;967;Sim;wakes
-242;968;Nao;doesn't wake
-243;969;Sim;tastes
-243;970;Nao;tasting
-243;971;Nao;taste
-243;972;Nao;don't taste
-244;973;Sim;come
-244;974;Nao;coming
-244;975;Nao;comes
-244;976;Nao;don't come
-245;977;Nao;sometimes
-245;978;Nao;don't
-245;979;Nao;never
-245;980;Sim;doesn't
-246;981;Nao;goes
-246;982;Nao;doesn't travel
-246;983;Nao;going
-246;984;Sim;travel
-247;985;Nao;doing
-247;986;Nao;making
-247;987;Sim;do
-247;988;Nao;don't do
-248;989;Nao;participates
-248;990;Nao;speaks
-248;991;Sim;participate
-248;992;Nao;talk
-249;993;Nao;drive
-249;994;Nao;travel
-249;995;Nao;go
-249;996;Sim;goes
-250;997;Nao;does/don't
-250;998;Nao;won't/can't
-250;999;Nao;do/can
-250;1000;Sim;don't/does
-251;1001;Sim;drink
-251;1002;Nao;eats
-251;1003;Nao;drinks
-251;1004;Nao;eat
-252;1005;Sim;doesn't
-252;1006;Nao;is
-252;1007;Nao;don't
-252;1008;Nao;to do
-253;1009;Nao;goes
-253;1010;Nao;doesn't go
-253;1011;Sim;go
-253;1012;Nao;likes
-254;1013;Nao;do
-254;1014;Nao;don't have
-254;1015;Sim;has
-254;1016;Nao;have
-255;1017;Nao;Do
-255;1018;Nao;Is
-255;1019;Sim;Does
-255;1020;Nao;Has
-256;1021;Nao;Does
-256;1022;Nao;Are
-256;1023;Nao;Doesn't
-256;1024;Sim;Do
-257;1025;Nao;Has
-257;1026;Nao;Do
-257;1027;Sim;Does
-257;1028;Nao;Is
-258;1029;Sim;don't
-258;1030;Nao;doesn't
-258;1031;Nao;haven't
-258;1032;Nao;does
-259;1033;Nao;plays
-259;1034;Nao;doesn't play
-259;1035;Nao;playing
-259;1036;Sim;play
-260;1037;Nao;have
-260;1038;Sim;watch
-260;1039;Nao;look
-260;1040;Nao;listen to
-261;1041;Nao;doesn't lives
-261;1042;Sim;lives
-261;1043;Nao;live
-261;1044;Nao;don't live
-262;1045;Nao;don't like
-262;1046;Sim;doesn't like
-262;1047;Nao;like
-262;1048;Nao;does not likes
-263;1049;Nao;doesn't eats
-263;1050;Nao;don't eat
-263;1051;Sim;doesn't eat
-263;1052;Nao;eat
-264;1053;Nao;want
-264;1054;Sim;doesn't want
-264;1055;Nao;doesn't wants
-264;1056;Nao;don't want
-265;1057;Nao;doesn't drives
-265;1058;Nao;drive
-265;1059;Nao;driving
-265;1060;Sim;drives
-266;1061;Nao;living
-266;1062;Nao;doesn't live
-266;1063;Sim;don't live
-266;1064;Nao;lives
-267;1065;Nao;has
-267;1066;Nao;had
-267;1067;Nao;having
-267;1068;Sim;have
-268;1069;Sim;likes
-268;1070;Nao;do
-268;1071;Nao;does
-268;1072;Nao;like
-269;1073;Nao;like/like
-269;1074;Sim;like/don't like
-269;1075;Nao;don't like/like
-269;1076;Nao;likes/doesn't like
-270;1077;Nao;begin
-270;1078;Nao;beginning
-270;1079;Nao;don't begin
-270;1080;Sim;begins
-271;1081;Nao;having
-271;1082;Nao;doesn't have
-271;1083;Sim;have
-271;1084;Nao;has
-272;1085;Nao;doesn't want
-272;1086;Sim;don't want
-272;1087;Nao;want
-272;1088;Nao;wanted
-273;1089;Nao;don't need
-273;1090;Sim;needs
-273;1091;Nao;needing
-273;1092;Nao;need
-274;1093;Nao;doesn't have
-274;1094;Nao;have no
-274;1095;Sim;don't have
-274;1096;Nao;haven't
-275;1097;Nao;go
-275;1098;Nao;don't go
-275;1099;Nao;going
-275;1100;Sim;goes
-276;1101;Nao;spending
-276;1102;Nao;doesn't spend
-276;1103;Nao;spends
-276;1104;Sim;spend
-277;1105;Nao;wanting
-277;1106;Nao;wants
-277;1107;Nao;do want
-277;1108;Sim;want
-278;1109;Sim;to drive
-278;1110;Nao;drive
-278;1111;Nao;drives
-278;1112;Nao;to driving
-279;1113;Nao;is
-279;1114;Nao;are
-279;1115;Sim;does
-279;1116;Nao;isn't
-280;1117;Sim;plays
-280;1118;Nao;playing
-280;1119;Nao;play
-280;1120;Nao;runs
-281;1121;Nao;swimming
-281;1122;Nao;swim
-281;1123;Nao;swam
-281;1124;Sim;swims
-282;1125;Nao;does
-282;1126;Nao;doesn't
-282;1127;Sim;don't
-282;1128;Nao;aren't
-283;1129;Sim;Do
-283;1130;Nao;Does
-283;1131;Nao;Are
-283;1132;Nao;Is
-284;1133;Nao;hasn't
-284;1134;Sim;has
-284;1135;Nao;have
-284;1136;Nao;isn't
-285;1137;Nao;play
-285;1138;Nao;cleans
-285;1139;Nao;don't play
-285;1140;Sim;clean
-286;1141;Nao;isn't
-286;1142;Nao;don't
-286;1143;Nao;is
-286;1144;Sim;doesn't
-287;1145;Nao;Are
-287;1146;Sim;Do
-287;1147;Nao;Doesn't
-287;1148;Nao;Does
-288;1149;Nao;doesn't ride
-288;1150;Nao;ride
-288;1151;Nao;is riding
-288;1152;Sim;rides
-289;1153;Nao;doesn't love/reading
-289;1154;Sim;loves/reads
-289;1155;Nao;loving/reading
-289;1156;Nao;loves/don't read
-290;1157;Nao;gone
-290;1158;Sim;go
-290;1159;Nao;goes
-290;1160;Nao;going
-291;1161;Nao;studying
-291;1162;Sim;studies
-291;1163;Nao;doesn't study
-291;1164;Nao;study
-292;1165;Sim;Does/cook
-292;1166;Nao;Does/cooks
-292;1167;Nao;Do/cooks
-292;1168;Nao;Do/cook
-293;1169;Nao;speaking
-293;1170;Sim;speaks
-293;1171;Nao;speak
-293;1172;Nao;don't speak
-294;1173;Nao;doesn't watch
-294;1174;Nao;watching
-294;1175;Sim;watch
-294;1176;Nao;watches
-295;1177;Nao;played
-295;1178;Nao;don't play
-295;1179;Nao;play
-295;1180;Sim;doesn't play
-296;1181;Nao;Do/plays
-296;1182;Nao;Does/plays
-296;1183;Nao;Do/play
-296;1184;Sim;Does/play
-297;1185;Nao;making
-297;1186;Nao;doesn't make
-297;1187;Nao;makes
-297;1188;Sim;make
-298;1189;Sim;sleep
-298;1190;Nao;don't sleep
-298;1191;Nao;sleeps
-298;1192;Nao;sleeping
-299;1193;Nao;want
-299;1194;Nao;like
-299;1195;Nao;wants
-299;1196;Sim;likes
-300;1197;Sim;Does/have
-300;1198;Nao;Do/has
-300;1199;Nao;Does/has
-300;1200;Nao;Do/have
-301;1201;Nao;nervous
-301;1202;Nao;sad
-301;1203;Sim;friendly
-301;1204;Nao;unfriendly
-302;1205;Nao;soft
-302;1206;Nao;primary
-302;1207;Sim;polite
-302;1208;Nao;informative
-303;1209;Nao;unclear
-303;1210;Nao;awesome
-303;1211;Sim;awful
-303;1212;Nao;boring
-304;1213;Nao;awful
-304;1214;Sim;interesting
-304;1215;Nao;handsome
-304;1216;Nao;boring
-305;1217;Nao;beautiful
-305;1218;Sim;ugly
-305;1219;Nao;smart
-305;1220;Nao;handsome
-306;1221;Nao;agile
-306;1222;Sim;comfortable
-306;1223;Nao;uncomfortable
-306;1224;Nao;wet
-307;1225;Nao;calm
-307;1226;Sim;difficult
-307;1227;Nao;easy-going
-307;1228;Nao;easy
-308;1229;Nao;dirty
-308;1230;Nao;disgusting
-308;1231;Nao;messy
-308;1232;Sim;clean
-309;1233;Nao;shinny
-309;1234;Nao;bright
-309;1235;Nao;outrageous
-309;1236;Sim;dark
-310;1237;Sim;handsome
-310;1238;Nao;ugly
-310;1239;Nao;disgusting
-310;1240;Nao;lazy
-311;1241;Sim;heavy
-311;1242;Nao;easy
-311;1243;Nao;easy-going
-311;1244;Nao;light
-312;1245;Sim;large
-312;1246;Nao;little
-312;1247;Nao;small
-312;1248;Nao;agile
-313;1249;Nao;tiny
-313;1250;Nao;short
-313;1251;Sim;long
-313;1252;Nao;boring
-314;1253;Nao;mess
-314;1254;Nao;tiny
-314;1255;Nao;tidy
-314;1256;Sim;messy
-315;1257;Nao;interesting
-315;1258;Sim;new
-315;1259;Nao;old
-315;1260;Nao;older
-316;1261;Nao;crowded
-316;1262;Nao;noisy
-316;1263;Sim;quiet
-316;1264;Nao;easy
-317;1265;Nao;unclear
-317;1266;Nao;miserable
-317;1267;Sim;rich
-317;1268;Nao;needy
-318;1269;Nao;crowded
-318;1270;Sim;sharp
-318;1271;Nao;boring
-318;1272;Nao;dull
-319;1273;Nao;slow/short
-319;1274;Nao;slow/fast
-319;1275;Nao;fast/long
-319;1276;Sim;slow/long
-320;1277;Nao;lazy
-320;1278;Nao;hard
-320;1279;Nao;rough
-320;1280;Sim;soft
-321;1281;Nao;dull
-321;1282;Nao;lazy
-321;1283;Nao;tiny
-321;1284;Sim;straight
-322;1285;Nao;small
-322;1286;Nao;fat
-322;1287;Nao;short
-322;1288;Sim;tall
-323;1289;Sim;tight
-323;1290;Nao;difficult
-323;1291;Nao;noisy
-323;1292;Nao;tall
-324;1293;Nao;thick
-324;1294;Sim;weak
-324;1295;Nao;strong
-324;1296;Nao;tiny
-325;1297;Nao;Children
-325;1298;Nao;Childish
-325;1299;Nao;Youth
-325;1300;Sim;Young
-326;1301;Sim;old
-326;1302;Nao;pretty
-326;1303;Nao;beautiful
-326;1304;Nao;new
-327;1305;Sim;fast
-327;1306;Nao;lazy
-327;1307;Nao;easy-going
-327;1308;Nao;slow
-328;1309;Nao;hot
-328;1310;Sim;empty
-328;1311;Nao;full
-328;1312;Nao;thick
-329;1313;Sim;short
-329;1314;Nao;thin
-329;1315;Nao;thick
-329;1316;Nao;tall
-330;1317;Nao;boring
-330;1318;Sim;bad
-330;1319;Nao;interesting
-330;1320;Nao;good
-331;1321;Nao;tight
-331;1322;Sim;loose
-331;1323;Nao;tied
-331;1324;Nao;tiny
-332;1325;Nao;exhausted
-332;1326;Nao;frustrated
-332;1327;Sim;confusing
-332;1328;Nao;alarming
-333;1329;Nao;unable
-333;1330;Nao;wise
-333;1331;Nao;forgetful
-333;1332;Sim;jealous
-334;1333;Nao;gross
-334;1334;Sim;huge
-334;1335;Nao;loud
-334;1336;Nao;rich
-335;1337;Sim;shiny
-335;1338;Nao;right
-335;1339;Nao;young
-335;1340;Nao;organized
-336;1341;Sim;busy
-336;1342;Nao;hurry
-336;1343;Nao;calm
-336;1344;Nao;fast
-337;1345;Nao;correctly
-337;1346;Nao;better
-337;1347;Nao;well
-337;1348;Sim;good
-338;1349;Nao;finest
-338;1350;Nao;bad
-338;1351;Nao;best
-338;1352;Sim;great
-339;1353;Sim;healthy
-339;1354;Nao;relaxed
-339;1355;Nao;growing
-339;1356;Nao;variety
-340;1357;Nao;self
-340;1358;Sim;unfair
-340;1359;Nao;poor
-340;1360;Nao;tired
-341;1361;Nao;have
-341;1362;Nao;weighted
-341;1363;Sim;heavy
-341;1364;Nao;weight
-342;1365;Sim;tall
-342;1366;Nao;fascinating
-342;1367;Nao;famous
-342;1368;Nao;big
-343;1369;Sim;tired
-343;1370;Nao;unpleasant
-343;1371;Nao;silly
-343;1372;Nao;foolish
-344;1373;Nao;bad
-344;1374;Nao;nice
-344;1375;Sim;expensive
-344;1376;Nao;cheap
-345;1377;Nao;"Smart and kind."
-345;1378;Sim;"Cold and dry."
-345;1379;Nao;"Cold and reserved."
-345;1380;Nao;"Attractive and friendly."
-346;1381;Nao;healthy
-346;1382;Sim;talkative
-346;1383;Nao;quiet
-346;1384;Nao;shy
-347;1385;Sim;noisy
-347;1386;Nao;nice
-347;1387;Nao;lovely
-347;1388;Nao;fun
-348;1389;Nao;dull
-348;1390;Sim;funny
-348;1391;Nao;boring
-348;1392;Nao;sad
-349;1393;Nao;happy
-349;1394;Nao;energetic
-349;1395;Nao;cheap
-349;1396;Sim;lazy
-350;1397;Nao;nice
-350;1398;Sim;expensive
-350;1399;Nao;hungry
-350;1400;Nao;desperate
-351;1401;Nao;outrageous
-351;1402;Nao;fool
-351;1403;Sim;colorful
-351;1404;Nao;talkative
-352;1405;Nao;annoying
-352;1406;Nao;silly
-352;1407;Nao;dull
-352;1408;Sim;friendly
-353;1409;Nao;fool
-353;1410;Nao;expensive
-353;1411;Sim;angry
-353;1412;Nao;clumsy
-354;1413;Sim;hungry
-354;1414;Nao;boring
-354;1415;Nao;amazing
-354;1416;Nao;happy
-355;1417;Nao;bothersome
-355;1418;Sim;energetic
-355;1419;Nao;sad
-355;1420;Nao;annoying
-356;1421;Nao;amazing/sad
-356;1422;Nao;surreal/amazing
-356;1423;Nao;boring/unexpected
-356;1424;Sim;intense/exciting
-357;1425;Nao;happy/exciting
-357;1426;Sim;expensive/cheap
-357;1427;Nao;beautiful/pretty
-357;1428;Nao;funny/long
-358;1429;Sim;short
-358;1430;Nao;expensive
-358;1431;Nao;cheap
-358;1432;Nao;round
-359;1433;Nao;cheap
-359;1434;Nao;short
-359;1435;Sim;weak
-359;1436;Nao;happy
-360;1437;Nao;big/weak
-360;1438;Nao;strong/little
-360;1439;Nao;cheap/tiny
-360;1440;Sim;slow/fast
-361;1441;Nao;amazing
-361;1442;Sim;hard
-361;1443;Nao;easy
-361;1444;Nao;strong
-362;1445;Nao;annoying
-362;1446;Nao;dull
-362;1447;Nao;boring
-362;1448;Sim;awesome
-363;1449;Nao;happy
-363;1450;Nao;angry
-363;1451;Nao;fool
-363;1452;Sim;annoying
-364;1453;Sim;pretty/ugly
-364;1454;Nao;awesome/pretty
-364;1455;Nao;happy/energetic
-364;1456;Nao;dull/annoying
-365;1457;Sim;curly
-365;1458;Nao;blond
-365;1459;Nao;brown
-365;1460;Nao;beautiful
-366;1461;Sim;long
-366;1462;Nao;brown
-366;1463;Nao;curly
-366;1464;Nao;wavy
-367;1465;Nao;long
-367;1466;Nao;wet
-367;1467;Nao;expensive
-367;1468;Sim;handsome
-368;1469;Nao;spicy/dirty
-368;1470;Nao;creamy/good
-368;1471;Nao;expensive/best
-368;1472;Sim;classic/special
-369;1473;Nao;slowly/fastly
-369;1474;Nao;silently/loudly
-369;1475;Sim;silent/loud
-369;1476;Nao;slow/fast
-370;1477;Sim;talented/well
-370;1478;Nao;experienced/good
-370;1479;Nao;good/nice
-370;1480;Nao;excellent/well
-371;1481;Sim;basic
-371;1482;Nao;nice
-371;1483;Nao;easier
-371;1484;Nao;simply
-372;1485;Nao;tiny
-372;1486;Nao;short
-372;1487;Sim;wild
-372;1488;Nao;little
-373;1489;Nao;regular
-373;1490;Nao;holy
-373;1491;Nao;rare
-373;1492;Sim;smart
-374;1493;Nao;interested
-374;1494;Nao;selfish
-374;1495;Sim;lazy
-374;1496;Nao;hard-working
-375;1497;Nao;agile
-375;1498;Nao;rapid
-375;1499;Nao;quick
-375;1500;Sim;huge
-376;1501;Sim;determined
-376;1502;Nao;inflexible
-376;1503;Nao;rude
-376;1504;Nao;selfish
-377;1505;Sim;old-fashioned
-377;1506;Nao;thin
-377;1507;Nao;tall
-377;1508;Nao;awesome
-378;1509;Nao;fascinated
-378;1510;Nao;fascinator
-378;1511;Sim;fascinating
-378;1512;Nao;fascinates
-379;1513;Nao;comforted
-379;1514;Sim;comfortable
-379;1515;Nao;comfortably
-379;1516;Nao;comforting
-380;1517;Nao;nice
-380;1518;Nao;beautiful
-380;1519;Sim;boring
-380;1520;Nao;interesting
-381;1521;Nao;nicely
-381;1522;Nao;calm
-381;1523;Sim;beautiful
-381;1524;Nao;talented
-382;1525;Nao;difficulty
-382;1526;Sim;easy
-382;1527;Nao;ease
-382;1528;Nao;difficult
-383;1529;Nao;Angry
-383;1530;Sim;Happy
-383;1531;Nao;Unfriendly
-383;1532;Nao;Unhappy
-384;1533;Sim;poor
-384;1534;Nao;rich
-384;1535;Nao;wealthy
-384;1536;Nao;pretty
-385;1537;Nao;thick
-385;1538;Sim;hot
-385;1539;Nao;cold
-385;1540;Nao;snowy
-386;1541;Nao;noise
-386;1542;Nao;noiselessly
-386;1543;Nao;noiseless
-386;1544;Sim;noisy
-387;1545;Sim;short
-387;1546;Nao;long-lasting
-387;1547;Nao;long
-387;1548;Nao;lengthy
-388;1549;Nao;stimulating
-388;1550;Sim;boring
-388;1551;Nao;exciting
-388;1552;Nao;expensive
-389;1553;Nao;full
-389;1554;Nao;empty
-389;1555;Nao;generous
-389;1556;Sim;crowded
-390;1557;Nao;energetic
-390;1558;Nao;crowded
-390;1559;Sim;lazy
-390;1560;Nao;enthusiastic
-391;1561;Nao;loud
-391;1562;Nao;talkative
-391;1563;Sim;shy
-391;1564;Nao;outgoing
-392;1565;Nao;shy
-392;1566;Nao;introverted
-392;1567;Nao;outgoing
-392;1568;Sim;selfish
-393;1569;Nao;clean
-393;1570;Nao;loud
-393;1571;Nao;ordered
-393;1572;Sim;messy
-394;1573;Nao;shiny
-394;1574;Nao;lazy
-394;1575;Sim;hardworking
-394;1576;Nao;inactive
-395;1577;Nao;truthful
-395;1578;Nao;easy
-395;1579;Nao;honest
-395;1580;Sim;dishonest
-396;1581;Nao;ordered
-396;1582;Nao;polite
-396;1583;Sim;impolite
-396;1584;Nao;respectful
-397;1585;Sim;irresponsible
-397;1586;Nao;sensible
-397;1587;Nao;careful
-397;1588;Nao;full
-398;1589;Sim;impatient
-398;1590;Nao;relaxed
-398;1591;Nao;calm
-398;1592;Nao;thick
-399;1593;Nao;tight
-399;1594;Nao;late
-399;1595;Nao;unpunctual
-399;1596;Sim;punctual
-400;1597;Sim;talkative
-400;1598;Nao;quiet
-400;1599;Nao;introverted
-400;1600;Nao;punctual
-401;1601;Nao;Who
-401;1602;Nao;Whose
-401;1603;Sim;When
-401;1604;Nao;How many
-402;1605;Nao;Who
-402;1606;Sim;How
-402;1607;Nao;How often
-402;1608;Nao;Which
-403;1609;Nao;Whose
-403;1610;Sim;How much
-403;1611;Nao;How long
-403;1612;Nao;Where
-404;1613;Sim;How much
-404;1614;Nao;When
-404;1615;Nao;How often
-404;1616;Nao;How long
-405;1617;Sim;How many
-405;1618;Nao;How long
-405;1619;Nao;How much
-405;1620;Nao;How often
-406;1621;Nao;How much
-406;1622;Nao;How many
-406;1623;Nao;How often
-406;1624;Sim;How old
-407;1625;Nao;How many
-407;1626;Nao;Which
-407;1627;Nao;What
-407;1628;Sim;How often
-408;1629;Nao;How often
-408;1630;Nao;Which
-408;1631;Sim;How far
-408;1632;Nao;How
-409;1633;Nao;How
-409;1634;Nao;How far
-409;1635;Sim;How long
-409;1636;Nao;How often
-410;1637;Nao;Which
-410;1638;Sim;What
-410;1639;Nao;When
-410;1640;Nao;Where
-411;1641;Nao;How long
-411;1642;Sim;What kind of
-411;1643;Nao;Which
-411;1644;Nao;How many
-412;1645;Sim;What time
-412;1646;Nao;How long
-412;1647;Nao;What
-412;1648;Nao;How many
-413;1649;Nao;Which
-413;1650;Sim;When
-413;1651;Nao;What
-413;1652;Nao;How many
-414;1653;Nao;When
-414;1654;Sim;Where
-414;1655;Nao;What
-414;1656;Nao;Which
-415;1657;Nao;How long
-415;1658;Nao;Which
-415;1659;Sim;Who
-415;1660;Nao;When
-416;1661;Sim;Who
-416;1662;Nao;Whose
-416;1663;Nao;How
-416;1664;Nao;What
-417;1665;Sim;Who
-417;1666;Nao;How
-417;1667;Nao;Where
-417;1668;Nao;Whose
-418;1669;Nao;Where
-418;1670;Sim;Whose
-418;1671;Nao;When
-418;1672;Nao;Who
-419;1673;Nao;Whose
-419;1674;Sim;Who
-419;1675;Nao;Which
-419;1676;Nao;What
-420;1677;Nao;When
-420;1678;Sim;Who
-420;1679;Nao;Which
-420;1680;Nao;Whose
-421;1681;Nao;Which
-421;1682;Nao;Do
-421;1683;Nao;What
-421;1684;Sim;How
-422;1685;Sim;How
-422;1686;Nao;How many
-422;1687;Nao;What
-422;1688;Nao;Which
-423;1689;Nao;How many
-423;1690;Sim;How
-423;1691;Nao;What
-423;1692;Nao;Which
-424;1693;Sim;How long
-424;1694;Nao;How
-424;1695;Nao;Where
-424;1696;Nao;When
-425;1697;Nao;How many
-425;1698;Sim;How much
-425;1699;Nao;How long
-425;1700;Nao;Which
-426;1701;Nao;How far
-426;1702;Sim;How many
-426;1703;Nao;How long
-426;1704;Nao;How much
-427;1705;Sim;How old/When
-427;1706;Nao;When/How old
-427;1707;Nao;Who/How old
-427;1708;Nao;How old/Who
-428;1709;Sim;How often
-428;1710;Nao;How much
-428;1711;Nao;How many
-428;1712;Nao;What
-429;1713;Sim;What
-429;1714;Nao;When
-429;1715;Nao;Whose
-429;1716;Nao;Where
-430;1717;Sim;What kind of
-430;1718;Nao;When
-430;1719;Nao;Where
-430;1720;Nao;How
-431;1721;Sim;What time
-431;1722;Nao;Which
-431;1723;Nao;How long
-431;1724;Nao;What kind of
-432;1725;Nao;What kind of
-432;1726;Nao;How long
-432;1727;Nao;How many
-432;1728;Sim;What time
-433;1729;Nao;she has
-433;1730;Sim;does she have
-433;1731;Nao;is she having
-433;1732;Nao;we have
-434;1733;Nao;Which
-434;1734;Nao;Who
-434;1735;Sim;What
-434;1736;Nao;When
-435;1737;Nao;What
-435;1738;Sim;When was
-435;1739;Nao;Where was
-435;1740;Nao;When is
-436;1741;Nao;How
-436;1742;Sim;What
-436;1743;Nao;Which
-436;1744;Nao;When
-437;1745;Nao;Where
-437;1746;Sim;What
-437;1747;Nao;How
-437;1748;Nao;When
-438;1749;Sim;Who
-438;1750;Nao;When
-438;1751;Nao;What
-438;1752;Nao;Where
-439;1753;Nao;Where
-439;1754;Sim;When
-439;1755;Nao;How
-439;1756;Nao;What
-440;1757;Nao;How many
-440;1758;Nao;How
-440;1759;Sim;How much
-440;1760;Nao;Where
-441;1761;Nao;Where
-441;1762;Nao;When
-441;1763;Sim;How many
-441;1764;Nao;How much
-442;1765;Nao;When
-442;1766;Sim;Where
-442;1767;Nao;Whose
-442;1768;Nao;How many
-443;1769;Nao;When
-443;1770;Sim;Where
-443;1771;Nao;How
-443;1772;Nao;Which
-444;1773;Nao;Where
-444;1774;Nao;When
-444;1775;Nao;How
-444;1776;Sim;Which
-445;1777;Nao;Which
-445;1778;Nao;Where
-445;1779;Sim;What
-445;1780;Nao;How much
-446;1781;Nao;"Where is your office?"
-446;1782;Nao;"What time do you wake up?"
-446;1783;Nao;"Why don't you go to bed?"
-446;1784;Sim;"Why are you so tired?"
-447;1785;Nao;do you
-447;1786;Nao;can you
-447;1787;Nao;you don't
-447;1788;Sim;don't you
-448;1789;Nao;did/traveled
-448;1790;Sim;did/travel
-448;1791;Nao;do/travel
-448;1792;Nao;does/travel
-449;1793;Nao;When are you 
-449;1794;Sim;Where are you
-449;1795;Nao;Where you are 
-449;1796;Nao;When you are
-450;1797;Nao;When/start
-450;1798;Nao;When/starts
-450;1799;Nao;What/starts
-450;1800;Sim;What/start
-451;1801;Nao;How
-451;1802;Nao;Which
-451;1803;Sim;What
-451;1804;Nao;Why
-452;1805;Nao;Who
-452;1806;Sim;What
-452;1807;Nao;Where
-452;1808;Nao;How
-453;1809;Nao;When
-453;1810;Nao;Where
-453;1811;Sim;Who
-453;1812;Nao;What
-454;1813;Nao;Whose
-454;1814;Nao;When
-454;1815;Sim;Who
-454;1816;Nao;Why
-455;1817;Sim;Where
-455;1818;Nao;What
-455;1819;Nao;Which
-455;1820;Nao;Who
-456;1821;Nao;Where
-456;1822;Nao;Whose
-456;1823;Sim;Which
-456;1824;Nao;Who
-457;1825;Nao;Which
-457;1826;Sim;Where
-457;1827;Nao;Whose
-457;1828;Nao;Who
-458;1829;Nao;Where
-458;1830;Nao;Which
-458;1831;Nao;Who
-458;1832;Sim;Whose
-459;1833;Sim;How long
-459;1834;Nao;What
-459;1835;Nao;Which
-459;1836;Nao;Where
-460;1837;Nao;Where
-460;1838;Nao;Which
-460;1839;Nao;When
-460;1840;Sim;What
-461;1841;Sim;What time
-461;1842;Nao;How long
-461;1843;Nao;What
-461;1844;Nao;How often
-462;1845;Nao;What
-462;1846;Nao;How long
-462;1847;Nao;Whose
-462;1848;Sim;How often
-463;1849;Sim;Where
-463;1850;Nao;When
-463;1851;Nao;Why
-463;1852;Nao;Who
-464;1853;Nao;When
-464;1854;Nao;What
-464;1855;Sim;Why
-464;1856;Nao;Which
-465;1857;Sim;When did you arrive?
-465;1858;Nao;Where did you arrive?
-465;1859;Nao;When will you finish it?
-465;1860;Nao;What did you do?
-466;1861;Sim;does
-466;1862;Nao;is
-466;1863;Nao;has
-466;1864;Nao;do
-467;1865;Nao;don't I
-467;1866;Sim;can I find
-467;1867;Nao;I can't find
-467;1868;Nao;is
-468;1869;Nao;Fast
-468;1870;Nao;Carefully
-468;1871;Sim;Never
-468;1872;Nao;Well
-469;1873;Sim;is
-469;1874;Nao;will
-469;1875;Nao;does
-469;1876;Nao;are
-470;1877;Nao;Why
-470;1878;Sim;Where
-470;1879;Nao;What
-470;1880;Nao;When
-471;1881;Sim;Who
-471;1882;Nao;When
-471;1883;Nao;Why
-471;1884;Nao;What
-472;1885;Nao;"What are you doing here?"
-472;1886;Sim;"Why did you go to work on Saturday?"
-472;1887;Nao;"Why did you watch this movie?"
-472;1888;Nao;"When did you go to work?"
-473;1889;Nao;do/leave
-473;1890;Sim;does/leave
-473;1891;Nao;does/leaves
-473;1892;Nao;do/leaves
-474;1893;Nao;going
-474;1894;Nao;now
-474;1895;Nao;staying
-474;1896;Sim;parents
-475;1897;Nao;When
-475;1898;Nao;What
-475;1899;Nao;Who
-475;1900;Sim;Where
-476;1901;Nao;What's
-476;1902;Sim;Where
-476;1903;Nao;Who
-476;1904;Nao;What
-477;1905;Nao;live
-477;1906;Nao;does live
-477;1907;Nao;living
-477;1908;Sim;lives
-478;1909;Nao;is where
-478;1910;Sim;where is
-478;1911;Nao;who is
-478;1912;Nao;when is
-479;1913;Nao;How is
-479;1914;Nao;Who is
-479;1915;Sim;What is
-479;1916;Nao;Is what
-480;1917;Sim;How
-480;1918;Nao;What
-480;1919;Nao;Do
-480;1920;Nao;Which
-481;1921;Nao;When is
-481;1922;Nao;Who are
-481;1923;Sim;Who is
-481;1924;Nao;How is
-482;1925;Nao;Who
-482;1926;Nao;When
-482;1927;Nao;Where
-482;1928;Sim;What
-483;1929;Nao;When is
-483;1930;Nao;How is
-483;1931;Sim;Where is
-483;1932;Nao;Is where
-484;1933;Nao;Which
-484;1934;Sim;How
-484;1935;Nao;Who
-484;1936;Nao;What
-485;1937;Nao;When
-485;1938;Sim;Whose
-485;1939;Nao;What kind of
-485;1940;Nao;How many
-486;1941;Nao;Which
-486;1942;Sim;How
-486;1943;Nao;What
-486;1944;Nao;Who
-487;1945;Sim;How much
-487;1946;Nao;How long
-487;1947;Nao;How many
-487;1948;Nao;How far
-488;1949;Nao;How much
-488;1950;Sim;How many
-488;1951;Nao;How long
-488;1952;Nao;Who
-489;1953;Nao;How many
-489;1954;Nao;When
-489;1955;Sim;How old
-489;1956;Nao;How often
-490;1957;Nao;What kind of
-490;1958;Nao;What
-490;1959;Nao;Which
-490;1960;Sim;How often
-491;1961;Nao;Which
-491;1962;Nao;How many
-491;1963;Nao;What
-491;1964;Sim;Why
-492;1965;Nao;How many
-492;1966;Nao;Which
-492;1967;Nao;What
-492;1968;Sim;Why
-493;1969;Nao;How 
-493;1970;Nao;How many
-493;1971;Nao;How often
-493;1972;Sim;How long
-494;1973;Nao;Which
-494;1974;Sim;What
-494;1975;Nao;How
-494;1976;Nao;When
-495;1977;Sim;What kind of
-495;1978;Nao;How
-495;1979;Nao;How long
-495;1980;Nao;How often
-496;1981;Nao;Which
-496;1982;Sim;What time
-496;1983;Nao;What
-496;1984;Nao;What kind of
-497;1985;Sim;When
-497;1986;Nao;What kind of
-497;1987;Nao;How many
-497;1988;Nao;Whose
-498;1989;Nao;When
-498;1990;Sim;Where
-498;1991;Nao;What kind of
-498;1992;Nao;Who
-499;1993;Nao;Where
-499;1994;Nao;When
-499;1995;Sim;Which
-499;1996;Nao;What kind of
-500;1997;Sim;Whose
-500;1998;Nao;When
-500;1999;Nao;What
-500;2000;Nao;What kind of
-501;2001;Nao;an
-501;2002;Sim;a
-501;2003;Nao;any
-501;2004;Nao;some
-502;2005;Sim;a/an
-502;2006;Nao;a/a
-502;2007;Nao;some/an
-502;2008;Nao;a/some
-503;2009;Nao;a/an
-503;2010;Sim;a/some
-503;2011;Nao;some/some
-503;2012;Nao;some/an
-504;2013;Nao;some/some
-504;2014;Nao;a/some
-504;2015;Nao;a/a
-504;2016;Sim;some/a
-505;2017;Sim;an/a
-505;2018;Nao;a/some
-505;2019;Nao;a/a
-505;2020;Nao;an/some
-506;2021;Nao;an/some
-506;2022;Sim;an/a
-506;2023;Nao;an/an
-506;2024;Nao;a/an
-507;2025;Nao;the
-507;2026;Nao;a
-507;2027;Nao;some
-507;2028;Sim;an
-508;2029;Sim;an
-508;2030;Nao;a
-508;2031;Nao;any
-508;2032;Nao;some
-509;2033;Sim;a
-509;2034;Nao;an
-509;2035;Nao;some
-509;2036;Nao;the
-510;2037;Nao;any
-510;2038;Nao;a
-510;2039;Sim;an
-510;2040;Nao;some
-511;2041;Nao;any
-511;2042;Sim;an
-511;2043;Nao;a
-511;2044;Nao;many
-512;2045;Sim;an
-512;2046;Nao;a
-512;2047;Nao;some
-512;2048;Nao;any
-513;2049;Sim;an
-513;2050;Nao;a
-513;2051;Nao;good
-513;2052;Nao;some
-514;2053;Nao;creative
-514;2054;Nao;smart
-514;2055;Sim;innovative
-514;2056;Nao;hard-working
-515;2057;Sim;an
-515;2058;Nao;the
-515;2059;Nao;any
-515;2060;Nao;a
-516;2061;Nao;any
-516;2062;Nao;a
-516;2063;Sim;an
-516;2064;Nao;the
-517;2065;Nao;an
-517;2066;Nao;a
-517;2067;Sim;some
-517;2068;Nao;any
-518;2069;Nao;an
-518;2070;Nao;a
-518;2071;Sim;some
-518;2072;Nao;any
-519;2073;Nao;a
-519;2074;Nao;any
-519;2075;Sim;an
-519;2076;Nao;some
-520;2077;Nao;an
-520;2078;Nao;a
-520;2079;Sim;any
-520;2080;Nao;some
-521;2081;Nao;any
-521;2082;Sim;a
-521;2083;Nao;an
-521;2084;Nao;some
-522;2085;Sim;some
-522;2086;Nao;any
-522;2087;Nao;a
-522;2088;Nao;an
-523;2089;Sim;some
-523;2090;Nao;many
-523;2091;Nao;an
-523;2092;Nao;a
-524;2093;Nao;some
-524;2094;Nao;a
-524;2095;Sim;any
-524;2096;Nao;an
-525;2097;Sim;some
-525;2098;Nao;the
-525;2099;Nao;a
-525;2100;Nao;an
-526;2101;Nao;some
-526;2102;Nao;an
-526;2103;Nao;a
-526;2104;Sim;any
-527;2105;Sim;some
-527;2106;Nao;a
-527;2107;Nao;the
-527;2108;Nao;an
-528;2109;Nao;an
-528;2110;Nao;some
-528;2111;Sim;a
-528;2112;Nao;any
-529;2113;Nao;an/some
-529;2114;Sim;a/some
-529;2115;Nao;an/a
-529;2116;Nao;any/some
-530;2117;Nao;any
-530;2118;Sim;a
-530;2119;Nao;some
-530;2120;Nao;an
-531;2121;Nao;any/some
-531;2122;Sim;some/any
-531;2123;Nao;a/some
-531;2124;Nao;a/an
-532;2125;Nao;water/air
-532;2126;Nao;milk/juice
-532;2127;Sim;apples/pears
-532;2128;Nao;news/information
-533;2129;Nao;any/some
-533;2130;Nao;an/some
-533;2131;Nao;some/some
-533;2132;Sim;a/some
-534;2133;Nao;an
-534;2134;Nao;any
-534;2135;Sim;some
-534;2136;Nao;a
-535;2137;Nao;any
-535;2138;Sim;some
-535;2139;Nao;a
-535;2140;Nao;an
-536;2141;Nao;A/an
-536;2142;Nao;The/any
-536;2143;Nao;A/some
-536;2144;Sim;The/some
-537;2145;Nao;a/a
-537;2146;Sim;an/a
-537;2147;Nao;a/the
-537;2148;Nao;an/one
-538;2149;Sim;any
-538;2150;Nao;an
-538;2151;Nao;they
-538;2152;Nao;some
-539;2153;Nao;a
-539;2154;Nao;an
-539;2155;Sim;any
-539;2156;Nao;some
-540;2157;Nao;advice/friends
-540;2158;Nao;furniture/chairs
-540;2159;Sim;money/news
-540;2160;Nao;meetings/offices
-541;2161;Nao;some
-541;2162;Nao;many
-541;2163;Nao;a
-541;2164;Sim;any
-542;2165;Nao;much
-542;2166;Nao;a
-542;2167;Nao;some
-542;2168;Sim;any
-543;2169;Nao;accessible
-543;2170;Nao;awesome
-543;2171;Sim;great
-543;2172;Nao;excellent
-544;2173;Nao;lawyer
-544;2174;Nao;journalist
-544;2175;Sim;architect
-544;2176;Nao;geologist
-545;2177;Sim;a/an
-545;2178;Nao;a/a
-545;2179;Nao;an/a
-545;2180;Nao;an/an
-546;2181;Nao;one
-546;2182;Sim;some
-546;2183;Nao;a
-546;2184;Nao;any
-547;2185;Sim;An
-547;2186;Nao;These
-547;2187;Nao;Some
-547;2188;Nao;A
-548;2189;Nao;some
-548;2190;Nao;two
-548;2191;Sim;an
-548;2192;Nao;a
-549;2193;Sim;an
-549;2194;Nao;three
-549;2195;Nao;a
-549;2196;Nao;some
-550;2197;Sim;some
-550;2198;Nao;many
-550;2199;Nao;an 
-550;2200;Nao;a
-551;2201;Sim;an/a
-551;2202;Nao;good/an
-551;2203;Nao;a/that
-551;2204;Nao;a/an
-552;2205;Nao;a/an
-552;2206;Nao;a/dangerous
-552;2207;Nao;two/a
-552;2208;Sim;an/a
-553;2209;Sim;any
-553;2210;Nao;a
-553;2211;Nao;some
-553;2212;Nao;this
-554;2213;Sim;a
-554;2214;Nao;an 
-554;2215;Nao;it
-554;2216;Nao;some
-555;2217;Nao;two
-555;2218;Sim;a
-555;2219;Nao;a lot of
-555;2220;Nao;some
-556;2221;Sim;an
-556;2222;Nao;good
-556;2223;Nao;best
-556;2224;Nao;a
-557;2225;Nao;the
-557;2226;Nao;two
-557;2227;Sim;some
-557;2228;Nao;a
-558;2229;Nao;the
-558;2230;Sim;some
-558;2231;Nao;one
-558;2232;Nao;a
-559;2233;Nao;some
-559;2234;Sim;any
-559;2235;Nao;this
-559;2236;Nao;a
-560;2237;Sim;is a
-560;2238;Nao;is an
-560;2239;Nao;be a 
-560;2240;Nao;isn't an
-561;2241;Nao;a/a
-561;2242;Nao;an/an
-561;2243;Sim;an/a
-561;2244;Nao;a/an
-562;2245;Nao;an
-562;2246;Sim;a
-562;2247;Nao;some
-562;2248;Nao;these
-563;2249;Nao;a
-563;2250;Nao;an 
-563;2251;Sim;some
-563;2252;Nao;the
-564;2253;Nao;a 
-564;2254;Nao;an
-564;2255;Nao;any
-564;2256;Sim;some
-565;2257;Nao;three/a
-565;2258;Nao;a/an
-565;2259;Nao;some/an
-565;2260;Sim;some/a
-566;2261;Sim;some/a
-566;2262;Nao;a/some
-566;2263;Nao;a/a
-566;2264;Nao;some/an
-567;2265;Nao;Some/is
-567;2266;Nao;All/is
-567;2267;Nao;Three/isn't
-567;2268;Sim;Some/are
-568;2269;Sim;coffee/milk/bread
-568;2270;Nao;sugar/chocolate bar/cake
-568;2271;Nao;cup/plate/fork
-568;2272;Nao;furniture/table/microwave
-569;2273;Sim;tomato
-569;2274;Nao;tea
-569;2275;Nao;meat
-569;2276;Nao;bread
-570;2277;Nao;women
-570;2278;Nao;men
-570;2279;Sim;child
-570;2280;Nao;mice
-571;2281;Nao;an
-571;2282;Nao;some
-571;2283;Sim;any
-571;2284;Nao;a
-572;2285;Nao;any
-572;2286;Sim;a
-572;2287;Nao;an
-572;2288;Nao;some
-573;2289;Nao;awesome
-573;2290;Nao;outstanding
-573;2291;Nao;amazing
-573;2292;Sim;great
-574;2293;Nao;any
-574;2294;Nao;an
-574;2295;Nao;some
-574;2296;Sim;a
-575;2297;Sim;a
-575;2298;Nao;some
-575;2299;Nao;any
-575;2300;Nao;an
-576;2301;Sim;some
-576;2302;Nao;a
-576;2303;Nao;any
-576;2304;Nao;an
-577;2305;Nao;any
-577;2306;Nao;a
-577;2307;Sim;some
-577;2308;Nao;an
-578;2309;Nao;any
-578;2310;Nao;an
-578;2311;Sim;some
-578;2312;Nao;an
-579;2313;Nao;some
-579;2314;Nao;any
-579;2315;Sim;a
-579;2316;Nao;an
-580;2317;Nao;a
-580;2318;Nao;an
-580;2319;Sim;any
-580;2320;Nao;some
-581;2321;Nao;any
-581;2322;Sim;a
-581;2323;Nao;some
-581;2324;Nao;an
-582;2325;Nao;an
-582;2326;Nao;a
-582;2327;Nao;any
-582;2328;Sim;some
-583;2329;Sim;any
-583;2330;Nao;a
-583;2331;Nao;some
-583;2332;Nao;an
-584;2333;Nao;some
-584;2334;Sim;an
-584;2335;Nao;a
-584;2336;Nao;any
-585;2337;Nao;an
-585;2338;Nao;a
-585;2339;Sim;some
-585;2340;Nao;any
-586;2341;Nao;an
-586;2342;Sim;a
-586;2343;Nao;some
-586;2344;Nao;any
-587;2345;Nao;an
-587;2346;Nao;some
-587;2347;Nao;a
-587;2348;Sim;any
-588;2349;Nao;any
-588;2350;Nao;a
-588;2351;Sim;some
-588;2352;Nao;an
-589;2353;Nao;a
-589;2354;Sim;some
-589;2355;Nao;any
-589;2356;Nao;an
-590;2357;Nao;some/some
-590;2358;Sim;some/a
-590;2359;Nao;any/some
-590;2360;Nao;a/some
-591;2361;Sim;a
-591;2362;Nao;any
-591;2363;Nao;an
-591;2364;Nao;some
-592;2365;Nao;any
-592;2366;Nao;some
-592;2367;Nao;an
-592;2368;Sim;a
-593;2369;Nao;any
-593;2370;Nao;a
-593;2371;Sim;some
-593;2372;Nao;an
-594;2373;Sim;a
-594;2374;Nao;any
-594;2375;Nao;some
-594;2376;Nao;an
-595;2377;Nao;some
-595;2378;Sim;any
-595;2379;Nao;a
-595;2380;Nao;an
-596;2381;Nao;some
-596;2382;Sim;any
-596;2383;Nao;an
-596;2384;Nao;a
-597;2385;Nao;some
-597;2386;Nao;a
-597;2387;Nao;an
-597;2388;Sim;any
-598;2389;Nao;a
-598;2390;Nao;some
-598;2391;Sim;any
-598;2392;Nao;an
-599;2393;Nao;a
-599;2394;Sim;any
-599;2395;Nao;some
-599;2396;Nao;an
-600;2397;Nao;a
-600;2398;Nao;any
-600;2399;Nao;some
-600;2400;Sim;an
-601;2401;Nao;Is there
-601;2402;Nao;There isn't
-601;2403;Sim;There's
-601;2404;Nao;Is
-602;2405;Nao;aren't
-602;2406;Nao;are
-602;2407;Sim;isn't
-602;2408;Nao;is 
-603;2409;Nao;There isn't
-603;2410;Nao;You have
-603;2411;Nao;There is
-603;2412;Sim;Is there
-604;2413;Nao;There aren't
-604;2414;Nao;There are
-604;2415;Sim;Are there
-604;2416;Nao;Is there
-605;2417;Nao;Is there
-605;2418;Nao;There aren't
-605;2419;Nao;There are
-605;2420;Sim;Are there
-606;2421;Nao;you have
-606;2422;Nao;there are
-606;2423;Nao;have
-606;2424;Sim;are there
-607;2425;Nao;there are
-607;2426;Nao;there is 
-607;2427;Nao;are there
-607;2428;Sim;is there
-608;2429;Nao;Is there
-608;2430;Nao;There are
-608;2431;Nao;There aren't
-608;2432;Sim;Aren't there
-609;2433;Sim;are there
-609;2434;Nao;have you
-609;2435;Nao;you have
-609;2436;Nao;there are
-610;2437;Sim;Are there
-610;2438;Nao;There are
-610;2439;Nao;Are
-610;2440;Nao;Is there
-611;2441;Nao;there are
-611;2442;Nao;is there
-611;2443;Sim;are there
-611;2444;Nao;there is
-612;2445;Nao;aren't
-612;2446;Nao;isn't
-612;2447;Sim;is
-612;2448;Nao;are
-613;2449;Sim;are
-613;2450;Nao;have
-613;2451;Nao;is
-613;2452;Nao;be
-614;2453;Nao;Theirs
-614;2454;Sim;There's
-614;2455;Nao;There're
-614;2456;Nao;There isn't
-615;2457;Sim;There are
-615;2458;Nao;Have
-615;2459;Nao;There's
-615;2460;Nao;There be
-616;2461;Nao;They are
-616;2462;Sim;There're
-616;2463;Nao;There's
-616;2464;Nao;Their
-617;2465;Sim;There aren't
-617;2466;Nao;There is
-617;2467;Nao;There are
-617;2468;Nao;There isn't
-618;2469;Sim;There aren't
-618;2470;Nao;There's
-618;2471;Nao;There're
-618;2472;Nao;There isn't
-619;2473;Nao;Are there
-619;2474;Nao;There be
-619;2475;Sim;There are 
-619;2476;Nao;There is
-620;2477;Nao;isn't
-620;2478;Sim;are
-620;2479;Nao;is
-620;2480;Nao;aren't
-621;2481;Nao;There aren't
-621;2482;Nao;There isn't
-621;2483;Sim;There's
-621;2484;Nao;There're
-622;2485;Sim;There's
-622;2486;Nao;There isn't
-622;2487;Nao;Is there
-622;2488;Nao;There be
-623;2489;Nao;There isn't
-623;2490;Nao;There aren't 
-623;2491;Sim;There are
-623;2492;Nao;There is
-624;2493;Nao;There isn't
-624;2494;Nao;There aren't
-624;2495;Sim;There's
-624;2496;Nao;There're
-625;2497;Nao;There is
-625;2498;Nao;There aren't
-625;2499;Nao;There isn't
-625;2500;Sim;There are
-626;2501;Sim;Is there
-626;2502;Nao;There are
-626;2503;Nao;Are there
-626;2504;Nao;There is
-627;2505;Nao;There isn't
-627;2506;Nao;There are
-627;2507;Nao;There aren't
-627;2508;Sim;There is
-628;2509;Sim;There are
-628;2510;Nao;There aren't
-628;2511;Nao;There is
-628;2512;Nao;There isn't
-629;2513;Nao;There are
-629;2514;Nao;Are there
-629;2515;Nao;There is
-629;2516;Sim;Is there
-630;2517;Nao;There are
-630;2518;Nao;There is
-630;2519;Nao;Is there
-630;2520;Sim;Are there
-631;2521;Nao;There is 
-631;2522;Nao;There isn't
-631;2523;Nao;Are there
-631;2524;Sim;Is there
-632;2525;Sim;Are there
-632;2526;Nao;There are
-632;2527;Nao;Is there
-632;2528;Nao;There aren't
-633;2529;Nao;There aren't
-633;2530;Sim;Is there
-633;2531;Nao;Are there
-633;2532;Nao;There is
-634;2533;Nao;There isn't
-634;2534;Nao;There aren't
-634;2535;Sim;There are
-634;2536;Nao;There is
-635;2537;Nao;There isn't
-635;2538;Nao;There aren't
-635;2539;Sim;There is
-635;2540;Nao;There are
-636;2541;Nao;There are
-636;2542;Sim;There is
-636;2543;Nao;There isn't
-636;2544;Nao;Is there
-637;2545;Nao;There is
-637;2546;Nao;Is there
-637;2547;Nao;There are
-637;2548;Sim;Are there
-638;2549;Nao;There isn't
-638;2550;Nao;Is there
-638;2551;Sim;There is
-638;2552;Nao;There are
-639;2553;Nao;There are
-639;2554;Nao;There isn't
-639;2555;Sim;There is
-639;2556;Nao;Are there
-640;2557;Sim;Is there
-640;2558;Nao;Are there
-640;2559;Nao;There aren't
-640;2560;Nao;There is
-641;2561;Sim;There are
-641;2562;Nao;There is
-641;2563;Nao;Are there
-641;2564;Nao;There aren't
-642;2565;Sim;There are
-642;2566;Nao;There is
-642;2567;Nao;Are there
-642;2568;Nao;Is there
-643;2569;Nao;there are
-643;2570;Nao;have
-643;2571;Nao;are
-643;2572;Sim;are there
-644;2573;Nao;There is
-644;2574;Sim;Are there
-644;2575;Nao;There are
-644;2576;Nao;Is there 
-645;2577;Nao;There's
-645;2578;Sim;There're 
-645;2579;Nao;They are
-645;2580;Nao;Have
-646;2581;Nao;be
-646;2582;Sim;is
-646;2583;Nao;are
-646;2584;Nao;isn't
-647;2585;Sim;be
-647;2586;Nao;are
-647;2587;Nao;are not
-647;2588;Nao;aren't
-648;2589;Sim;are
-648;2590;Nao;is
-648;2591;Nao;is a
-648;2592;Nao;be
-649;2593;Nao;There is
-649;2594;Nao;Have
-649;2595;Nao;There isn't
-649;2596;Sim;There are
-650;2597;Nao;have
-650;2598;Sim;are
-650;2599;Nao;is
-650;2600;Nao;be
-651;2601;Sim;There is
-651;2602;Nao;There isn't
-651;2603;Nao;There are 
-651;2604;Nao;Have
-652;2605;Sim;are/is
-652;2606;Nao;is/are
-652;2607;Nao;are/aren't
-652;2608;Nao;are/isn't
-653;2609;Nao;There are
-653;2610;Sim;Are there
-653;2611;Nao;There is
-653;2612;Nao;Is there
-654;2613;Nao;are
-654;2614;Nao;aren't
-654;2615;Nao;isn't
-654;2616;Sim;is
-655;2617;Nao;there are 
-655;2618;Sim;are there
-655;2619;Nao;there is 
-655;2620;Nao;is there
-656;2621;Nao;Are there
-656;2622;Nao;Have
-656;2623;Sim;There are
-656;2624;Nao;There is 
-657;2625;Nao;Is there
-657;2626;Nao;There are
-657;2627;Nao;It has 
-657;2628;Sim;There is
-658;2629;Nao;There  is 
-658;2630;Nao;Are there
-658;2631;Sim;There are
-658;2632;Nao;Is there
-659;2633;Nao;Have
-659;2634;Sim;There's
-659;2635;Nao;There're
-659;2636;Nao;Is there
-660;2637;Nao;Are there
-660;2638;Sim;There are
-660;2639;Nao;There is 
-660;2640;Nao;Is there
-661;2641;Nao;There is
-661;2642;Nao;Are there
-661;2643;Sim;There are
-661;2644;Nao;There isn't
-662;2645;Nao;There is/problems
-662;2646;Nao;Are there/problems
-662;2647;Nao;There be/problems
-662;2648;Sim;There are/problems
-663;2649;Nao;there is
-663;2650;Nao;is there
-663;2651;Sim;are there
-663;2652;Nao;there are 
-664;2653;Sim;There are
-664;2654;Nao;There is
-664;2655;Nao;Has
-664;2656;Nao;Is there
-665;2657;Nao;There is
-665;2658;Nao;Have
-665;2659;Sim;There are
-665;2660;Nao;Is there
-666;2661;Nao;is there
-666;2662;Nao;are there
-666;2663;Nao;there is
-666;2664;Sim;there are
-667;2665;Nao;Doesn't have
-667;2666;Sim;There isn't
-667;2667;Nao;There aren't
-667;2668;Nao;Hasn't
-668;2669;Nao;Are there
-668;2670;Sim;Is there
-668;2671;Nao;Has
-668;2672;Nao;There is
-669;2673;Nao;have
-669;2674;Nao;is there
-669;2675;Nao;there are
-669;2676;Sim;there is
-670;2677;Nao;there isn't
-670;2678;Nao;there is
-670;2679;Sim;there aren't
-670;2680;Nao;there are 
-671;2681;Nao;Has
-671;2682;Nao;Are there
-671;2683;Nao;There is
-671;2684;Sim;Is there
-672;2685;Nao;Doesn't have
-672;2686;Nao;Hasn't
-672;2687;Sim;There is
-672;2688;Nao;There are
-673;2689;Nao;There are 
-673;2690;Sim;There aren't
-673;2691;Nao;There isn't
-673;2692;Nao;There is
-674;2693;Sim;There are
-674;2694;Nao;There is a
-674;2695;Nao;There aren't
-674;2696;Nao;Are there
-675;2697;Nao;Are there
-675;2698;Nao;Is there
-675;2699;Sim;There are
-675;2700;Nao;There is
-676;2701;Nao;There's
-676;2702;Nao;Aren't there
-676;2703;Sim;There're
-676;2704;Nao;There isn't
-677;2705;Nao;Is there
-677;2706;Sim;There is
-677;2707;Nao;There isn't
-677;2708;Nao;There are
-678;2709;Nao;there is
-678;2710;Nao;is there
-678;2711;Nao;there are
-678;2712;Sim;are there
-679;2713;Nao;There are
-679;2714;Sim;There is
-679;2715;Nao;Is there
-679;2716;Nao;There isn't
-680;2717;Nao;there're
-680;2718;Sim;there's
-680;2719;Nao;is there
-680;2720;Nao;there isn't
-681;2721;Nao;There aren't
-681;2722;Nao;There are
-681;2723;Sim;Are there
-681;2724;Nao;Is there
-682;2725;Nao;There're
-682;2726;Nao;Is there
-682;2727;Sim;There's
-682;2728;Nao;Theirs
-683;2729;Nao;there're
-683;2730;Sim;there is
-683;2731;Nao;there isn't
-683;2732;Nao;isn't there
-684;2733;Nao;There aren't
-684;2734;Nao;Is there
-684;2735;Nao;There are
-684;2736;Sim;There's
-685;2737;Nao;Is there
-685;2738;Nao;There are
-685;2739;Sim;There is
-685;2740;Nao;There isn't
-686;2741;Nao;There be
-686;2742;Nao;There is
-686;2743;Sim;There are
-686;2744;Nao;Are there
-687;2745;Nao;There is
-687;2746;Nao;Are there
-687;2747;Sim;There're
-687;2748;Nao;Is there
-688;2749;Nao;There isn't
-688;2750;Nao;There aren't
-688;2751;Nao;There're
-688;2752;Sim;There's
-689;2753;Nao;Are there
-689;2754;Nao;There is
-689;2755;Sim;There are
-689;2756;Nao;Is there
-690;2757;Nao;There's
-690;2758;Nao;There
-690;2759;Nao;They are
-690;2760;Sim;There're
-691;2761;Sim;are there
-691;2762;Nao;are
-691;2763;Nao;is there
-691;2764;Nao;there are
-692;2765;Nao;there is
-692;2766;Sim;are there
-692;2767;Nao;there are
-692;2768;Nao;is there
-693;2769;Nao;Is there
-693;2770;Nao;Theirs
-693;2771;Nao;There isn't
-693;2772;Sim;There's
-694;2773;Sim;there's
-694;2774;Nao;there are
-694;2775;Nao;there isn't
-694;2776;Nao;theirs
-695;2777;Nao;is there
-695;2778;Sim;are there
-695;2779;Nao;there are
-695;2780;Nao;there is
-696;2781;Nao;There aren't
-696;2782;Nao;There's
-696;2783;Sim;There're
-696;2784;Nao;There are no
-697;2785;Nao;There is no
-697;2786;Sim;There is
-697;2787;Nao;There are
-697;2788;Nao;There are not
-698;2789;Nao;is not
-698;2790;Nao;are
-698;2791;Nao;be
-698;2792;Sim;is
-699;2793;Nao;There be
-699;2794;Nao;There're
-699;2795;Nao;There isn't
-699;2796;Sim;There's
-700;2797;Nao;there is
-700;2798;Nao;there are
-700;2799;Sim;are there
-700;2800;Nao;is there
-701;2801;Nao;Can't we
-701;2802;Nao;Can we
-701;2803;Sim;We can't
-701;2804;Nao;We can
-702;2805;Nao;You can't
-702;2806;Nao;You can
-702;2807;Sim;Can you
-702;2808;Nao;You
-703;2809;Nao;Can't we
-703;2810;Nao;We can't
-703;2811;Nao;Can we
-703;2812;Sim;We can
-704;2813;Sim;Can you
-704;2814;Nao;You can't
-704;2815;Nao;You can
-704;2816;Nao;Can't you
-705;2817;Nao;You can
-705;2818;Sim;You can't
-705;2819;Nao;Can't you
-705;2820;Nao;Can you
-706;2821;Nao;You can
-706;2822;Nao;You
-706;2823;Sim;Can you
-706;2824;Nao;You can't
-707;2825;Sim;can't
-707;2826;Nao;can
-707;2827;Nao;am not
-707;2828;Nao;do
-708;2829;Nao;can
-708;2830;Sim;can't
-708;2831;Nao;isn't
-708;2832;Nao;don't
-709;2833;Nao;do
-709;2834;Nao;can
-709;2835;Sim;can't
-709;2836;Nao;don't
-710;2837;Sim;can
-710;2838;Nao;do
-710;2839;Nao;don't
-710;2840;Nao;can't
-711;2841;Sim;can I
-711;2842;Nao;I can't
-711;2843;Nao;I do
-711;2844;Nao;I can
-712;2845;Nao;you
-712;2846;Nao;you can
-712;2847;Nao;you can't
-712;2848;Sim;can you
-713;2849;Nao;We
-713;2850;Nao;We can't
-713;2851;Sim;Can we
-713;2852;Nao;We can
-714;2853;Nao;You can/I can't
-714;2854;Sim;Can you/I can't
-714;2855;Nao;You can/I can
-714;2856;Nao;Can you/I can
-715;2857;Nao;You can
-715;2858;Sim;Can you
-715;2859;Nao;You do
-715;2860;Nao;You
-716;2861;Nao;I can
-716;2862;Nao;You don't
-716;2863;Nao;Do you
-716;2864;Sim;Can I
-717;2865;Nao;Can I
-717;2866;Nao;I can 
-717;2867;Sim;I can't
-717;2868;Nao;Can't I
-718;2869;Nao;can/can
-718;2870;Sim;can't/can
-718;2871;Nao;do/don't
-718;2872;Nao;can't/can't
-719;2873;Nao;can't
-719;2874;Nao;doesn't
-719;2875;Nao;don't
-719;2876;Sim;can
-720;2877;Nao;You can
-720;2878;Nao;You
-720;2879;Nao;You can't
-720;2880;Sim;Can you
-721;2881;Nao;can
-721;2882;Nao;don't
-721;2883;Sim;can't
-721;2884;Nao;isn't
-722;2885;Nao;Can't you
-722;2886;Sim;You can
-722;2887;Nao;You can't
-722;2888;Nao;Can you
-723;2889;Nao;can't/doesn't
-723;2890;Nao;can/can
-723;2891;Sim;can/can't
-723;2892;Nao;doesn't/can't
-724;2893;Nao;can/can
-724;2894;Nao;can't/can't
-724;2895;Nao;can/can't
-724;2896;Sim;can't/can
-725;2897;Nao;could
-725;2898;Nao;couldn't
-725;2899;Sim;can
-725;2900;Nao;can't
-726;2901;Nao;could
-726;2902;Nao;couldn't
-726;2903;Nao;must
-726;2904;Sim;can't
-727;2905;Sim;can
-727;2906;Nao;mustn't
-727;2907;Nao;can't
-727;2908;Nao;couldn't
-728;2909;Nao;can't I
-728;2910;Sim;I can't
-728;2911;Nao;can I
-728;2912;Nao;I do
-729;2913;Sim;Can I
-729;2914;Nao;I can
-729;2915;Nao;I can't
-729;2916;Nao;Do I
-730;2917;Nao;does
-730;2918;Nao;can
-730;2919;Sim;can't
-730;2920;Nao;do
-731;2921;Nao;mustn't
-731;2922;Nao;don't
-731;2923;Sim;can
-731;2924;Nao;can't
-732;2925;Nao;can't
-732;2926;Nao;doesn't
-732;2927;Sim;can
-732;2928;Nao;mustn't
-733;2929;Nao;Don't
-733;2930;Nao;Do
-733;2931;Sim;Can
-733;2932;Nao;Mustn't
-734;2933;Sim;can't
-734;2934;Nao;do
-734;2935;Nao;could
-734;2936;Nao;can
-735;2937;Nao;mustn't
-735;2938;Nao;could
-735;2939;Nao;couldn't
-735;2940;Sim;can't
-736;2941;Nao;you cannot
-736;2942;Nao;can you
-736;2943;Nao;you can't
-736;2944;Sim;you can
-737;2945;Sim;can't
-737;2946;Nao;can
-737;2947;Nao;don't
-737;2948;Nao;do
-738;2949;Nao;Can you/Can I
-738;2950;Nao;You can/I can
-738;2951;Nao;You can/I can't
-738;2952;Sim;Can you/I can
-739;2953;Nao;Your children can't
-739;2954;Nao;Your children don't
-739;2955;Sim;Can your children
-739;2956;Nao;Your children can
-740;2957;Nao;You
-740;2958;Nao;You can't
-740;2959;Nao;You can
-740;2960;Sim;Can you 
-741;2961;Nao;can't/can't
-741;2962;Nao;can/can
-741;2963;Sim;can/can't
-741;2964;Nao;can't/can
-742;2965;Nao;You can't/I can't
-742;2966;Nao;You can/I can't
-742;2967;Nao;Can you/I can
-742;2968;Sim;Can you/I can't
-743;2969;Nao;we
-743;2970;Nao;we can
-743;2971;Sim;can we
-743;2972;Nao;we can't
-744;2973;Nao;You
-744;2974;Sim;Can't you
-744;2975;Nao;You can't
-744;2976;Nao;You can
-745;2977;Nao;You can't
-745;2978;Sim;Can you
-745;2979;Nao;You can
-745;2980;Nao;You
-746;2981;Nao;You can/can't I
-746;2982;Nao;You can/I can't
-746;2983;Nao;Can you/I can
-746;2984;Sim;Can you/I can't
-747;2985;Nao;Are you
-747;2986;Nao;You can
-747;2987;Nao;I need
-747;2988;Sim;Can you
-748;2989;Nao;Can you/can
-748;2990;Sim;Can you/can't
-748;2991;Nao;You can/can't
-748;2992;Nao;Can't you/can
-749;2993;Nao;can to
-749;2994;Nao;to can
-749;2995;Nao;can't
-749;2996;Sim;can
-750;2997;Sim;"I guess it's nice."
-750;2998;Nao;"Sorry, I'm not coming back."
-750;2999;Nao;"Yes, sure."
-750;3000;Nao;"Ice water?"
-751;3001;Nao;"I'm going to call him."
-751;3002;Nao;"Yes, I do."
-751;3003;Nao;"Sure, I can't."
-751;3004;Sim;"Of course."
-752;3005;Nao;I can
-752;3006;Sim;Can I
-752;3007;Nao;Can you
-752;3008;Nao;Do I
-753;3009;Nao;speaks
-753;3010;Nao;speaking
-753;3011;Sim;speak
-753;3012;Nao;to speak
-754;3013;Nao;I can't
-754;3014;Nao;I can
-754;3015;Nao;do I
-754;3016;Sim;can I
-755;3017;Sim;she can't
-755;3018;Nao;she can
-755;3019;Nao;can she
-755;3020;Nao;can't she
-756;3021;Nao;I can
-756;3022;Nao;can
-756;3023;Nao;can I
-756;3024;Sim;I can't
-757;3025;Nao;I can't
-757;3026;Sim;Can I
-757;3027;Nao;I can
-757;3028;Nao;Can
-758;3029;Sim;animals can speak
-758;3030;Nao;do animals speak
-758;3031;Nao;can animals speak
-758;3032;Nao;can't animals speak
-759;3033;Sim;"Can I call you right now?"
-759;3034;Nao;"Can I call you right now."
-759;3035;Nao;"I can call you right now?"
-759;3036;Nao;"I can't call you right now?"
-760;3037;Nao;can't I
-760;3038;Nao;I can
-760;3039;Sim;I can't
-760;3040;Nao;can I
-761;3041;Nao;doesn't/can't
-761;3042;Nao;can't/can
-761;3043;Sim;can/can't
-761;3044;Nao;don't/can't
-762;3045;Nao;Is there
-762;3046;Nao;Are there
-762;3047;Sim;Can
-762;3048;Nao;What
-763;3049;Nao;don't
-763;3050;Nao;doesn't
-763;3051;Nao;can't
-763;3052;Sim;can
-764;3053;Nao;doesn't
-764;3054;Nao;does
-764;3055;Sim;can
-764;3056;Nao;can't
-765;3057;Nao;Can/can
-765;3058;Nao;Can/doesn't
-765;3059;Nao;Does/can't
-765;3060;Sim;Can/can't
-766;3061;Sim;can't
-766;3062;Nao;can
-766;3063;Nao;doesn't
-766;3064;Nao;don't
-767;3065;Sim;Can/can't
-767;3066;Nao;Do/can't
-767;3067;Nao;Does/can
-767;3068;Nao;Can/can
-768;3069;Nao;can't
-768;3070;Nao;doesn't
-768;3071;Nao;don't
-768;3072;Sim;can
-769;3073;Nao;Do/can't
-769;3074;Sim;Can/can't
-769;3075;Nao;Does/can't
-769;3076;Nao;Can/can
-770;3077;Nao;doesn't
-770;3078;Sim;can
-770;3079;Nao;don't
-770;3080;Nao;can't
-771;3081;Nao;You can't
-771;3082;Nao;You can
-771;3083;Sim;Can you
-771;3084;Nao;Are you
-772;3085;Nao;can't
-772;3086;Nao;I can
-772;3087;Sim;I can't
-772;3088;Nao;can I
-773;3089;Nao;Do I
-773;3090;Nao;I can
-773;3091;Sim;Can I
-773;3092;Nao;I can't
-774;3093;Nao;Can't go
-774;3094;Nao;I can go
-774;3095;Nao;I don't go
-774;3096;Sim;I can't go
-775;3097;Nao;I can
-775;3098;Nao;Can I
-775;3099;Sim;I can't
-775;3100;Nao;I am not
-776;3101;Sim;can your brother
-776;3102;Nao;you brother can
-776;3103;Nao;he can
-776;3104;Nao;can him
-777;3105;Sim;can't hear/Can you
-777;3106;Nao;can't hear/You can
-777;3107;Nao;can't hear/You
-777;3108;Nao;can hear/You
-778;3109;Nao;can
-778;3110;Sim;cannot
-778;3111;Nao;don't
-778;3112;Nao;could
-779;3113;Nao;You can't/can't
-779;3114;Sim;You can't/can
-779;3115;Nao;You can/can
-779;3116;Nao;Can't you/can
-780;3117;Sim;Can you/can't
-780;3118;Nao;He can't/can
-780;3119;Nao;You can/can't
-780;3120;Nao;He can/I can't
-781;3121;Nao;to can
-781;3122;Nao;could
-781;3123;Sim;can't
-781;3124;Nao;can
-782;3125;Sim;Can you/can't
-782;3126;Nao;You can/can't
-782;3127;Nao;Can you/can
-782;3128;Nao;You can't/can't
-783;3129;Sim;Can you
-783;3130;Nao;You can
-783;3131;Nao;Can I
-783;3132;Nao;You can't
-784;3133;Nao;I can't
-784;3134;Sim;Can I
-784;3135;Nao;You can
-784;3136;Nao;Can you
-785;3137;Nao;can not
-785;3138;Nao;could
-785;3139;Nao;can
-785;3140;Sim;can't
-786;3141;Sim;Can I
-786;3142;Nao;Don't I
-786;3143;Nao;Do I
-786;3144;Nao;I can
-787;3145;Nao;can
-787;3146;Sim;can't
-787;3147;Nao;do
-787;3148;Nao;must
-788;3149;Nao;must
-788;3150;Sim;can't
-788;3151;Nao;can
-788;3152;Nao;do
-789;3153;Sim;can't
-789;3154;Nao;doesn't
-789;3155;Nao;must
-789;3156;Nao;can
-790;3157;Nao;can
-790;3158;Nao;must
-790;3159;Sim;can't
-790;3160;Nao;doesn't
-791;3161;Nao;can
-791;3162;Sim;can't
-791;3163;Nao;must
-791;3164;Nao;doesn't
-792;3165;Nao;Do
-792;3166;Nao;Didn't
-792;3167;Sim;Can
-792;3168;Nao;Did
-793;3169;Nao;could
-793;3170;Nao;didn't
-793;3171;Sim;can
-793;3172;Nao;couldn't
-794;3173;Sim;can't
-794;3174;Nao;must
-794;3175;Nao;can
-794;3176;Nao;could
-795;3177;Nao;couldn't
-795;3178;Nao;could
-795;3179;Sim;can't
-795;3180;Nao;can
-796;3181;Nao;Can/couldn't
-796;3182;Sim;Can/can
-796;3183;Nao;Can/don't
-796;3184;Nao;Can/can't
-797;3185;Nao;can't/doesn't
-797;3186;Nao;can/can't
-797;3187;Sim;can't/can
-797;3188;Nao;can/can
-798;3189;Nao;I can/Can you
-798;3190;Sim;I can/You can
-798;3191;Nao;I can/Can't you
-798;3192;Nao;I can't/Can you
-799;3193;Nao;Can you
-799;3194;Nao;You
-799;3195;Sim;You can
-799;3196;Nao;You can't
-800;3197;Nao;don't
-800;3198;Nao;cannot
-800;3199;Nao;can't
-800;3200;Sim;can
-801;3201;Nao;spend
-801;3202;Nao;are spending
-801;3203;Nao;spends 
-801;3204;Sim;spent
-802;3205;Sim;met/went
-802;3206;Nao;meet/go
-802;3207;Nao;meet/are going
-802;3208;Nao;met/gone
-803;3209;Nao;get/helps
-803;3210;Nao;get/helped
-803;3211;Sim;got/helped
-803;3212;Nao;got/helps
-804;3213;Sim;ask
-804;3214;Nao;has asked
-804;3215;Nao;asked
-804;3216;Nao;asks
-805;3217;Nao;written/wrote
-805;3218;Nao;write/writes
-805;3219;Sim;write/wrote
-805;3220;Nao;wrote/wrote
-806;3221;Sim;went/swam
-806;3222;Nao;went/swim
-806;3223;Nao;going/swimming
-806;3224;Nao;go/swim
-807;3225;Nao;buy/were
-807;3226;Sim;buy/was
-807;3227;Nao;bought/was
-807;3228;Nao;bought/were
-808;3229;Nao;liked/loved
-808;3230;Nao;liked/love
-808;3231;Sim;like/loved
-808;3232;Nao;like/love
-809;3233;Sim;got/went
-809;3234;Nao;gets/went
-809;3235;Nao;gets/go
-809;3236;Nao;got/go
-810;3237;Sim;did/go
-810;3238;Nao;did/went
-810;3239;Nao;does/go
-810;3240;Nao;do/went
-811;3241;Sim;like/were
-811;3242;Nao;like/was
-811;3243;Nao;liked/were
-811;3244;Nao;liked/be
-812;3245;Sim;were/was
-812;3246;Nao;are/am
-812;3247;Nao;was/were
-812;3248;Nao;were/were
-813;3249;Nao;be
-813;3250;Sim;was
-813;3251;Nao;were
-813;3252;Nao;is
-814;3253;Sim;had/went
-814;3254;Nao;had/were
-814;3255;Nao;have/going
-814;3256;Nao;have/went
-815;3257;Nao;do you buy
-815;3258;Nao;you buy
-815;3259;Sim;did you buy
-815;3260;Nao;you bought
-816;3261;Nao;knew
-816;3262;Nao;knows
-816;3263;Nao;knowing
-816;3264;Sim;know
-817;3265;Nao;didn't go/was
-817;3266;Sim;wasn't/was
-817;3267;Nao;wasn't/were
-817;3268;Nao;weren't/were
-818;3269;Nao;Were/seen
-818;3270;Nao;Was/saw
-818;3271;Nao;Did/saw
-818;3272;Sim;Were/saw
-819;3273;Nao;seen/doesn't see
-819;3274;Nao;see/didn't see
-819;3275;Sim;saw/didn't see
-819;3276;Nao;saw/doesn't see
-820;3277;Nao;Anne arrive
-820;3278;Nao;does Anne arrive
-820;3279;Nao;Anne arrives
-820;3280;Sim;did Anne arrive
-821;3281;Nao;get
-821;3282;Nao;gets
-821;3283;Sim;got
-821;3284;Nao;are getting
-822;3285;Sim;took
-822;3286;Nao;have to take
-822;3287;Nao;am taking
-822;3288;Nao;take
-823;3289;Nao;ate/have
-823;3290;Sim;ate/had
-823;3291;Nao;ate/I'm having
-823;3292;Nao;eat/have
-824;3293;Sim;saw/Were you
-824;3294;Nao;see/Were you
-824;3295;Nao;seen/You were
-824;3296;Nao;saw/You were
-825;3297;Nao;see
-825;3298;Sim;met
-825;3299;Nao;meet
-825;3300;Nao;seen
-826;3301;Sim;arrived/went
-826;3302;Nao;arrived/am going
-826;3303;Nao;arrival/went
-826;3304;Nao;arrive/am going
-827;3305;Nao;going/was
-827;3306;Nao;went/were
-827;3307;Sim;went/was
-827;3308;Nao;go/is
-828;3309;Nao;move
-828;3310;Nao;moves
-828;3311;Sim;moved
-828;3312;Nao;are moving
-829;3313;Sim;missed/woke
-829;3314;Nao;miss/wake
-829;3315;Nao;am missing/am waking
-829;3316;Nao;miss/woke
-830;3317;Sim;met/was
-830;3318;Nao;meet/is
-830;3319;Nao;meet/was
-830;3320;Nao;met/were
-831;3321;Nao;don't know/is
-831;3322;Sim;didn't know/was
-831;3323;Nao;didn't know/were
-831;3324;Nao;didn't know/is
-832;3325;Nao;asked/spoke
-832;3326;Sim;asked/speak
-832;3327;Nao;ask/speak
-832;3328;Nao;asks/speak
-833;3329;Nao;seen/are
-833;3330;Sim;saw/were
-833;3331;Nao;seen/were
-833;3332;Nao;see/are
-834;3333;Sim;told
-834;3334;Nao;is telling
-834;3335;Nao;tell
-834;3336;Nao;tells
-835;3337;Nao;called/don't answer
-835;3338;Nao;was calling/weren't answering
-835;3339;Nao;called/not answered
-835;3340;Sim;called/didn't answer
-836;3341;Nao;played/flown
-836;3342;Nao;plays/flies
-836;3343;Sim;played/flew
-836;3344;Nao;play/fly
-837;3345;Nao;enjoyed/spend
-837;3346;Sim;enjoyed/spent
-837;3347;Nao;enjoyed/spending
-837;3348;Nao;enjoy/spend
-838;3349;Nao;borrows/take
-838;3350;Nao;borrowed/took
-838;3351;Nao;borrowed/taking
-838;3352;Sim;borrowed/take
-839;3353;Sim;began
-839;3354;Nao;is beginning
-839;3355;Nao;begin
-839;3356;Nao;begun
-840;3357;Nao;is having/is leaving
-840;3358;Nao;has/left
-840;3359;Nao;has/leaves
-840;3360;Sim;had/left
-841;3361;Nao;wasn't having
-841;3362;Nao;don't have
-841;3363;Sim;didn't have
-841;3364;Nao;hadn't
-842;3365;Nao;heard/are
-842;3366;Nao;heard/was
-842;3367;Nao;hear/were
-842;3368;Sim;heard/were
-843;3369;Nao;sleeped
-843;3370;Nao;sleeps
-843;3371;Sim;slept
-843;3372;Nao;sleep
-844;3373;Nao;buying
-844;3374;Nao;buy
-844;3375;Sim;bought
-844;3376;Nao;buyed
-845;3377;Nao;this morning
-845;3378;Nao;yesterday
-845;3379;Sim;tomorrow
-845;3380;Nao;on Sunday
-846;3381;Nao;Where was you
-846;3382;Nao;Where you were
-846;3383;Nao;Where you was
-846;3384;Sim;Where were you
-847;3385;Nao;Do/have
-847;3386;Nao;Do/had
-847;3387;Sim;Did/have
-847;3388;Nao;Did/had
-848;3389;Nao;Did/finished
-848;3390;Nao;Do/finish
-848;3391;Nao;Do/finished
-848;3392;Sim;Did/finish
-849;3393;Sim;Did/go
-849;3394;Nao;Did/do
-849;3395;Nao;Do/went
-849;3396;Nao;Did/went
-850;3397;Nao;buy
-850;3398;Nao;buying
-850;3399;Sim;bought
-850;3400;Nao;brought
-851;3401;Nao;went
-851;3402;Nao;didn't do
-851;3403;Sim;didn't go
-851;3404;Nao;were
-852;3405;Sim;didn't go
-852;3406;Nao;wasn't
-852;3407;Nao;doesn't go
-852;3408;Nao;didn't do
-853;3409;Nao;take
-853;3410;Nao;taking
-853;3411;Sim;took
-853;3412;Nao;taken
-854;3413;Nao;surprising
-854;3414;Sim;surprised
-854;3415;Nao;surprise
-854;3416;Nao;is surprised
-855;3417;Sim;went
-855;3418;Nao;make
-855;3419;Nao;go
-855;3420;Nao;did
-856;3421;Nao;buys
-856;3422;Nao;buying
-856;3423;Nao;buy
-856;3424;Sim;bought
-857;3425;Nao;forget
-857;3426;Nao;forgetting
-857;3427;Sim;forgot 
-857;3428;Nao;forgotten
-858;3429;Nao;made
-858;3430;Sim;do
-858;3431;Nao;did
-858;3432;Nao;wrote
-859;3433;Nao;travel
-859;3434;Nao;traveling
-859;3435;Sim;traveled 
-859;3436;Nao;travels
-860;3437;Nao;turned off/go
-860;3438;Nao;turn off/go
-860;3439;Nao;turn off/went
-860;3440;Sim;turned off/went
-861;3441;Nao;Did/enjoyed
-861;3442;Nao;Do/enjoy
-861;3443;Nao;Do/enjoyed
-861;3444;Sim;Did/enjoy
-862;3445;Nao;go
-862;3446;Nao;was
-862;3447;Sim;went
-862;3448;Nao;travel
-863;3449;Nao;enjoy
-863;3450;Nao;enjoys
-863;3451;Nao;enjoying
-863;3452;Sim;enjoyed
-864;3453;Nao;cancel
-864;3454;Nao;didn't cancel
-864;3455;Sim;canceled
-864;3456;Nao;canceling
-865;3457;Nao;grow
-865;3458;Sim;grew
-865;3459;Nao;grown
-865;3460;Nao;growing
-866;3461;Nao;is sleeping
-866;3462;Nao;sleeps
-866;3463;Nao;sleep
-866;3464;Sim;slept
-867;3465;Nao;Do/see
-867;3466;Nao;Did/saw
-867;3467;Sim;Did/see
-867;3468;Nao;Do/saw
-868;3469;Nao;is buying
-868;3470;Sim;bought
-868;3471;Nao;buy
-868;3472;Nao;buys
-869;3473;Sim;was/didn't do
-869;3474;Nao;were/didn't do
-869;3475;Nao;was/didn't make
-869;3476;Nao;are/didn't do
-870;3477;Nao;give
-870;3478;Nao;buy
-870;3479;Sim;gave
-870;3480;Nao;gives
-871;3481;Sim;Did/move
-871;3482;Nao;Is/moving
-871;3483;Nao;Was/move
-871;3484;Nao;Do/move
-872;3485;Nao;are/spending
-872;3486;Nao;do/spend
-872;3487;Sim;did/spend
-872;3488;Nao;do/spent
-873;3489;Sim;were/was
-873;3490;Nao;are/was
-873;3491;Nao;were/am
-873;3492;Nao;was/am not
-874;3493;Nao;write
-874;3494;Nao;is writing
-874;3495;Sim;wrote
-874;3496;Nao;writes
-875;3497;Sim;sold/moved
-875;3498;Nao;sell/move
-875;3499;Nao;sells/moved
-875;3500;Nao;sells/moves
-876;3501;Sim;was/woke up
-876;3502;Nao;was/wakes up
-876;3503;Nao;was/wake up
-876;3504;Nao;were/woke up
-877;3505;Nao;catch
-877;3506;Sim;caught
-877;3507;Nao;is catching
-877;3508;Nao;catches
-878;3509;Nao;is ringing
-878;3510;Sim;rang
-878;3511;Nao;ring
-878;3512;Nao;rings
-879;3513;Nao;drink
-879;3514;Sim;drank
-879;3515;Nao;am drinking
-879;3516;Nao;drink
-880;3517;Sim;Did/arrive
-880;3518;Nao;Does/arrive
-880;3519;Nao;Was/arrive
-880;3520;Nao;Were/arrive
-881;3521;Sim;went
-881;3522;Nao;does
-881;3523;Nao;go
-881;3524;Nao;gone
-882;3525;Sim;didn't tell
-882;3526;Nao;doesn't tell
-882;3527;Nao;is telling
-882;3528;Nao;tell
-883;3529;Sim;met
-883;3530;Nao;meets
-883;3531;Nao;meet
-883;3532;Nao;don't meet
-884;3533;Nao;am wearing
-884;3534;Sim;wore
-884;3535;Nao;wear
-884;3536;Nao;wears
-885;3537;Sim;Did/see
-885;3538;Nao;Were/seeing
-885;3539;Nao;Was/seeing
-885;3540;Nao;Does/see
-886;3541;Nao;had/drive
-886;3542;Sim;had/drove
-886;3543;Nao;have/drove
-886;3544;Nao;has/drove
-887;3545;Nao;wasn't saying
-887;3546;Nao;don't say
-887;3547;Nao;didn't tell
-887;3548;Sim;didn't say
-888;3549;Sim;told/was
-888;3550;Nao;tells/was
-888;3551;Nao;told/were
-888;3552;Nao;told/is
-889;3553;Nao;says
-889;3554;Nao;say
-889;3555;Nao;is saying
-889;3556;Sim;said
-890;3557;Nao;go/lasted
-890;3558;Nao;went/last
-890;3559;Nao;go/lasts
-890;3560;Sim;went/lasted
-891;3561;Sim;ate
-891;3562;Nao;eating
-891;3563;Nao;eat
-891;3564;Nao;eaten
-892;3565;Nao;catches
-892;3566;Nao;are catching
-892;3567;Sim;caught
-892;3568;Nao;catch
-893;3569;Nao;am forgetting
-893;3570;Nao;forget
-893;3571;Sim;forgot 
-893;3572;Nao;can't forget
-894;3573;Nao;went/went
-894;3574;Nao;went/goes
-894;3575;Nao;go/goes
-894;3576;Sim;go/went
-895;3577;Nao;gives
-895;3578;Nao;given
-895;3579;Sim;gave
-895;3580;Nao;is giving
-896;3581;Nao;came
-896;3582;Nao;isn't coming
-896;3583;Sim;didn't come
-896;3584;Nao;comes
-897;3585;Nao;sent/wrote
-897;3586;Nao;send/wrote
-897;3587;Sim;sent/write
-897;3588;Nao;send/write
-898;3589;Nao;try/was
-898;3590;Sim;tried/was
-898;3591;Nao;are trying/was
-898;3592;Nao;tried/were
-899;3593;Nao;saw/was
-899;3594;Nao;see/was
-899;3595;Nao;seen/were
-899;3596;Sim;saw/were
-900;3597;Sim;did/buy
-900;3598;Nao;did/bought
-900;3599;Nao;do/buy
-900;3600;Nao;do/bought
-901;3601;Nao;artisan
-901;3602;Nao;bricklayer
-901;3603;Nao;nurse
-901;3604;Sim;housemaid
-902;3605;Sim;fourteenth
-902;3606;Nao;fourteen
-902;3607;Nao;forty
-902;3608;Nao;four
-903;3609;Sim;eleventh
-903;3610;Nao;eleven
-903;3611;Nao;twelve
-903;3612;Nao;ten
-904;3613;Nao;tenth
-904;3614;Nao;seventieth
-904;3615;Nao;seventeenth
-904;3616;Sim;seven
-905;3617;Nao;eighty
-905;3618;Nao;eighteen
-905;3619;Nao;eight
-905;3620;Sim;eighteenth
-906;3621;Nao;twenty-one
-906;3622;Nao;twelve
-906;3623;Nao;twenty
-906;3624;Sim;twentieth
-907;3625;Nao;eleven
-907;3626;Nao;eighty
-907;3627;Sim;eleventh
-907;3628;Nao;ten
-908;3629;Nao;eleven
-908;3630;Sim;first
-908;3631;Nao;one
-908;3632;Nao;ten
-909;3633;Nao;forty
-909;3634;Sim;fourth
-909;3635;Nao;four
-909;3636;Nao;fourteen
-910;3637;Sim;third
-910;3638;Nao;thirty
-910;3639;Nao;three
-910;3640;Nao;thirteen
-911;3641;Nao;twenty
-911;3642;Nao;twenty-five
-911;3643;Nao;five
-911;3644;Sim;twenty-fifth
-912;3645;Nao;Holland
-912;3646;Sim;Germany
-912;3647;Nao;Belgium
-912;3648;Nao;Scotland
-913;3649;Nao;Italian
-913;3650;Sim;Greek
-913;3651;Nao;German
-913;3652;Nao;Hungarian
-914;3653;Nao;Italian
-914;3654;Sim;Japanese
-914;3655;Nao;Belgian
-914;3656;Nao;Greek
-915;3657;Nao;Hungarian
-915;3658;Sim;Turkish
-915;3659;Nao;Siberian
-915;3660;Nao;Polish
-916;3661;Nao;Poland
-916;3662;Nao;Italy
-916;3663;Nao;Polish
-916;3664;Sim;Italian
-917;3665;Nao;a quarter to four
-917;3666;Nao;four
-917;3667;Sim;half past four
-917;3668;Nao;a quarter past four
-918;3669;Nao;half past ten
-918;3670;Sim;a quarter past ten
-918;3671;Nao;a quarter to ten
-918;3672;Nao;ten
-919;3673;Nao;farmer
-919;3674;Nao;clerk
-919;3675;Sim;taxi driver
-919;3676;Nao;accountant
-920;3677;Sim;saleswoman
-920;3678;Nao;salesman
-920;3679;Nao;accountant
-920;3680;Nao;lawyer
-921;3681;Nao;fifty
-921;3682;Sim;fifteenth
-921;3683;Nao;five
-921;3684;Nao;fifteen
-922;3685;Sim;second
-922;3686;Nao;two
-922;3687;Nao;twenty
-922;3688;Nao;twelve
-923;3689;Nao;three
-923;3690;Nao;thirteen
-923;3691;Nao;thirty
-923;3692;Sim;third
-924;3693;Nao;Norway
-924;3694;Nao;Norwegian
-924;3695;Sim;Swedish
-924;3696;Nao;Swiss
-925;3697;Nao;Sweden
-925;3698;Nao;England
-925;3699;Sim;Switzerland
-925;3700;Nao;Norway
-926;3701;Nao;accountants
-926;3702;Nao;architects
-926;3703;Sim;bakers
-926;3704;Nao;lawyers
-927;3705;Nao;baker
-927;3706;Nao;musician
-927;3707;Sim;painter
-927;3708;Nao;bricklayer
-928;3709;Nao;bricklayer
-928;3710;Nao;painter
-928;3711;Sim;musician
-928;3712;Nao;artisan
-929;3713;Nao;physicist
-929;3714;Nao;doctor
-929;3715;Nao;lawyer
-929;3716;Sim;veterinarian
-930;3717;Nao;flight attendants
-930;3718;Nao;airplane pilots
-930;3719;Nao;taxi drivers
-930;3720;Sim;bus drivers
-931;3721;Nao;airplane pilots
-931;3722;Sim;flight attendants
-931;3723;Nao;nurses
-931;3724;Nao;doctors
-932;3725;Sim;Police officers
-932;3726;Nao;Bakers
-932;3727;Nao;Musicians
-932;3728;Nao;Doctors
-933;3729;Sim;mailman
-933;3730;Nao;taxi driver
-933;3731;Nao;bricklayer
-933;3732;Nao;architect
-934;3733;Sim;bricklayers
-934;3734;Nao;accountants
-934;3735;Nao;veterinarians
-934;3736;Nao;nurses
-935;3737;Nao;mailman
-935;3738;Sim;architect
-935;3739;Nao;lawyer
-935;3740;Nao;physicist
-936;3741;Nao;lawyers
-936;3742;Nao;doctors
-936;3743;Sim;physicists
-936;3744;Nao;accountants
-937;3745;Nao;veterinarian
-937;3746;Sim;hairdresser
-937;3747;Nao;artisan
-937;3748;Nao;actress
-938;3749;Nao;Accountants
-938;3750;Nao;Housemaids
-938;3751;Nao;Artisans
-938;3752;Sim;Airplane pilots
-939;3753;Nao;1880
-939;3754;Nao;1998
-939;3755;Sim;1980
-939;3756;Nao;1918
-940;3757;Nao;twelve
-940;3758;Nao;twenty
-940;3759;Sim;twentieth 
-940;3760;Nao;twelveth
-941;3761;Sim;is
-941;3762;Nao;should be
-941;3763;Nao;isn't
-941;3764;Nao;was never
-942;3765;Sim;waiter
-942;3766;Nao;fireman
-942;3767;Nao;footballer
-942;3768;Nao;therapist
-943;3769;Sim;painter
-943;3770;Nao;doctor
-943;3771;Nao;journalist
-943;3772;Nao;waiter
-944;3773;Nao;advertiser
-944;3774;Sim;teacher
-944;3775;Nao;translator
-944;3776;Nao;footballer
-945;3777;Nao;housekeeper
-945;3778;Sim;judge
-945;3779;Nao;gardener
-945;3780;Nao;doctor
-946;3781;Sim;fifteenth
-946;3782;Nao;fifty
-946;3783;Nao;five
-946;3784;Nao;fifteen
-947;3785;Nao;twenty
-947;3786;Nao;two
-947;3787;Sim;second
-947;3788;Nao;twelve
-948;3789;Nao;twelve
-948;3790;Nao;three
-948;3791;Sim;third
-948;3792;Nao;thirteen
-949;3793;Nao;six
-949;3794;Sim;sixteenth
-949;3795;Nao;sixty
-949;3796;Nao;sixteen
-950;3797;Nao;forty-two
-950;3798;Nao;forty
-950;3799;Nao;two
-950;3800;Sim;forty-second
-951;3801;Nao;half past six
-951;3802;Nao;a quarter past seven
-951;3803;Nao;ten to seven
-951;3804;Sim;a quarter to seven
-952;3805;Nao;01:15
-952;3806;Sim;01:45
-952;3807;Nao;02:45
-952;3808;Nao;02:15
-953;3809;Nao;half past eleven
-953;3810;Sim;a quarter past eleven
-953;3811;Nao;a quarter to eleven
-953;3812;Nao;ten past eleven
-954;3813;Nao;12:15
-954;3814;Sim;12:30
-954;3815;Nao;11:30
-954;3816;Nao;11:15
-955;3817;Nao;for
-955;3818;Nao;around
-955;3819;Nao;in
-955;3820;Sim;past
-956;3821;Sim;Swiss
-956;3822;Nao;Swedish
-956;3823;Nao;Swede
-956;3824;Nao;Switzerland
-957;3825;Sim;French
-957;3826;Nao;Italian
-957;3827;Nao;Spanish
-957;3828;Nao;Greek
-958;3829;Nao;American
-958;3830;Nao;Greek
-958;3831;Sim;Canadian
-958;3832;Nao;French
-959;3833;Nao;Portuguese
-959;3834;Nao;Brazil
-959;3835;Sim;Brazilian 
-959;3836;Nao;Portugal
-960;3837;Sim;Mexican
-960;3838;Nao;Spain
-960;3839;Nao;Mexico
-960;3840;Nao;Spanish
-961;3841;Nao;A designer
-961;3842;Sim;An architect
-961;3843;Nao;A pilot
-961;3844;Nao;A manager
-962;3845;Nao;A carpenter
-962;3846;Nao;A stewardess
-962;3847;Sim;A waitress
-962;3848;Nao;A waiter
-963;3849;Sim;Tuesday
-963;3850;Nao;Thursday
-963;3851;Nao;First
-963;3852;Nao;Sunday
-964;3853;Nao;thirty
-964;3854;Nao;tirtieth
-964;3855;Nao;thirteenth
-964;3856;Sim;third
-965;3857;Nao;on the
-965;3858;Sim;in the
-965;3859;Nao;to the
-965;3860;Nao;for the
-966;3861;Nao;Friday
-966;3862;Nao;Wednesday
-966;3863;Sim;Thursday
-966;3864;Nao;Tuesday
-967;3865;Nao;September
-967;3866;Sim;August
-967;3867;Nao;April
-967;3868;Nao;June
-968;3869;Sim;one hundred
-968;3870;Nao;one trillion
-968;3871;Nao;one million
-968;3872;Nao;one thousand
-969;3873;Sim;fifth
-969;3874;Nao;five
-969;3875;Nao;fifty
-969;3876;Nao;fifteen
-970;3877;Sim;twenty-first
-970;3878;Nao;fifty-one
-970;3879;Nao;fifty-first
-970;3880;Nao;twenty-one
-971;3881;Nao;fifty-one
-971;3882;Sim;first
-971;3883;Nao;one
-971;3884;Nao;fifty-first
-972;3885;Sim;teacher
-972;3886;Nao;doctor
-972;3887;Nao;lawyer
-972;3888;Nao;accountant
-973;3889;Nao;nurses
-973;3890;Nao;lawyers
-973;3891;Sim;actors
-973;3892;Nao;doctors
-974;3893;Nao;lawyers
-974;3894;Sim;waiters
-974;3895;Nao;accountants
-974;3896;Nao;teachers
-975;3897;Nao;waiters
-975;3898;Nao;clerks
-975;3899;Sim;cooks
-975;3900;Nao;cashiers
-976;3901;Nao;dentist
-976;3902;Nao;lawyer
-976;3903;Sim;architect
-976;3904;Nao;doctor
-977;3905;Nao;accountant
-977;3906;Nao;pilot
-977;3907;Sim;farmer
-977;3908;Nao;chauffeur
-978;3909;Nao;cleaner
-978;3910;Sim;swimmer
-978;3911;Nao;nurse
-978;3912;Nao;doctor
-979;3913;Nao;mechanical
-979;3914;Nao;office worker
-979;3915;Sim;mechanic
-979;3916;Nao;fireman
-980;3917;Sim;past
-980;3918;Nao;more
-980;3919;Nao;plus
-980;3920;Nao;to
-981;3921;Nao;British/australian
-981;3922;Nao;Australian/Switzerland
-981;3923;Sim;British/American
-981;3924;Nao;Japanese/Korea
-982;3925;Nao;engineer
-982;3926;Nao;architect
-982;3927;Sim;web designer
-982;3928;Nao;doorman
-983;3929;Nao;lawyer
-983;3930;Nao;nurse
-983;3931;Nao;butcher
-983;3932;Sim;dentist
-984;3933;Nao;waiter
-984;3934;Sim;gardener
-984;3935;Nao;plumber
-984;3936;Nao;postman
-985;3937;Nao;January
-985;3938;Nao;March
-985;3939;Sim;May
-985;3940;Nao;April
-986;3941;Nao;Weekend
-986;3942;Sim;Thursday
-986;3943;Nao;Tuesday
-986;3944;Nao;Saturday
-987;3945;Sim;Dutch
-987;3946;Nao;Holland
-987;3947;Nao;German
-987;3948;Nao;Swiss
-988;3949;Nao;the fiveth
-988;3950;Nao;fifit
-988;3951;Nao;fiveth
-988;3952;Sim;fifth
-989;3953;Sim;Chilean/Canadian
-989;3954;Nao;Russian/Turkian
-989;3955;Nao;french/american
-989;3956;Nao;Switzerland/Sweden
-990;3957;Sim;doctor
-990;3958;Nao;footballer
-990;3959;Nao;seamstress
-990;3960;Nao;journalist
-991;3961;Sim;at 9 o'clock
-991;3962;Nao;from Friday by Monday
-991;3963;Nao;for Thursday until Sunday
-991;3964;Nao;10 o'clock
-992;3965;Nao;Cleaners, cooks and gardeners
-992;3966;Nao;Butchers, hostesses and managers
-992;3967;Nao;Bakers, designers and chefs
-992;3968;Sim;Chefs, cooks and cleaners
-993;3969;Sim;a quarter to seven
-993;3970;Nao;half past seven
-993;3971;Nao;ten past seven
-993;3972;Nao;a quarter past seven
-994;3973;Sim;half past six
-994;3974;Nao;half past seven
-994;3975;Nao;a quarter to six
-994;3976;Nao;a quarter past six
-995;3977;Nao;a quarter past eight
-995;3978;Nao;half past seven
-995;3979;Nao;a quarter to eight
-995;3980;Sim;half past eight
-996;3981;Nao;lawyer
-996;3982;Sim;physicist
-996;3983;Nao;clerk
-996;3984;Nao;veterinarian
-997;3985;Nao;veterinarian
-997;3986;Nao;baker
-997;3987;Nao;cook
-997;3988;Sim;journalist
-998;3989;Sim;a quarter to nine
-998;3990;Nao;half past nine
-998;3991;Nao;nine
-998;3992;Nao;a quarter past nine
-999;3993;Nao;a quarter past five
-999;3994;Nao;a quarter to five
-999;3995;Sim;ten past five
-999;3996;Nao;ten to five
-1000;3997;Nao;one o'clock
-1000;3998;Nao;five past two
-1000;3999;Nao;a quarter past five
-1000;4000;Sim;five to two
+1001;4001;Nao;makes
+1001;4002;Sim;is making
+1001;4003;Nao;was making
+1001;4004;Nao;made
+1002;4005;Sim;was having
+1002;4006;Nao;had
+1002;4007;Nao;having
+1002;4008;Nao;have
+1003;4009;Sim;were driving
+1003;4010;Nao;driving
+1003;4011;Nao;was driving
+1003;4012;Nao;driven
+1004;4013;Nao;do get
+1004;4014;Nao;getting
+1004;4015;Nao;get
+1004;4016;Sim;am getting
+1005;4017;Nao;was shouting
+1005;4018;Sim;were shouting
+1005;4019;Nao;are shouting
+1005;4020;Nao;is shouting
+1006;4021;Sim;is/reading
+1006;4022;Nao;is/read
+1006;4023;Nao;went/reading
+1006;4024;Nao;was/read
+1007;4025;Nao;try
+1007;4026;Sim;are trying
+1007;4027;Nao;needed
+1007;4028;Nao;tried
+1008;4029;Nao;is/thinking
+1008;4030;Nao;are/think
+1008;4031;Sim;are/thinking
+1008;4032;Nao;is/think
+1009;4033;Nao;am taking
+1009;4034;Nao;are taking
+1009;4035;Sim;am getting
+1009;4036;Nao;is getting
+1010;4037;Nao;was/leaving
+1010;4038;Sim;are/leaving
+1010;4039;Nao;do/leave
+1010;4040;Nao;do/leaving
+1011;4041;Nao;do/do
+1011;4042;Nao;is/doing
+1011;4043;Nao;were/doing
+1011;4044;Sim;are/doing
+1012;4045;Nao;sleep
+1012;4046;Sim;are sleeping
+1012;4047;Nao;isn't sleeping
+1012;4048;Nao;is sleeping
+1013;4049;Nao;is having
+1013;4050;Nao;don't have
+1013;4051;Sim;are having
+1013;4052;Nao;were having
+1014;4053;Nao;am having
+1014;4054;Nao;is having
+1014;4055;Nao;are having
+1014;4056;Sim;was having
+1015;4057;Nao;had had
+1015;4058;Nao;are having
+1015;4059;Nao;am having
+1015;4060;Sim;was having
+1016;4061;Nao;were raining
+1016;4062;Nao;are raining
+1016;4063;Sim;was raining
+1016;4064;Nao;isn't raining
+1017;4065;Nao;took
+1017;4066;Nao;was taking
+1017;4067;Sim;was feeling
+1017;4068;Nao;are feeling
+1018;4069;Nao;will have worked
+1018;4070;Nao;have to work
+1018;4071;Sim;was working
+1018;4072;Nao;will be working
+1019;4073;Nao;have you driven
+1019;4074;Sim;were you driving
+1019;4075;Nao;are you driving
+1019;4076;Nao;do you drive
+1020;4077;Sim;are playing
+1020;4078;Nao;was playing
+1020;4079;Nao;would play
+1020;4080;Nao;played
+1021;4081;Nao;washed
+1021;4082;Nao;was washing
+1021;4083;Nao;washes
+1021;4084;Sim;is washing
+1022;4085;Nao;will you call
+1022;4086;Nao;you call
+1022;4087;Sim;are you calling
+1022;4088;Nao;you are calling
+1023;4089;Nao;waited
+1023;4090;Sim;are waiting
+1023;4091;Nao;wait
+1023;4092;Nao;is waiting
+1024;4093;Nao;skated
+1024;4094;Sim;are skating
+1024;4095;Nao;were skating
+1024;4096;Nao;skate
+1025;4097;Nao;were playing
+1025;4098;Sim;was playing
+1025;4099;Nao;is playing
+1025;4100;Nao;plays
+1026;4101;Nao;I watch
+1026;4102;Nao;I were watching
+1026;4103;Nao;I watched
+1026;4104;Sim;I'm watching
+1027;4105;Nao;went
+1027;4106;Sim;was going
+1027;4107;Nao;am going
+1027;4108;Nao;was taking
+1028;4109;Nao;Did/sleep
+1028;4110;Nao;Will/be sleeping
+1028;4111;Nao;Are/sleeping
+1028;4112;Sim;Were/sleeping
+1029;4113;Nao;is wearing
+1029;4114;Nao;didn't wear
+1029;4115;Sim;was wearing
+1029;4116;Nao;wore
+1030;4117;Sim;is washing/is cooking
+1030;4118;Nao;washed/cooked
+1030;4119;Nao;was washing/is cooking
+1030;4120;Nao;were washing/is cooking
+1031;4121;Nao;Did/study
+1031;4122;Nao;Was/studying
+1031;4123;Sim;Is/studying
+1031;4124;Nao;Were/studying
+1032;4125;Sim;is getting
+1032;4126;Nao;gets
+1032;4127;Nao;was getting
+1032;4128;Nao;didn't get
+1033;4129;Nao;saved
+1033;4130;Nao;didn't save
+1033;4131;Nao;was saving
+1033;4132;Sim;am saving
+1034;4133;Nao;am doing
+1034;4134;Nao;was not doing
+1034;4135;Nao;don't do
+1034;4136;Sim;am not doing
+1035;4137;Nao;am printing
+1035;4138;Nao;didn't print
+1035;4139;Nao;printed
+1035;4140;Sim;was printing
+1036;4141;Nao;are/doing
+1036;4142;Nao;will/be doing
+1036;4143;Nao;was/doing
+1036;4144;Sim;were/doing
+1037;4145;Nao;skies
+1037;4146;Nao;skied
+1037;4147;Sim;was skiing
+1037;4148;Nao;is skiing
+1038;4149;Nao;is running
+1038;4150;Nao;were running
+1038;4151;Nao;didn't run
+1038;4152;Sim;was running
+1039;4153;Nao;is boiling
+1039;4154;Sim;was boiling
+1039;4155;Nao;didn't boil
+1039;4156;Nao;will be boiling
+1040;4157;Nao;am not watching
+1040;4158;Nao;am watching
+1040;4159;Sim;was watching
+1040;4160;Nao;watched
+1041;4161;Sim;were/talking
+1041;4162;Nao;was/talking
+1041;4163;Nao;are/talking
+1041;4164;Nao;did/talk
+1042;4165;Sim;is shining
+1042;4166;Nao;was shining
+1042;4167;Nao;shined
+1042;4168;Nao;shining
+1043;4169;Nao;wears
+1043;4170;Nao;wore
+1043;4171;Nao;was wearing
+1043;4172;Sim;is wearing
+1044;4173;Nao;he carries
+1044;4174;Sim;he is carrying
+1044;4175;Nao;he was carrying
+1044;4176;Nao;is he carrying
+1045;4177;Sim;are you doing/am fixing
+1045;4178;Nao;do you do/fixed
+1045;4179;Nao;you are doing/am fixing
+1045;4180;Nao;do you do/fix
+1046;4181;Sim;am having
+1046;4182;Nao;have 
+1046;4183;Nao;were having
+1046;4184;Nao;was having
+1047;4185;Nao;would work
+1047;4186;Sim;was working
+1047;4187;Nao;were working
+1047;4188;Nao;is working
+1048;4189;Sim;was blowing
+1048;4190;Nao;has blown
+1048;4191;Nao;is blowing
+1048;4192;Nao;blows
+1049;4193;Nao;he is doing
+1049;4194;Nao;he has done
+1049;4195;Nao;was he doing
+1049;4196;Sim;he was doing
+1050;4197;Nao;were finding
+1050;4198;Nao;are looking for
+1050;4199;Nao;looked for
+1050;4200;Sim;were looking for
+1051;4201;Nao;are you doing/waited
+1051;4202;Nao;were you doing here/am waiting 
+1051;4203;Sim;are you doing/am waiting
+1051;4204;Nao;you are doing/am waiting
+1052;4205;Nao;Will/work
+1052;4206;Nao;You are/working
+1052;4207;Nao;Were you/working
+1052;4208;Sim;Are you/working
+1053;4209;Nao;am not feeling
+1053;4210;Sim;wasn't feeling
+1053;4211;Nao;weren't feeling
+1053;4212;Nao;haven't felt
+1054;4213;Nao;was sleeping
+1054;4214;Nao;sleeps
+1054;4215;Sim;is sleeping
+1054;4216;Nao;were sleeping
+1055;4217;Sim;was he doing/was talking
+1055;4218;Nao;he was doing/was talking
+1055;4219;Nao;was he doing/talked
+1055;4220;Nao;did he do/was talking
+1056;4221;Nao;am working
+1056;4222;Sim;was working
+1056;4223;Nao;work
+1056;4224;Nao;were working
+1057;4225;Nao;were working/listening
+1057;4226;Nao;am working/listening
+1057;4227;Nao;worked/listened
+1057;4228;Sim;was working/listening
+1058;4229;Nao;is carrying
+1058;4230;Sim;was carrying
+1058;4231;Nao;carried
+1058;4232;Nao;carries
+1059;4233;Sim;I wasn't paying/you were saying
+1059;4234;Nao;I wasn't paying/were you saying
+1059;4235;Nao;didn't pay/say
+1059;4236;Nao;I weren't paying/you said
+1060;4237;Nao;I was having
+1060;4238;Nao;I have
+1060;4239;Sim;I'm having
+1060;4240;Nao;I had
+1061;4241;Nao;swam
+1061;4242;Sim;is swimming
+1061;4243;Nao;were swimming
+1061;4244;Nao;was swimming
+1062;4245;Nao;played
+1062;4246;Nao;was playing
+1062;4247;Nao;are playing
+1062;4248;Sim;were playing
+1063;4249;Nao;wears
+1063;4250;Sim;was wearing
+1063;4251;Nao;is wearing
+1063;4252;Nao;were wearing
+1064;4253;Nao;fall/watched
+1064;4254;Sim;fell/was watching
+1064;4255;Nao;fell/watches
+1064;4256;Nao;fell/were watching
+1065;4257;Sim;was walking
+1065;4258;Nao;walk
+1065;4259;Nao;were walking
+1065;4260;Nao;am walking
+1066;4261;Sim;I'm not watching
+1066;4262;Nao;I were not watching
+1066;4263;Nao;I didn't watch
+1066;4264;Nao;I watched
+1067;4265;Sim;Are you still studying
+1067;4266;Nao;Were you still studying
+1067;4267;Nao;You are still studying
+1067;4268;Nao;Do you still study
+1068;4269;Nao;you played
+1068;4270;Nao;you play
+1068;4271;Nao;you are playing
+1068;4272;Sim;are you playing
+1069;4273;Nao;I can go
+1069;4274;Nao;I was going
+1069;4275;Sim;I'm going
+1069;4276;Nao;I would go
+1070;4277;Nao;was doing/was playing
+1070;4278;Nao;does/plays
+1070;4279;Nao;did/played
+1070;4280;Sim;is doing/is playing
+1071;4281;Nao;would burn
+1071;4282;Sim;is burning
+1071;4283;Nao;burns
+1071;4284;Nao;was burning
+1072;4285;Nao;were you doing/looked
+1072;4286;Nao;were you doing/I were looking
+1072;4287;Sim;are you doing/I am looking
+1072;4288;Nao;you are doing/I am looking
+1073;4289;Nao;is losing
+1073;4290;Nao;lost
+1073;4291;Sim;was losing
+1073;4292;Nao;were losing
+1074;4293;Nao;were driving
+1074;4294;Nao;drove
+1074;4295;Sim;was driving
+1074;4296;Nao;will drive
+1075;4297;Nao;rings
+1075;4298;Sim;is ringing
+1075;4299;Nao;was ringing
+1075;4300;Nao;rang
+1076;4301;Nao;is yelling
+1076;4302;Sim;are yelling
+1076;4303;Nao;yelled
+1076;4304;Nao;will yell
+1077;4305;Sim;are you playing
+1077;4306;Nao;you play
+1077;4307;Nao;do you play
+1077;4308;Nao;you are playing
+1078;4309;Nao;drove
+1078;4310;Sim;was driving
+1078;4311;Nao;have driven
+1078;4312;Nao;am driving
+1079;4313;Sim;am having
+1079;4314;Nao;would have
+1079;4315;Nao;could have
+1079;4316;Nao;were having
+1080;4317;Nao;studies
+1080;4318;Nao;studied
+1080;4319;Nao;was studying
+1080;4320;Sim;is studying
+1081;4321;Nao;had
+1081;4322;Nao;was having 
+1081;4323;Sim;is having
+1081;4324;Nao;has
+1082;4325;Sim;is making
+1082;4326;Nao;makes
+1082;4327;Nao;was making
+1082;4328;Nao;will make
+1083;4329;Nao;have
+1083;4330;Nao;am having 
+1083;4331;Nao;had
+1083;4332;Sim;are having 
+1084;4333;Nao;was seeing
+1084;4334;Nao;is seen
+1084;4335;Nao;saw
+1084;4336;Sim;is seeing
+1085;4337;Sim;is raining
+1085;4338;Nao;rained
+1085;4339;Nao;rains
+1085;4340;Nao;was raining
+1086;4341;Nao;waited
+1086;4342;Nao;could wait
+1086;4343;Sim;is waiting
+1086;4344;Nao;was waiting
+1087;4345;Nao;sleep
+1087;4346;Nao;are sleeping
+1087;4347;Sim;were sleeping
+1087;4348;Nao;was sleeping
+1088;4349;Nao;will be having
+1088;4350;Nao;have
+1088;4351;Sim;was having
+1088;4352;Nao;am having
+1089;4353;Sim;were watching
+1089;4354;Nao;will be watching
+1089;4355;Nao;watch
+1089;4356;Nao;are watching
+1090;4357;Nao;is cooking
+1090;4358;Sim;was cooking
+1090;4359;Nao;will cook
+1090;4360;Nao;cooks
+1091;4361;Nao;is shining
+1091;4362;Sim;was shining
+1091;4363;Nao;will be shining
+1091;4364;Nao;shines
+1092;4365;Nao;will walk
+1092;4366;Nao;is walking
+1092;4367;Nao;walk
+1092;4368;Sim;was walking
+1093;4369;Nao;will try on
+1093;4370;Sim;was trying on
+1093;4371;Nao;tries on
+1093;4372;Nao;is trying on
+1094;4373;Nao;is/doing
+1094;4374;Sim;was/doing
+1094;4375;Nao;does/do
+1094;4376;Nao;will/do
+1095;4377;Nao;watch
+1095;4378;Sim;am watching
+1095;4379;Nao;watched
+1095;4380;Nao;was watching
+1096;4381;Nao;make
+1096;4382;Nao;were making
+1096;4383;Sim;are making
+1096;4384;Nao;made
+1097;4385;Nao;watch
+1097;4386;Nao;didn't watch
+1097;4387;Nao;will watch
+1097;4388;Sim;are not watching
+1098;4389;Sim;Is/feeling
+1098;4390;Nao;Was/feeling
+1098;4391;Nao;Were/feeling
+1098;4392;Nao;Did/feel
+1099;4393;Nao;talk/are playing
+1099;4394;Sim;are not talking/are playing
+1099;4395;Nao;were not talking/were playing
+1099;4396;Nao;talk/play
+1100;4397;Nao;protest
+1100;4398;Nao;were protesting
+1100;4399;Nao;protested
+1100;4400;Sim;are protesting
+1101;4401;Nao;from
+1101;4402;Sim;for
+1101;4403;Nao;in
+1101;4404;Nao;since
+1102;4405;Nao;at
+1102;4406;Nao;on
+1102;4407;Nao;to
+1102;4408;Sim;in
+1103;4409;Nao;by
+1103;4410;Sim;at 
+1103;4411;Nao;on
+1103;4412;Nao;in
+1104;4413;Sim;at/in
+1104;4414;Nao;on/at
+1104;4415;Nao;in/in
+1104;4416;Nao;at/of
+1105;4417;Nao;past
+1105;4418;Sim;ago
+1105;4419;Nao;back
+1105;4420;Nao;before
+1106;4421;Sim;at/on
+1106;4422;Nao;in/for
+1106;4423;Nao;on/at
+1106;4424;Nao;in/on
+1107;4425;Nao;on
+1107;4426;Sim;in
+1107;4427;Nao;until
+1107;4428;Nao;at
+1108;4429;Nao;In
+1108;4430;Sim;On
+1108;4431;Nao;By
+1108;4432;Nao;For
+1109;4433;Nao;at/after
+1109;4434;Nao;on/before
+1109;4435;Nao;in/in
+1109;4436;Sim;in/before
+1110;4437;Sim;at/in
+1110;4438;Nao;in/in
+1110;4439;Nao;on/in
+1110;4440;Nao;at/on
+1111;4441;Nao;with
+1111;4442;Sim;about
+1111;4443;Nao;on
+1111;4444;Nao;at
+1112;4445;Nao;by
+1112;4446;Sim;to
+1112;4447;Nao;for
+1112;4448;Nao;of
+1113;4449;Nao;at
+1113;4450;Nao;by
+1113;4451;Nao;with
+1113;4452;Sim;of
+1114;4453;Sim;for
+1114;4454;Nao;of
+1114;4455;Nao;about
+1114;4456;Nao;on
+1115;4457;Nao;for
+1115;4458;Nao;at
+1115;4459;Nao;of
+1115;4460;Sim;about
+1116;4461;Sim;to/in
+1116;4462;Nao;at/in
+1116;4463;Nao;for/on
+1116;4464;Nao;to/at
+1117;4465;Nao;over 
+1117;4466;Nao;by
+1117;4467;Nao;before
+1117;4468;Sim;for
+1118;4469;Nao;through
+1118;4470;Nao;of
+1118;4471;Sim;by
+1118;4472;Nao;on
+1119;4473;Nao;on
+1119;4474;Nao;about
+1119;4475;Nao;at
+1119;4476;Sim;for
+1120;4477;Nao;to
+1120;4478;Sim;in
+1120;4479;Nao;as
+1120;4480;Nao;on
+1121;4481;Nao;on
+1121;4482;Sim;with
+1121;4483;Nao;in
+1121;4484;Nao;at
+1122;4485;Nao;from
+1122;4486;Sim;of
+1122;4487;Nao;at
+1122;4488;Nao;by
+1123;4489;Nao;for
+1123;4490;Nao;of
+1123;4491;Nao;on
+1123;4492;Sim;with
+1124;4493;Sim;at
+1124;4494;Nao;in 
+1124;4495;Nao;on
+1124;4496;Nao;above
+1125;4497;Sim;in
+1125;4498;Nao;on
+1125;4499;Nao;at
+1125;4500;Nao;about
+1126;4501;Nao;in
+1126;4502;Sim;on
+1126;4503;Nao;at
+1126;4504;Nao;over
+1127;4505;Nao;in
+1127;4506;Sim;under
+1127;4507;Nao;at
+1127;4508;Nao;across
+1128;4509;Nao;at
+1128;4510;Sim;on
+1128;4511;Nao;in
+1128;4512;Nao;beyond
+1129;4513;Sim;beyond
+1129;4514;Nao;at
+1129;4515;Nao;for
+1129;4516;Nao;of
+1130;4517;Sim;in
+1130;4518;Nao;on
+1130;4519;Nao;at
+1130;4520;Nao;from
+1131;4521;Nao;below
+1131;4522;Nao;from
+1131;4523;Sim;for
+1131;4524;Nao;in
+1132;4525;Nao;across
+1132;4526;Nao;on
+1132;4527;Nao;in
+1132;4528;Sim;at
+1133;4529;Nao;below
+1133;4530;Nao;from
+1133;4531;Nao;beyond
+1133;4532;Sim;on
+1134;4533;Nao;from
+1134;4534;Sim;at
+1134;4535;Nao;in
+1134;4536;Nao;on
+1135;4537;Nao;in
+1135;4538;Nao;of
+1135;4539;Nao;from
+1135;4540;Sim;on
+1136;4541;Nao;on
+1136;4542;Nao;from
+1136;4543;Nao;at
+1136;4544;Sim;in
+1137;4545;Nao;at
+1137;4546;Sim;in
+1137;4547;Nao;beyond
+1137;4548;Nao;on
+1138;4549;Nao;over
+1138;4550;Sim;on
+1138;4551;Nao;at
+1138;4552;Nao;in
+1139;4553;Nao;on
+1139;4554;Nao;of
+1139;4555;Nao;from
+1139;4556;Sim;at
+1140;4557;Nao;on/of
+1140;4558;Sim;on/at
+1140;4559;Nao;in/from
+1140;4560;Nao;in/at
+1141;4561;Nao;in
+1141;4562;Sim;at
+1141;4563;Nao;on
+1141;4564;Nao;of
+1142;4565;Sim;by
+1142;4566;Nao;on
+1142;4567;Nao;in
+1142;4568;Nao;of
+1143;4569;Sim;behind
+1143;4570;Nao;above
+1143;4571;Nao;of
+1143;4572;Nao;on
+1144;4573;Sim;on/around
+1144;4574;Nao;in/over
+1144;4575;Nao;by/over
+1144;4576;Nao;at/around
+1145;4577;Nao;on
+1145;4578;Nao;by
+1145;4579;Nao;with
+1145;4580;Sim;in
+1146;4581;Nao;at
+1146;4582;Nao;to
+1146;4583;Nao;with
+1146;4584;Sim;for 
+1147;4585;Nao;with
+1147;4586;Sim;for
+1147;4587;Nao;by
+1147;4588;Nao;due
+1148;4589;Nao;on
+1148;4590;Sim;of
+1148;4591;Nao;for
+1148;4592;Nao;with
+1149;4593;Sim;in
+1149;4594;Nao;for
+1149;4595;Nao;with
+1149;4596;Nao;by
+1150;4597;Nao;at
+1150;4598;Sim;for
+1150;4599;Nao;on
+1150;4600;Nao;to
+1151;4601;Nao;at
+1151;4602;Nao;by
+1151;4603;Sim;with
+1151;4604;Nao;for
+1152;4605;Nao;on
+1152;4606;Nao;with
+1152;4607;Sim;at
+1152;4608;Nao;in
+1153;4609;Nao;On/by
+1153;4610;Nao;By/on
+1153;4611;Sim;By/by
+1153;4612;Nao;With/on
+1154;4613;Nao;to
+1154;4614;Nao;and
+1154;4615;Nao;in
+1154;4616;Sim;with
+1155;4617;Nao;at
+1155;4618;Nao;in
+1155;4619;Nao;with
+1155;4620;Sim;on
+1156;4621;Sim;into/for
+1156;4622;Nao;to/to
+1156;4623;Nao;in/to
+1156;4624;Nao;on/for
+1157;4625;Nao;for
+1157;4626;Sim;of
+1157;4627;Nao;on
+1157;4628;Nao;from
+1158;4629;Sim;of/from
+1158;4630;Nao;with/in
+1158;4631;Nao;to/from
+1158;4632;Nao;of/on
+1159;4633;Nao;at
+1159;4634;Nao;of
+1159;4635;Sim;with
+1159;4636;Nao;on
+1160;4637;Sim;about/at
+1160;4638;Nao;of/at
+1160;4639;Nao;for/in
+1160;4640;Nao;of/with
+1161;4641;Nao;behind
+1161;4642;Nao;by
+1161;4643;Sim;under
+1161;4644;Nao;next
+1162;4645;Nao;In/with
+1162;4646;Nao;In/to
+1162;4647;Nao;On/of
+1162;4648;Sim;On/with
+1163;4649;Nao;at/on
+1163;4650;Sim;at/at
+1163;4651;Nao;in/in
+1163;4652;Nao;in/at
+1164;4653;Sim;in/at
+1164;4654;Nao;in/on
+1164;4655;Nao;at/at
+1164;4656;Nao;on/at
+1165;4657;Nao;in/at
+1165;4658;Nao;at/at
+1165;4659;Sim;at/in
+1165;4660;Nao;in/on
+1166;4661;Sim;at
+1166;4662;Nao;over
+1166;4663;Nao;next
+1166;4664;Nao;with
+1167;4665;Sim;in
+1167;4666;Nao;from
+1167;4667;Nao;over
+1167;4668;Nao;of
+1168;4669;Nao;under
+1168;4670;Sim;in
+1168;4671;Nao;at
+1168;4672;Nao;on
+1169;4673;Nao;from
+1169;4674;Nao;in
+1169;4675;Nao;to
+1169;4676;Sim;on
+1170;4677;Sim;Since
+1170;4678;Nao;At
+1170;4679;Nao;In
+1170;4680;Nao;For
+1171;4681;Sim;at
+1171;4682;Nao;on
+1171;4683;Nao;from
+1171;4684;Nao;for
+1172;4685;Nao;from
+1172;4686;Sim;on
+1172;4687;Nao;over
+1172;4688;Nao;in
+1173;4689;Nao;to
+1173;4690;Sim;at
+1173;4691;Nao;on
+1173;4692;Nao;in
+1174;4693;Nao;in
+1174;4694;Nao;to
+1174;4695;Nao;at
+1174;4696;Sim;for
+1175;4697;Sim;in
+1175;4698;Nao;from
+1175;4699;Nao;at
+1175;4700;Nao;on
+1176;4701;Sim;until/from
+1176;4702;Nao;before/in
+1176;4703;Nao;to/from
+1176;4704;Nao;until/in
+1177;4705;Sim;for
+1177;4706;Nao;at
+1177;4707;Nao;from
+1177;4708;Nao;since
+1178;4709;Nao;at
+1178;4710;Sim;since
+1178;4711;Nao;from
+1178;4712;Nao;for
+1179;4713;Sim;across
+1179;4714;Nao;before
+1179;4715;Nao;over
+1179;4716;Nao;in
+1180;4717;Nao;after
+1180;4718;Nao;before
+1180;4719;Nao;in
+1180;4720;Sim;at
+1181;4721;Nao;at/since
+1181;4722;Nao;since/on
+1181;4723;Nao;in/since
+1181;4724;Sim;on/since
+1182;4725;Nao;to
+1182;4726;Nao;by
+1182;4727;Sim;for
+1182;4728;Nao;with
+1183;4729;Nao;for
+1183;4730;Nao;at
+1183;4731;Sim;in
+1183;4732;Nao;on
+1184;4733;Nao;to do
+1184;4734;Nao;for doing
+1184;4735;Nao;on doing
+1184;4736;Sim;of doing
+1185;4737;Sim;of
+1185;4738;Nao;over
+1185;4739;Nao;by
+1185;4740;Nao;with
+1186;4741;Nao;for
+1186;4742;Nao;on
+1186;4743;Nao;to
+1186;4744;Sim;with
+1187;4745;Nao;between
+1187;4746;Nao;for
+1187;4747;Sim;with
+1187;4748;Nao;to
+1188;4749;Nao;to/of
+1188;4750;Sim;to/from
+1188;4751;Nao;of/by
+1188;4752;Nao;of/about
+1189;4753;Nao;with
+1189;4754;Nao;at
+1189;4755;Nao;of
+1189;4756;Sim;from
+1190;4757;Nao;at
+1190;4758;Nao;on
+1190;4759;Nao;of
+1190;4760;Sim;for
+1191;4761;Nao;to studying
+1191;4762;Sim;to study
+1191;4763;Nao;for study
+1191;4764;Nao;for studying
+1192;4765;Nao;for visit
+1192;4766;Sim;to visit
+1192;4767;Nao;to visiting
+1192;4768;Nao;for visiting
+1193;4769;Nao;by
+1193;4770;Nao;to
+1193;4771;Sim;from
+1193;4772;Nao;of
+1194;4773;Nao;with
+1194;4774;Sim;for
+1194;4775;Nao;to
+1194;4776;Nao;from
+1195;4777;Sim;of/for
+1195;4778;Nao;of/about
+1195;4779;Nao;to/for
+1195;4780;Nao;of/to
+1196;4781;Sim;in
+1196;4782;Nao;with
+1196;4783;Nao;by
+1196;4784;Nao;on
+1197;4785;Nao;on
+1197;4786;Nao;with
+1197;4787;Sim;by
+1197;4788;Nao;about
+1198;4789;Nao;to
+1198;4790;Nao;on
+1198;4791;Sim;with
+1198;4792;Nao;in
+1199;4793;Nao;with
+1199;4794;Sim;to
+1199;4795;Nao;of
+1199;4796;Nao;about
+1200;4797;Nao;on/about
+1200;4798;Nao;on/of
+1200;4799;Nao;in/of
+1200;4800;Sim;in/about
+1201;4801;Sim;him
+1201;4802;Nao;he
+1201;4803;Nao;you
+1201;4804;Nao;his
+1202;4805;Nao;our
+1202;4806;Sim;them
+1202;4807;Nao;they
+1202;4808;Nao;us
+1203;4809;Nao;them
+1203;4810;Sim;us
+1203;4811;Nao;her
+1203;4812;Nao;him
+1204;4813;Nao;you
+1204;4814;Nao;us
+1204;4815;Sim;it
+1204;4816;Nao;them
+1205;4817;Nao;them
+1205;4818;Nao;us
+1205;4819;Sim;her
+1205;4820;Nao;him
+1206;4821;Sim;them
+1206;4822;Nao;her
+1206;4823;Nao;their
+1206;4824;Nao;they
+1207;4825;Nao;your
+1207;4826;Nao;his
+1207;4827;Nao;they
+1207;4828;Sim;her
+1208;4829;Nao;them
+1208;4830;Sim;it
+1208;4831;Nao;him
+1208;4832;Nao;her
+1209;4833;Nao;her
+1209;4834;Sim;them
+1209;4835;Nao;their
+1209;4836;Nao;us
+1210;4837;Sim;us
+1210;4838;Nao;him
+1210;4839;Nao;them
+1210;4840;Nao;we
+1211;4841;Nao;us
+1211;4842;Nao;her
+1211;4843;Sim;it
+1211;4844;Nao;him
+1212;4845;Nao;him
+1212;4846;Nao;their
+1212;4847;Sim;it
+1212;4848;Nao;her
+1213;4849;Nao;oneself
+1213;4850;Nao;me
+1213;4851;Nao;you
+1213;4852;Sim;yourself
+1214;4853;Sim;you
+1214;4854;Nao;yours
+1214;4855;Nao;yourself
+1214;4856;Nao;your
+1215;4857;Nao;ourselves
+1215;4858;Nao;themselves
+1215;4859;Nao;oneself
+1215;4860;Sim;myself
+1216;4861;Sim;us
+1216;4862;Nao;they
+1216;4863;Nao;we
+1216;4864;Nao;he
+1217;4865;Nao;her
+1217;4866;Nao;they
+1217;4867;Sim;them
+1217;4868;Nao;him
+1218;4869;Nao;its
+1218;4870;Nao;him
+1218;4871;Nao;her
+1218;4872;Sim;it
+1219;4873;Sim;them
+1219;4874;Nao;him
+1219;4875;Nao;they
+1219;4876;Nao;it
+1220;4877;Nao;them
+1220;4878;Nao;his
+1220;4879;Sim;us
+1220;4880;Nao;hers
+1221;4881;Nao;her
+1221;4882;Nao;them
+1221;4883;Nao;him
+1221;4884;Sim;it
+1222;4885;Nao;them
+1222;4886;Sim;us
+1222;4887;Nao;our
+1222;4888;Nao;ours
+1223;4889;Nao;our
+1223;4890;Nao;they
+1223;4891;Sim;them
+1223;4892;Nao;us
+1224;4893;Nao;her
+1224;4894;Nao;them
+1224;4895;Sim;it
+1224;4896;Nao;him
+1225;4897;Nao;herself
+1225;4898;Nao;itself
+1225;4899;Nao;himself
+1225;4900;Sim;myself
+1226;4901;Nao;myself
+1226;4902;Nao;himself
+1226;4903;Nao;ourselves
+1226;4904;Sim;herself
+1227;4905;Sim;themselves
+1227;4906;Nao;ourselves
+1227;4907;Nao;himself
+1227;4908;Nao;herself
+1228;4909;Nao;ourselves
+1228;4910;Sim;yourself
+1228;4911;Nao;themselves
+1228;4912;Nao;herself
+1229;4913;Nao;oneself
+1229;4914;Sim;himself
+1229;4915;Nao;myself
+1229;4916;Nao;him
+1230;4917;Nao;himself
+1230;4918;Sim;myself
+1230;4919;Nao;themselves
+1230;4920;Nao;herself
+1231;4921;Nao;she
+1231;4922;Sim;herself
+1231;4923;Nao;her
+1231;4924;Nao;himself
+1232;4925;Sim;mine
+1232;4926;Nao;him
+1232;4927;Nao;my
+1232;4928;Nao;her
+1233;4929;Sim;its
+1233;4930;Nao;their
+1233;4931;Nao;her
+1233;4932;Nao;it's
+1234;4933;Nao;Ours/Yours
+1234;4934;Sim;Our/yours
+1234;4935;Nao;Our/your
+1234;4936;Nao;My/your
+1235;4937;Nao;them/my
+1235;4938;Nao;they/me
+1235;4939;Sim;them/me
+1235;4940;Nao;they/we
+1236;4941;Nao;ours/us
+1236;4942;Nao;us/us
+1236;4943;Nao;our/ours
+1236;4944;Sim;our/us
+1237;4945;Sim;yours
+1237;4946;Nao;your
+1237;4947;Nao;our
+1237;4948;Nao;yourself
+1238;4949;Nao;Them/they
+1238;4950;Nao;They're/them
+1238;4951;Sim;Their/them
+1238;4952;Nao;Their/they
+1239;4953;Nao;our
+1239;4954;Sim;us
+1239;4955;Nao;ourselves
+1239;4956;Nao;we
+1240;4957;Nao;my
+1240;4958;Sim;myself
+1240;4959;Nao;me
+1240;4960;Nao;I
+1241;4961;Nao;Hers/hers
+1241;4962;Nao;Her/her
+1241;4963;Nao;Hers/her
+1241;4964;Sim;Her/hers
+1242;4965;Sim;herself
+1242;4966;Nao;myself
+1242;4967;Nao;her
+1242;4968;Nao;yourself
+1243;4969;Nao;yourselves
+1243;4970;Nao;them
+1243;4971;Sim;themselves
+1243;4972;Nao;himself
+1244;4973;Nao;I
+1244;4974;Nao;my
+1244;4975;Sim;myself
+1244;4976;Nao;me
+1245;4977;Nao;us
+1245;4978;Nao;our
+1245;4979;Nao;we
+1245;4980;Sim;ourselves
+1246;4981;Nao;themselves
+1246;4982;Nao;herself
+1246;4983;Sim;myself
+1246;4984;Nao;me
+1247;4985;Nao;their
+1247;4986;Nao;theirs
+1247;4987;Nao;they
+1247;4988;Sim;them
+1248;4989;Sim;yours
+1248;4990;Nao;her
+1248;4991;Nao;their
+1248;4992;Nao;your
+1249;4993;Nao;my/your
+1249;4994;Sim;mine/yours
+1249;4995;Nao;mine/your
+1249;4996;Nao;my/yours
+1250;4997;Sim;him
+1250;4998;Nao;he
+1250;4999;Nao;himself
+1250;5000;Nao;his
+1251;5001;Sim;us
+1251;5002;Nao;you
+1251;5003;Nao;him
+1251;5004;Nao;ourselves
+1252;5005;Nao;its
+1252;5006;Nao;itself
+1252;5007;Sim;it
+1252;5008;Nao;yourself
+1253;5009;Nao;herself
+1253;5010;Nao;him
+1253;5011;Nao;hers
+1253;5012;Sim;her
+1254;5013;Nao;hers
+1254;5014;Sim;her
+1254;5015;Nao;herself
+1254;5016;Nao;him
+1255;5017;Nao;mine
+1255;5018;Sim;me
+1255;5019;Nao;I
+1255;5020;Nao;myself
+1256;5021;Sim;them
+1256;5022;Nao;him
+1256;5023;Nao;themselves
+1256;5024;Nao;they
+1257;5025;Sim;myself
+1257;5026;Nao;mine
+1257;5027;Nao;I
+1257;5028;Nao;me
+1258;5029;Nao;I
+1258;5030;Nao;mine
+1258;5031;Sim;myself
+1258;5032;Nao;me
+1259;5033;Sim;herself
+1259;5034;Nao;her
+1259;5035;Nao;she
+1259;5036;Nao;himself
+1260;5037;Sim;himself
+1260;5038;Nao;he
+1260;5039;Nao;him
+1260;5040;Nao;his
+1261;5041;Nao;your
+1261;5042;Sim;yourselves
+1261;5043;Nao;you
+1261;5044;Nao;themselves
+1262;5045;Sim;yourself
+1262;5046;Nao;your
+1262;5047;Nao;myself
+1262;5048;Nao;herself
+1263;5049;Nao;ourselves
+1263;5050;Nao;yourselves
+1263;5051;Nao;yourself
+1263;5052;Sim;themselves
+1264;5053;Nao;hers
+1264;5054;Sim;herself
+1264;5055;Nao;she
+1264;5056;Nao;yourself
+1265;5057;Nao;yourselves
+1265;5058;Nao;ourselves
+1265;5059;Nao;they
+1265;5060;Sim;themselves
+1266;5061;Sim;herself
+1266;5062;Nao;yourself
+1266;5063;Nao;hers
+1266;5064;Nao;she
+1267;5065;Nao;it
+1267;5066;Sim;itself
+1267;5067;Nao;its
+1267;5068;Nao;yourself
+1268;5069;Nao;myself
+1268;5070;Nao;herself
+1268;5071;Nao;my
+1268;5072;Sim;mine
+1269;5073;Nao;them
+1269;5074;Nao;their
+1269;5075;Sim;theirs
+1269;5076;Nao;they
+1270;5077;Nao;itself
+1270;5078;Nao;he
+1270;5079;Sim;his
+1270;5080;Nao;him
+1271;5081;Nao;she
+1271;5082;Sim;hers
+1271;5083;Nao;herself
+1271;5084;Nao;her
+1272;5085;Nao;himself
+1272;5086;Nao;him
+1272;5087;Nao;he
+1272;5088;Sim;his
+1273;5089;Nao;himself
+1273;5090;Sim;his
+1273;5091;Nao;she
+1273;5092;Nao;he
+1274;5093;Nao;she
+1274;5094;Nao;he
+1274;5095;Nao;your
+1274;5096;Sim;himself
+1275;5097;Nao;I
+1275;5098;Nao;me
+1275;5099;Sim;mine
+1275;5100;Nao;my
+1276;5101;Nao;itself
+1276;5102;Sim;himself
+1276;5103;Nao;yourself
+1276;5104;Nao;themselves
+1277;5105;Nao;them
+1277;5106;Nao;her
+1277;5107;Nao;our
+1277;5108;Sim;mine
+1278;5109;Sim;my sister's
+1278;5110;Nao;my sister
+1278;5111;Nao;her
+1278;5112;Nao;she's
+1279;5113;Sim;them
+1279;5114;Nao;they
+1279;5115;Nao;their
+1279;5116;Nao;hers
+1280;5117;Sim;her/me
+1280;5118;Nao;her/my
+1280;5119;Nao;hers/me
+1280;5120;Nao;her/I
+1281;5121;Nao;mine/his
+1281;5122;Nao;my/him
+1281;5123;Nao;me/he
+1281;5124;Sim;me/him
+1282;5125;Nao;mine
+1282;5126;Sim;myself
+1282;5127;Nao;me
+1282;5128;Nao;to me
+1283;5129;Nao;hers
+1283;5130;Sim;herself
+1283;5131;Nao;yourself
+1283;5132;Nao;her
+1284;5133;Nao;he
+1284;5134;Nao;his
+1284;5135;Sim;him
+1284;5136;Nao;himself
+1285;5137;Nao;her
+1285;5138;Nao;hers
+1285;5139;Sim;herself
+1285;5140;Nao;yourself
+1286;5141;Nao;herself
+1286;5142;Nao;myself's
+1286;5143;Nao;mine
+1286;5144;Sim;my own
+1287;5145;Nao;mine/yours
+1287;5146;Nao;mine/your
+1287;5147;Sim;my/yours
+1287;5148;Nao;my/your
+1288;5149;Nao;We
+1288;5150;Nao;Ours
+1288;5151;Sim;Our
+1288;5152;Nao;Their
+1289;5153;Nao;your
+1289;5154;Nao;their
+1289;5155;Sim;her
+1289;5156;Nao;his
+1290;5157;Nao;us
+1290;5158;Nao;mine
+1290;5159;Sim;our
+1290;5160;Nao;hers
+1291;5161;Sim;her
+1291;5162;Nao;him
+1291;5163;Nao;hers
+1291;5164;Nao;them
+1292;5165;Nao;His
+1292;5166;Sim;Their
+1292;5167;Nao;Them
+1292;5168;Nao;They
+1293;5169;Nao;hers
+1293;5170;Nao;her
+1293;5171;Sim;its
+1293;5172;Nao;it's
+1294;5173;Nao;itself
+1294;5174;Nao;himself
+1294;5175;Nao;themselves
+1294;5176;Sim;yourself
+1295;5177;Sim;me/myself
+1295;5178;Nao;me/I
+1295;5179;Nao;my/myself
+1295;5180;Nao;I/me
+1296;5181;Nao;I
+1296;5182;Nao;me
+1296;5183;Nao;my
+1296;5184;Sim;myself
+1297;5185;Nao;we
+1297;5186;Nao;our
+1297;5187;Sim;us
+1297;5188;Nao;themselves
+1298;5189;Sim;yourself
+1298;5190;Nao;you
+1298;5191;Nao;himself
+1298;5192;Nao;his
+1299;5193;Nao;them
+1299;5194;Nao;he
+1299;5195;Nao;him
+1299;5196;Sim;you
+1300;5197;Nao;us
+1300;5198;Nao;he
+1300;5199;Sim;we
+1300;5200;Nao;I
+1301;5201;Nao;Have/move
+1301;5202;Nao;Has/moved
+1301;5203;Nao;Did/moved
+1301;5204;Sim;Have/moved
+1302;5205;Sim;watched
+1302;5206;Nao;have watched
+1302;5207;Nao;was watching
+1302;5208;Nao;watch
+1303;5209;Nao;see
+1303;5210;Sim;saw
+1303;5211;Nao;was seeing
+1303;5212;Nao;have seen
+1304;5213;Nao;are having
+1304;5214;Sim;haven't had
+1304;5215;Nao;didn't have
+1304;5216;Nao;don't have
+1305;5217;Nao;from
+1305;5218;Nao;since
+1305;5219;Nao;to
+1305;5220;Sim;for
+1306;5221;Sim;haven't seen
+1306;5222;Nao;saw
+1306;5223;Nao;couldn't see
+1306;5224;Nao;didn't see
+1307;5225;Sim;have been
+1307;5226;Nao;are being
+1307;5227;Nao;are 
+1307;5228;Nao;were
+1308;5229;Nao;I haven't/I am
+1308;5230;Nao;I didn't/I was
+1308;5231;Nao;I didn't/I've been
+1308;5232;Sim;I haven't/I've been
+1309;5233;Nao;I never been
+1309;5234;Nao;I didn't go
+1309;5235;Sim;I've never been 
+1309;5236;Nao;was never
+1310;5237;Sim;have seen
+1310;5238;Nao;saw
+1310;5239;Nao;had seen
+1310;5240;Nao;could see
+1311;5241;Sim;Have you ever seen
+1311;5242;Nao;Did you ever see
+1311;5243;Nao;Were there
+1311;5244;Nao;There was
+1312;5245;Sim;he ever been
+1312;5246;Nao;they ever traveled 
+1312;5247;Nao;you been
+1312;5248;Nao;you ever been
+1313;5249;Nao;are/were
+1313;5250;Nao;are being/were
+1313;5251;Sim;have been/were
+1313;5252;Nao;were/were
+1314;5253;Nao;I will have
+1314;5254;Nao;I had
+1314;5255;Sim;I've had
+1314;5256;Nao;I was having
+1315;5257;Sim;has been
+1315;5258;Nao;have been
+1315;5259;Nao;was
+1315;5260;Nao;took
+1316;5261;Sim;have/been
+1316;5262;Nao;don't/go
+1316;5263;Nao;didn't/go
+1316;5264;Nao;haven't/been
+1317;5265;Nao;Have/been losing
+1317;5266;Nao;Will/have lost
+1317;5267;Nao;Had/lost
+1317;5268;Sim;Have/lost
+1318;5269;Nao;didn't/eat
+1318;5270;Nao;haven't/eaten
+1318;5271;Sim;has/eaten
+1318;5272;Nao;hasn't/eaten
+1319;5273;Nao;Will/have been
+1319;5274;Nao;Are/being
+1319;5275;Nao;Have/been going
+1319;5276;Sim;Have/been
+1320;5277;Sim;has/had
+1320;5278;Nao;will have/had
+1320;5279;Nao;hasn't/had
+1320;5280;Nao;didn't/have
+1321;5281;Sim;Has/had
+1321;5282;Nao;Had/had
+1321;5283;Nao;Have/had
+1321;5284;Nao;Did/have
+1322;5285;Nao;had slept
+1322;5286;Sim;has slept
+1322;5287;Nao;sleeps
+1322;5288;Nao;sleep
+1323;5289;Sim;Have/heard
+1323;5290;Nao;Have/hear
+1323;5291;Nao;Did/heard
+1323;5292;Nao;Has/heard
+1324;5293;Nao;didn't/finish
+1324;5294;Nao;has/been finishing
+1324;5295;Nao;hasn't/finished
+1324;5296;Sim;has/finished
+1325;5297;Nao;bake
+1325;5298;Nao;have baked
+1325;5299;Sim;has baked
+1325;5300;Nao;haven't baked
+1326;5301;Nao;had drunk
+1326;5302;Sim;have drunk
+1326;5303;Nao;have drank
+1326;5304;Nao;hadn't drank
+1327;5305;Sim;Have/had
+1327;5306;Nao;Had/had
+1327;5307;Nao;Do/have
+1327;5308;Nao;Were/having
+1328;5309;Sim;hasn't tried
+1328;5310;Nao;has tried
+1328;5311;Nao;will have tried
+1328;5312;Nao;tried
+1329;5313;Nao;have/been coming
+1329;5314;Nao;has/came
+1329;5315;Sim;have/come
+1329;5316;Nao;have/came
+1330;5317;Nao;does/have
+1330;5318;Nao;have/had
+1330;5319;Sim;has/had
+1330;5320;Nao;had/had
+1331;5321;Nao;has/gone
+1331;5322;Nao;is/being
+1331;5323;Nao;have/been
+1331;5324;Sim;has/been
+1332;5325;Nao;have known/for
+1332;5326;Nao;knew/for
+1332;5327;Sim;have known/since
+1332;5328;Nao;know/since
+1333;5329;Nao;hasn't made
+1333;5330;Sim;hasn't done
+1333;5331;Nao;will have done
+1333;5332;Nao;haven't done
+1334;5333;Nao;have/done
+1334;5334;Sim;have/asked
+1334;5335;Nao;haven't/asked
+1334;5336;Nao;didn't/ask
+1335;5337;Sim;has/caught
+1335;5338;Nao;didn't/catch
+1335;5339;Nao;did/catch
+1335;5340;Nao;has/catch
+1336;5341;Nao;Had/had
+1336;5342;Sim;Have/had
+1336;5343;Nao;Did/have
+1336;5344;Nao;Did/had
+1337;5345;Nao;Did/wrote
+1337;5346;Nao;Have/wrote
+1337;5347;Sim;Have/written
+1337;5348;Nao;Did/write
+1338;5349;Nao;Have/rode
+1338;5350;Sim;Have/ridden
+1338;5351;Nao;Have/ride
+1338;5352;Nao;Did/ride
+1339;5353;Sim;have met/moved
+1339;5354;Nao;met/have moved
+1339;5355;Nao;meet/have moved
+1339;5356;Nao;meet/moved
+1340;5357;Nao;did/arrive
+1340;5358;Sim;have/arrived
+1340;5359;Nao;had/arrived
+1340;5360;Nao;were/arrived
+1341;5361;Nao;lived
+1341;5362;Sim;has lived
+1341;5363;Nao;was living
+1341;5364;Nao;haven't lived
+1342;5365;Sim;has never been
+1342;5366;Nao;had been 
+1342;5367;Nao;never went
+1342;5368;Nao;never was
+1343;5369;Nao;have to finish
+1343;5370;Nao;had finished
+1343;5371;Sim;finished
+1343;5372;Nao;have finished
+1344;5373;Nao;was teaching
+1344;5374;Sim;have taught
+1344;5375;Nao;taught
+1344;5376;Nao;have been teaching
+1345;5377;Nao;was
+1345;5378;Nao;travelled
+1345;5379;Nao;went
+1345;5380;Sim;have been
+1346;5381;Sim;hasn't arrived yet
+1346;5382;Nao;haven't arrived yet
+1346;5383;Nao;didn't arrive yet
+1346;5384;Nao;doesn't arrive yet
+1347;5385;Nao;am learning
+1347;5386;Nao;learned
+1347;5387;Nao;was learning
+1347;5388;Sim;have learned
+1348;5389;Nao;didn't announce
+1348;5390;Nao;has been announced
+1348;5391;Nao;wasn't announced
+1348;5392;Sim;hasn't been announced
+1349;5393;Sim;has changed
+1349;5394;Nao;changes
+1349;5395;Nao;have changed
+1349;5396;Nao;changed
+1350;5397;Nao;does he write
+1350;5398;Sim;has he written
+1350;5399;Nao;he wrote
+1350;5400;Nao;he has written
+1351;5401;Sim;haven't seen
+1351;5402;Nao;didn't see
+1351;5403;Nao;don't see
+1351;5404;Nao;hasn't seen
+1352;5405;Nao;He showed
+1352;5406;Nao;Did he show
+1352;5407;Sim;Has he shown
+1352;5408;Nao;He has shown
+1353;5409;Nao;You've ever been/I've never been
+1353;5410;Sim;Have you ever been/I've never been
+1353;5411;Nao;Did you ever be/I was never
+1353;5412;Nao;Did you ever go/I never went
+1354;5413;Nao;I/having
+1354;5414;Sim;I've/had
+1354;5415;Nao;I've/have
+1354;5416;Nao;I/have
+1355;5417;Nao;made
+1355;5418;Sim;has made
+1355;5419;Nao;is making
+1355;5420;Nao;didn't make
+1356;5421;Nao;won't sell
+1356;5422;Sim;haven't sold
+1356;5423;Nao;have sold
+1356;5424;Nao;didn't sell
+1357;5425;Nao;I can have 
+1357;5426;Nao;I would have
+1357;5427;Sim;I've already had
+1357;5428;Nao;I have
+1358;5429;Nao;Will you choose
+1358;5430;Nao;Did you choose
+1358;5431;Sim;Have you chosen
+1358;5432;Nao;Could you choose
+1359;5433;Nao;is
+1359;5434;Nao;was
+1359;5435;Nao;is being
+1359;5436;Sim;has been
+1360;5437;Nao;I visited
+1360;5438;Nao;I didn't go visit
+1360;5439;Nao;I didn't visit
+1360;5440;Sim;I haven't visited
+1361;5441;Nao;has/bought
+1361;5442;Nao;did/buy
+1361;5443;Nao;have/buy
+1361;5444;Sim;have/bought
+1362;5445;Nao;about to read
+1362;5446;Nao;always read
+1362;5447;Sim;ever read
+1362;5448;Nao;just read
+1363;5449;Nao;ate
+1363;5450;Nao;eating
+1363;5451;Nao;eat
+1363;5452;Sim;eaten
+1364;5453;Nao;I've just been to
+1364;5454;Nao;I went
+1364;5455;Sim;I've ever been to
+1364;5456;Nao;I was
+1365;5457;Nao;is rising
+1365;5458;Sim;has risen
+1365;5459;Nao;rose
+1365;5460;Nao;will rise
+1366;5461;Nao;dropped
+1366;5462;Sim;has dropped
+1366;5463;Nao;drops
+1366;5464;Nao;will drop
+1367;5465;Nao;don't fly
+1367;5466;Sim;haven't flown
+1367;5467;Nao;didn't fly
+1367;5468;Nao;won't fly
+1368;5469;Nao;climbs
+1368;5470;Nao;is climbing
+1368;5471;Nao;will have climbed
+1368;5472;Sim;has climbed
+1369;5473;Nao;wins
+1369;5474;Sim;has won
+1369;5475;Nao;is winning
+1369;5476;Nao;won
+1370;5477;Nao;played
+1370;5478;Nao;is playing
+1370;5479;Sim;has played
+1370;5480;Nao;plays
+1371;5481;Nao;went
+1371;5482;Sim;have been
+1371;5483;Nao;are going to
+1371;5484;Nao;will go
+1372;5485;Nao;didn't sleep
+1372;5486;Sim;have slept
+1372;5487;Nao;slept
+1372;5488;Nao;am sleeping
+1373;5489;Nao;am/making
+1373;5490;Sim;have/made
+1373;5491;Nao;will have/made
+1373;5492;Nao;didn't/make
+1374;5493;Sim;have posted
+1374;5494;Nao;am posting
+1374;5495;Nao;didn't post
+1374;5496;Nao;posted
+1375;5497;Nao;didn't/crash
+1375;5498;Nao;haven't/crashed
+1375;5499;Nao;don't/never
+1375;5500;Sim;have/crashed
+1376;5501;Nao;doesn't/cut
+1376;5502;Nao;didn't/never
+1376;5503;Nao;hasn't/cut
+1376;5504;Sim;has/cut
+1377;5505;Nao;are being
+1377;5506;Sim;have been
+1377;5507;Nao;aren't
+1377;5508;Nao;are
+1378;5509;Nao;is losing
+1378;5510;Sim;has lost
+1378;5511;Nao;lost
+1378;5512;Nao;didn't lose
+1379;5513;Nao;is writing
+1379;5514;Nao;wrote
+1379;5515;Sim;has written
+1379;5516;Nao;didn't write
+1380;5517;Nao;are having
+1380;5518;Sim;have had
+1380;5519;Nao;didn't have
+1380;5520;Nao;had
+1381;5521;Nao;didn't finish
+1381;5522;Nao;have finished
+1381;5523;Sim;haven't finished
+1381;5524;Nao;finished
+1382;5525;Sim;has been
+1382;5526;Nao;is
+1382;5527;Nao;is being
+1382;5528;Nao;was
+1383;5529;Nao;Will/be finding
+1383;5530;Sim;Have/found
+1383;5531;Nao;Should/find
+1383;5532;Nao;Will/have found
+1384;5533;Nao;wouldn't/meet
+1384;5534;Nao;won't/have met
+1384;5535;Nao;didn't/meet
+1384;5536;Sim;have/met
+1385;5537;Nao;failed
+1385;5538;Nao;am failing
+1385;5539;Sim;have failed
+1385;5540;Nao;didn't fail
+1386;5541;Nao;saw
+1386;5542;Nao;is seeing
+1386;5543;Nao;didn't see
+1386;5544;Sim;has seen
+1387;5545;Nao;was
+1387;5546;Nao;will be
+1387;5547;Sim;has been
+1387;5548;Nao;is
+1388;5549;Nao;were/been
+1388;5550;Nao;did/go
+1388;5551;Sim;have/been
+1388;5552;Nao;didn't/go
+1389;5553;Sim;have had
+1389;5554;Nao;am having
+1389;5555;Nao;didn't have
+1389;5556;Nao;had
+1390;5557;Nao;is going to find
+1390;5558;Nao;found
+1390;5559;Sim;hasn't found
+1390;5560;Nao;has found
+1391;5561;Sim;has/seen
+1391;5562;Nao;doesn't/see
+1391;5563;Nao;hasn't/seen
+1391;5564;Nao;didn't/see
+1392;5565;Nao;learns
+1392;5566;Sim;has learned
+1392;5567;Nao;didn't learn
+1392;5568;Nao;learned
+1393;5569;Nao;are/knowing
+1393;5570;Nao;don't/know
+1393;5571;Nao;do/know
+1393;5572;Sim;have/known
+1394;5573;Sim;hasn't finished
+1394;5574;Nao;has finished
+1394;5575;Nao;didn't finish
+1394;5576;Nao;doesn't finish
+1395;5577;Sim;has had
+1395;5578;Nao;had
+1395;5579;Nao;has
+1395;5580;Nao;didn't have
+1396;5581;Nao;will become
+1396;5582;Nao;became
+1396;5583;Sim;have become
+1396;5584;Nao;become
+1397;5585;Nao;have eaten
+1397;5586;Sim;haven't eaten
+1397;5587;Nao;ate
+1397;5588;Nao;aren't eating
+1398;5589;Nao;don't/worry
+1398;5590;Nao;haven't/worried
+1398;5591;Nao;didn't/worry
+1398;5592;Sim;have/worried
+1399;5593;Nao;Do/have
+1399;5594;Nao;Had/had
+1399;5595;Nao;Are/having
+1399;5596;Sim;Have/had
+1400;5597;Nao;was
+1400;5598;Nao;has been
+1400;5599;Nao;is
+1400;5600;Sim;has been
+1401;5601;Nao;always
+1401;5602;Nao;every day
+1401;5603;Sim;never
+1401;5604;Nao;frequently
+1402;5605;Sim;twice a week
+1402;5606;Nao;once a week
+1402;5607;Nao;every day
+1402;5608;Nao;rarely
+1403;5609;Nao;usually
+1403;5610;Nao;never
+1403;5611;Sim;every day
+1403;5612;Nao;rarely
+1404;5613;Sim;often
+1404;5614;Nao;hardly ever
+1404;5615;Nao;never
+1404;5616;Nao;rarely
+1405;5617;Nao;Yesterday
+1405;5618;Nao;Soon
+1405;5619;Nao;Afternoon
+1405;5620;Sim;Tomorrow
+1406;5621;Nao;extremely
+1406;5622;Nao;kindly
+1406;5623;Sim;noisily 
+1406;5624;Nao;well
+1407;5625;Nao;usually
+1407;5626;Nao;ever
+1407;5627;Nao;always
+1407;5628;Sim;never
+1408;5629;Nao;easily
+1408;5630;Nao;well
+1408;5631;Sim;quietly
+1408;5632;Nao;silent
+1409;5633;Nao;enough
+1409;5634;Sim;really
+1409;5635;Nao;real
+1409;5636;Nao;much
+1410;5637;Nao;totally/so
+1410;5638;Nao;real/very
+1410;5639;Sim;totally/very
+1410;5640;Nao;really/so
+1411;5641;Nao;good/really/usually/rarely
+1411;5642;Nao;good/brother/driver/he
+1411;5643;Sim;really/fast/usually/rarely
+1411;5644;Nao;really/usually/rarely
+1412;5645;Sim;absolutely
+1412;5646;Nao;totally
+1412;5647;Nao;completely
+1412;5648;Nao;entirely
+1413;5649;Nao;a little
+1413;5650;Nao;very
+1413;5651;Nao;extremely
+1413;5652;Sim;real
+1414;5653;Nao;every week
+1414;5654;Nao;often
+1414;5655;Sim;frequent
+1414;5656;Nao;all the time
+1415;5657;Nao;gorgeous
+1415;5658;Nao;excellent
+1415;5659;Sim;beautifully
+1415;5660;Nao;pretty
+1416;5661;Sim;hardly ever
+1416;5662;Nao;enough
+1416;5663;Nao;once
+1416;5664;Nao;easily
+1417;5665;Nao;badly
+1417;5666;Nao;excellent
+1417;5667;Sim;well
+1417;5668;Nao;goodly
+1418;5669;Nao;rude
+1418;5670;Nao;polite
+1418;5671;Nao;good
+1418;5672;Sim;politely
+1419;5673;Nao;extremely
+1419;5674;Nao;dangerous
+1419;5675;Sim;dangerously
+1419;5676;Nao;good
+1420;5677;Nao;silence
+1420;5678;Nao;goodly
+1420;5679;Sim;quietly
+1420;5680;Nao;quiet
+1421;5681;Nao;easy
+1421;5682;Sim;easily
+1421;5683;Nao;hard
+1421;5684;Nao;difficult
+1422;5685;Nao;nice
+1422;5686;Nao;angry
+1422;5687;Sim;angrily
+1422;5688;Nao;quiet
+1423;5689;Nao;silent
+1423;5690;Sim;noisily 
+1423;5691;Nao;noise
+1423;5692;Nao;a little
+1424;5693;Nao;extremely
+1424;5694;Nao;tight
+1424;5695;Sim;tightly
+1424;5696;Nao;weak
+1425;5697;Sim;comfortably
+1425;5698;Nao;good
+1425;5699;Nao;uncomfortable
+1425;5700;Nao;happy
+1426;5701;Sim;brightly
+1426;5702;Nao;bright
+1426;5703;Nao;clear
+1426;5704;Nao;always
+1427;5705;Sim;always/never
+1427;5706;Nao;always/always
+1427;5707;Nao;never/never
+1427;5708;Nao;often/always
+1428;5709;Nao;few
+1428;5710;Nao;too many
+1428;5711;Nao;many
+1428;5712;Sim;too much
+1429;5713;Sim;enough
+1429;5714;Nao;a few
+1429;5715;Nao;much
+1429;5716;Nao;too little
+1430;5717;Nao;too many
+1430;5718;Nao;excellent
+1430;5719;Nao;many
+1430;5720;Sim;enough
+1431;5721;Nao;little
+1431;5722;Nao;enough
+1431;5723;Sim;fewer
+1431;5724;Nao;much
+1432;5725;Nao;few
+1432;5726;Sim;much
+1432;5727;Nao;many
+1432;5728;Nao;too many
+1433;5729;Nao;hardly ever
+1433;5730;Nao;easily
+1433;5731;Sim;suddenly
+1433;5732;Nao;never
+1434;5733;Nao;calm
+1434;5734;Nao;seldom
+1434;5735;Sim;nervously
+1434;5736;Nao;nervous
+1435;5737;Nao;badly/carefully
+1435;5738;Nao;carefully/always
+1435;5739;Nao;beautifully/always
+1435;5740;Sim;always/carefully
+1436;5741;Nao;never
+1436;5742;Nao;almost
+1436;5743;Nao;before
+1436;5744;Sim;empty
+1437;5745;Sim;well
+1437;5746;Nao;light
+1437;5747;Nao;wavy
+1437;5748;Nao;good
+1438;5749;Nao;certainly
+1438;5750;Sim;almost
+1438;5751;Nao;clearly
+1438;5752;Nao;often 
+1439;5753;Nao;speedy
+1439;5754;Sim;quickly
+1439;5755;Nao;prompt
+1439;5756;Nao;before
+1440;5757;Sim;really
+1440;5758;Nao;extremely
+1440;5759;Nao;absolutely
+1440;5760;Nao;so
+1441;5761;Sim;slowly
+1441;5762;Nao;formal
+1441;5763;Nao;good
+1441;5764;Nao;strange
+1442;5765;Nao;efficiently
+1442;5766;Nao;entire
+1442;5767;Sim;exactly
+1442;5768;Nao;actual
+1443;5769;Sim;primarily
+1443;5770;Nao;perfectly
+1443;5771;Nao;special
+1443;5772;Nao;most
+1444;5773;Nao;tremendous
+1444;5774;Nao;excessive
+1444;5775;Nao;much
+1444;5776;Sim;extremely
+1445;5777;Nao;full
+1445;5778;Sim;faster
+1445;5779;Nao;nicer
+1445;5780;Nao;probably
+1446;5781;Nao;extremely
+1446;5782;Nao;lively
+1446;5783;Nao;lately
+1446;5784;Sim;usually
+1447;5785;Nao;frequent
+1447;5786;Nao;sadly
+1447;5787;Sim;often
+1447;5788;Nao;angrily
+1448;5789;Sim;always
+1448;5790;Nao;most
+1448;5791;Nao;never
+1448;5792;Nao;frequent
+1449;5793;Sim;never
+1449;5794;Nao;always
+1449;5795;Nao;often
+1449;5796;Nao;likely
+1450;5797;Nao;probable
+1450;5798;Sim;repeatedly
+1450;5799;Nao;lively
+1450;5800;Nao;frequent
+1451;5801;Sim;quickly
+1451;5802;Nao;easy
+1451;5803;Nao;quick
+1451;5804;Nao;complete
+1452;5805;Nao;always/on time
+1452;5806;Sim;never/soon
+1452;5807;Nao;never/frequent
+1452;5808;Nao;often/on time
+1453;5809;Nao;Always
+1453;5810;Nao;Frequently
+1453;5811;Sim;Suddenly
+1453;5812;Nao;Often
+1454;5813;Nao;often
+1454;5814;Sim;anywhere
+1454;5815;Nao;frequently
+1454;5816;Nao;everywhere
+1455;5817;Sim;likely
+1455;5818;Nao;interestingly
+1455;5819;Nao;interested
+1455;5820;Nao;probable
+1456;5821;Nao;interestingly
+1456;5822;Nao;probable
+1456;5823;Sim;likely
+1456;5824;Nao;obvious
+1457;5825;Nao;full
+1457;5826;Sim;everywhere
+1457;5827;Nao;anywhere
+1457;5828;Nao;anybody
+1458;5829;Nao;early
+1458;5830;Nao;likely
+1458;5831;Nao;lately
+1458;5832;Sim;late
+1459;5833;Sim;slowly
+1459;5834;Nao;quickly
+1459;5835;Nao;slow
+1459;5836;Nao;fast
+1460;5837;Nao;likely
+1460;5838;Nao;complete
+1460;5839;Sim;completely
+1460;5840;Nao;frequently
+1461;5841;Nao;always/polite
+1461;5842;Nao;never/politely
+1461;5843;Sim;always/politely
+1461;5844;Nao;never/polite
+1462;5845;Sim;angrily
+1462;5846;Nao;hasty
+1462;5847;Nao;nice
+1462;5848;Nao;happily
+1463;5849;Nao;sadly
+1463;5850;Nao;angrily
+1463;5851;Nao;nice
+1463;5852;Sim;happily
+1464;5853;Nao;nicely
+1464;5854;Nao;well
+1464;5855;Nao;bad
+1464;5856;Sim;badly
+1465;5857;Sim;quickly
+1465;5858;Nao;politely
+1465;5859;Nao;quick
+1465;5860;Nao;slowly
+1466;5861;Nao;quietly
+1466;5862;Sim;loudly
+1466;5863;Nao;loud
+1466;5864;Nao;shout
+1467;5865;Nao;restlessly
+1467;5866;Nao;careful
+1467;5867;Nao;restless
+1467;5868;Sim;carefully
+1468;5869;Sim;never
+1468;5870;Nao;always
+1468;5871;Nao;frequently
+1468;5872;Nao;usually
+1469;5873;Nao;seldom
+1469;5874;Sim;always
+1469;5875;Nao;hardly ever
+1469;5876;Nao;frequent
+1470;5877;Nao;likely
+1470;5878;Sim;always
+1470;5879;Nao;seldom
+1470;5880;Nao;hardly ever
+1471;5881;Nao;frequently
+1471;5882;Sim;happily
+1471;5883;Nao;never
+1471;5884;Nao;sadly
+1472;5885;Nao;careful
+1472;5886;Nao;seldom
+1472;5887;Sim;carefully
+1472;5888;Nao;slow
+1473;5889;Nao;likely
+1473;5890;Sim;loudly
+1473;5891;Nao;happy
+1473;5892;Nao;quietly
+1474;5893;Nao;rude
+1474;5894;Nao;probably
+1474;5895;Nao;polite
+1474;5896;Sim;politely
+1475;5897;Nao;terribly
+1475;5898;Nao;always
+1475;5899;Sim;perfectly
+1475;5900;Nao;perfect
+1476;5901;Nao;seldom
+1476;5902;Sim;well
+1476;5903;Nao;quickly
+1476;5904;Nao;deep
+1477;5905;Sim;decisively
+1477;5906;Nao;careful
+1477;5907;Nao;decided
+1477;5908;Nao;reluctantly
+1478;5909;Nao;terribly
+1478;5910;Nao;hardly ever
+1478;5911;Nao;frequent
+1478;5912;Sim;daily
+1479;5913;Sim;highly
+1479;5914;Nao;hardly
+1479;5915;Nao;frequent
+1479;5916;Nao;badly
+1480;5917;Sim;monthly
+1480;5918;Nao;terribly
+1480;5919;Nao;month
+1480;5920;Nao;politely
+1481;5921;Nao;year
+1481;5922;Nao;frequent
+1481;5923;Nao;never
+1481;5924;Sim;yearly
+1482;5925;Nao;hardly ever
+1482;5926;Sim;constantly
+1482;5927;Nao;never
+1482;5928;Nao;frequent
+1483;5929;Nao;loudly
+1483;5930;Nao;quietly
+1483;5931;Sim;absolutely
+1483;5932;Nao;poorly
+1484;5933;Nao;yearly
+1484;5934;Nao;carefully
+1484;5935;Sim;extremely
+1484;5936;Nao;loudly
+1485;5937;Nao;much
+1485;5938;Nao;few
+1485;5939;Sim;little
+1485;5940;Nao;some
+1486;5941;Sim;nearly
+1486;5942;Nao;little
+1486;5943;Nao;politely
+1486;5944;Nao;absolutely
+1487;5945;Nao;politely
+1487;5946;Sim;incredibly
+1487;5947;Nao;badly
+1487;5948;Nao;incredible
+1488;5949;Nao;daily
+1488;5950;Nao;slowly
+1488;5951;Nao;badly
+1488;5952;Sim;entirely
+1489;5953;Nao;extremely
+1489;5954;Nao;likely
+1489;5955;Sim;never
+1489;5956;Nao;every day
+1490;5957;Nao;here
+1490;5958;Sim;there
+1490;5959;Nao;away
+1490;5960;Nao;everywhere
+1491;5961;Sim;never
+1491;5962;Nao;highly
+1491;5963;Nao;little
+1491;5964;Nao;every day
+1492;5965;Sim;slowly
+1492;5966;Nao;careful
+1492;5967;Nao;badly
+1492;5968;Nao;slow
+1493;5969;Sim;terribly
+1493;5970;Nao;politely
+1493;5971;Nao;happily
+1493;5972;Nao;terrible
+1494;5973;Nao;frequently
+1494;5974;Sim;downstairs
+1494;5975;Nao;extremely
+1494;5976;Nao;likely
+1495;5977;Nao;yearly
+1495;5978;Nao;never
+1495;5979;Sim;anywhere
+1495;5980;Nao;everywhere
+1496;5981;Nao;carefully
+1496;5982;Nao;happily
+1496;5983;Nao;absolutely
+1496;5984;Sim;lately
+1497;5985;Nao;frequent
+1497;5986;Nao;highly
+1497;5987;Sim;lately
+1497;5988;Nao;incredibly
+1498;5989;Sim;quietly
+1498;5990;Nao;highly
+1498;5991;Nao;careful
+1498;5992;Nao;loudly
+1499;5993;Nao;high
+1499;5994;Nao;quietly
+1499;5995;Sim;quite
+1499;5996;Nao;quiet
+1500;5997;Sim;upstairs
+1500;5998;Nao;lately
+1500;5999;Nao;few
+1500;6000;Nao;loud
+1501;6001;Nao;going to rain
+1501;6002;Sim;will rain
+1501;6003;Nao;would rain
+1501;6004;Nao;rains
+1502;6005;Nao;would begin
+1502;6006;Nao;will to begin
+1502;6007;Nao;began
+1502;6008;Sim;will begin
+1503;6009;Nao;I would help
+1503;6010;Nao;I could help
+1503;6011;Nao;I do help
+1503;6012;Sim;I will help
+1504;6013;Nao;never guessed
+1504;6014;Nao;never guess
+1504;6015;Sim;ll never guess
+1504;6016;Nao;never will guess
+1505;6017;Nao;I was going to be
+1505;6018;Nao;I am
+1505;6019;Nao;I would be
+1505;6020;Sim;I'll be
+1506;6021;Sim;it will
+1506;6022;Nao;it won't
+1506;6023;Nao;it wouldn't
+1506;6024;Nao;it would
+1507;6025;Sim;will be
+1507;6026;Nao;is going
+1507;6027;Nao;won't be
+1507;6028;Nao;looks
+1508;6029;Nao;could be
+1508;6030;Nao;isn't going to be
+1508;6031;Sim;will be
+1508;6032;Nao;won't be
+1509;6033;Nao;I'll go to
+1509;6034;Nao;I had to
+1509;6035;Sim;I'm going to
+1509;6036;Nao;I went to
+1510;6037;Sim;will be here
+1510;6038;Nao;are here
+1510;6039;Nao;got here
+1510;6040;Nao;won't arrive
+1511;6041;Sim;is he going to sleep
+1511;6042;Nao;he will sleep
+1511;6043;Nao;does he sleep
+1511;6044;Nao;he is going to sleep
+1512;6045;Nao;I'm
+1512;6046;Sim;I will 
+1512;6047;Nao;I would
+1512;6048;Nao;I
+1513;6049;Nao;will to meet
+1513;6050;Sim;am meeting
+1513;6051;Nao;will be met
+1513;6052;Nao;meet
+1514;6053;Nao;I caught
+1514;6054;Sim;I'm catching
+1514;6055;Nao;I would catch
+1514;6056;Nao;I will to catch
+1515;6057;Nao;Would you
+1515;6058;Sim;You will
+1515;6059;Nao;Are you going to
+1515;6060;Nao;Did you
+1516;6061;Nao;I won't get
+1516;6062;Sim;I'll get
+1516;6063;Nao;I would get
+1516;6064;Nao;will I get
+1517;6065;Nao;won't lose
+1517;6066;Sim;will lose
+1517;6067;Nao;be losing
+1517;6068;Nao;are losing
+1518;6069;Nao;migrate
+1518;6070;Nao;are migrating
+1518;6071;Nao;migrated
+1518;6072;Sim;will migrate
+1519;6073;Nao;would
+1519;6074;Nao;will to
+1519;6075;Sim;is going to
+1519;6076;Nao;goes to
+1520;6077;Nao;could
+1520;6078;Sim;is going to
+1520;6079;Nao;would
+1520;6080;Nao;will to
+1521;6081;Nao;will to
+1521;6082;Nao;would
+1521;6083;Sim;are going to
+1521;6084;Nao;is going to
+1522;6085;Nao;is going to
+1522;6086;Sim;are going to
+1522;6087;Nao;will to
+1522;6088;Nao;were going to
+1523;6089;Nao;would
+1523;6090;Sim;is going to
+1523;6091;Nao;will to
+1523;6092;Nao;goes to
+1524;6093;Sim;are going to get
+1524;6094;Nao;is going to get
+1524;6095;Nao;got
+1524;6096;Nao;would get
+1525;6097;Nao;is going to get
+1525;6098;Nao;would get
+1525;6099;Sim;gets
+1525;6100;Nao;will get
+1526;6101;Nao;will/done
+1526;6102;Nao;will/going to do
+1526;6103;Sim;is/going to do
+1526;6104;Nao;does/will do
+1527;6105;Nao;threw
+1527;6106;Sim;is going to throw
+1527;6107;Nao;will thrown
+1527;6108;Nao;throws
+1528;6109;Sim;is going to be
+1528;6110;Nao;would be
+1528;6111;Nao;gets
+1528;6112;Nao;is being
+1529;6113;Nao;is going to drive
+1529;6114;Nao;is driving
+1529;6115;Nao;won't drive
+1529;6116;Sim;are going to drive
+1530;6117;Nao;are arriving
+1530;6118;Sim;arrive
+1530;6119;Nao;will arrive
+1530;6120;Nao;are going to arrive
+1531;6121;Nao;will/spent
+1531;6122;Sim;are/going to spend
+1531;6123;Nao;will/spending
+1531;6124;Nao;would/spend
+1532;6125;Nao;would get
+1532;6126;Sim;will get
+1532;6127;Nao;are getting
+1532;6128;Nao;get
+1533;6129;Sim;will live
+1533;6130;Nao;are living
+1533;6131;Nao;live
+1533;6132;Nao;would live
+1534;6133;Nao;would get
+1534;6134;Nao;will to get
+1534;6135;Nao;gets
+1534;6136;Sim;will get
+1535;6137;Nao;had
+1535;6138;Nao;have
+1535;6139;Nao;having
+1535;6140;Sim;will have
+1536;6141;Nao;would pass
+1536;6142;Nao;is passing
+1536;6143;Nao;passes
+1536;6144;Sim;will pass
+1537;6145;Nao;are moving
+1537;6146;Nao;would move
+1537;6147;Sim;will move
+1537;6148;Nao;move
+1538;6149;Nao;am going to answer
+1538;6150;Nao;am answering
+1538;6151;Sim;will answer
+1538;6152;Nao;would answer
+1539;6153;Nao;I
+1539;6154;Nao;I would
+1539;6155;Nao;I am going to 
+1539;6156;Sim;I'll
+1540;6157;Sim;will help
+1540;6158;Nao;will to help
+1540;6159;Nao;help
+1540;6160;Nao;would help
+1541;6161;Nao;Are/going to hold
+1541;6162;Sim;Will/hold
+1541;6163;Nao;Are/holding
+1541;6164;Nao;Will/held
+1542;6165;Nao;am not going to forget
+1542;6166;Sim;won't forget
+1542;6167;Nao;am not forgetting
+1542;6168;Nao;wouldn't forget
+1543;6169;Sim;won't be
+1543;6170;Nao;wouldn't be
+1543;6171;Nao;am not being
+1543;6172;Nao;couldn't be
+1544;6173;Nao;wouldn't deliver
+1544;6174;Nao;would deliver
+1544;6175;Sim;will deliver
+1544;6176;Nao;won't deliver
+1545;6177;Sim;will help
+1545;6178;Nao;could help
+1545;6179;Nao;have helped
+1545;6180;Nao;would help
+1546;6181;Nao;didn't fall
+1546;6182;Nao;won't fall
+1546;6183;Sim;will fall
+1546;6184;Nao;wouldn't fall
+1547;6185;Nao;wouldn't burn
+1547;6186;Nao;would burn
+1547;6187;Nao;are not going to burn
+1547;6188;Sim;will burn
+1548;6189;Nao;are falling
+1548;6190;Nao;would fall 
+1548;6191;Nao;could fall
+1548;6192;Sim;will fall
+1549;6193;Nao;could bloom
+1549;6194;Nao;won't bloom
+1549;6195;Sim;will bloom
+1549;6196;Nao;would bloom
+1550;6197;Nao;migrating
+1550;6198;Nao;wouldn't migrate
+1550;6199;Sim;will migrate
+1550;6200;Nao;would migrate
+1551;6201;Nao;Would/answered
+1551;6202;Nao;Are/answering
+1551;6203;Sim;Will/answer
+1551;6204;Nao;Are/going to answer
+1552;6205;Nao;would arrived
+1552;6206;Nao;arrive
+1552;6207;Sim;will arrive
+1552;6208;Nao;would arrive
+1553;6209;Nao;would tell
+1553;6210;Nao;is telling
+1553;6211;Sim;will tell
+1553;6212;Nao;going to tell
+1554;6213;Nao;will go
+1554;6214;Sim;am going
+1554;6215;Nao;would go
+1554;6216;Nao;go
+1555;6217;Nao;would do
+1555;6218;Sim;are doing
+1555;6219;Nao;is going to do
+1555;6220;Nao;does
+1556;6221;Nao;visit
+1556;6222;Nao;would visit
+1556;6223;Sim;are visiting
+1556;6224;Nao;is going to visit
+1557;6225;Nao;we won't let/We would be
+1557;6226;Nao;we are not going to let/We are going to be 
+1557;6227;Nao;we won't let/We won't be
+1557;6228;Sim;we won't let/We'll be
+1558;6229;Nao;meet
+1558;6230;Nao;meets
+1558;6231;Nao;are going meeting
+1558;6232;Sim;are meeting
+1559;6233;Nao;meet
+1559;6234;Sim;am meeting
+1559;6235;Nao;met
+1559;6236;Nao;going to meet
+1560;6237;Nao;couldn't play
+1560;6238;Sim;are playing
+1560;6239;Nao;is playing
+1560;6240;Nao;play
+1561;6241;Nao;Is/go out
+1561;6242;Sim;Is/going out
+1561;6243;Nao;Will/going out
+1561;6244;Nao;Will/gone out
+1562;6245;Nao;are getting
+1562;6246;Sim;get
+1562;6247;Nao;will get
+1562;6248;Nao;are going to get
+1563;6249;Nao;could check
+1563;6250;Nao;would check
+1563;6251;Nao;checked
+1563;6252;Sim;will check
+1564;6253;Sim;won't regret
+1564;6254;Nao;don't regret
+1564;6255;Nao;Fill in the gap with the correct answer: "I'm sure she ________________ a nice girl. Don't worry."
+1564;6256;Nao;wouldn't regret
+1565;6257;Nao;has taken
+1565;6258;Sim;will take
+1565;6259;Nao;doesn't take
+1565;6260;Nao;is taking
+1566;6261;Sim;will behave
+1566;6262;Nao;behaves
+1566;6263;Nao;could behave
+1566;6264;Nao;won't behave
+1567;6265;Nao;doesn't/call
+1567;6266;Sim;will/call
+1567;6267;Nao;would/call
+1567;6268;Nao;didn't/call
+1568;6269;Nao;bought
+1568;6270;Nao;aren't buying
+1568;6271;Sim;are going to buy
+1568;6272;Nao;buy
+1569;6273;Sim;is going to spend
+1569;6274;Nao;spent
+1569;6275;Nao;would spend
+1569;6276;Nao;spends
+1570;6277;Nao;would invite
+1570;6278;Nao;inviting
+1570;6279;Nao;invites
+1570;6280;Sim;is going to invite
+1571;6281;Nao;are/get
+1571;6282;Nao;did/got
+1571;6283;Nao;do/got
+1571;6284;Sim;are/going to get
+1572;6285;Nao;will wear
+1572;6286;Nao;is going to wear
+1572;6287;Nao;would wear
+1572;6288;Sim;isn't going to wear
+1573;6289;Nao;going to
+1573;6290;Nao;would 
+1573;6291;Nao;will
+1573;6292;Sim;are going to
+1574;6293;Nao;wouldn't leave
+1574;6294;Nao;would leave
+1574;6295;Nao;going to leave
+1574;6296;Sim;are leaving
+1575;6297;Nao;going to fly
+1575;6298;Nao;fly
+1575;6299;Nao;would fly
+1575;6300;Sim;am flying
+1576;6301;Nao;would come
+1576;6302;Sim;are not coming
+1576;6303;Nao;wouldn't come
+1576;6304;Nao;come
+1577;6305;Nao;did/went
+1577;6306;Nao;does/go
+1577;6307;Nao;would/going
+1577;6308;Sim;is/going
+1578;6309;Nao;are going to finish
+1578;6310;Nao;are finishing
+1578;6311;Nao;will finish
+1578;6312;Sim;finish
+1579;6313;Nao;won't pass
+1579;6314;Nao;could pass
+1579;6315;Sim;will pass
+1579;6316;Nao;is passing
+1580;6317;Nao;going to crash
+1580;6318;Nao;won't crash
+1580;6319;Sim;will crash
+1580;6320;Nao;would crash
+1581;6321;Nao;does/will do
+1581;6322;Nao;do/do
+1581;6323;Nao;would/done
+1581;6324;Sim;is/going to do
+1582;6325;Nao;would
+1582;6326;Nao;going to
+1582;6327;Sim;will
+1582;6328;Nao;won't
+1583;6329;Nao;going to
+1583;6330;Sim;will
+1583;6331;Nao;would
+1583;6332;Nao;were going to 
+1584;6333;Sim;will
+1584;6334;Nao;was going to
+1584;6335;Nao;won't
+1584;6336;Nao;going to
+1585;6337;Nao;I can
+1585;6338;Nao;I going to
+1585;6339;Nao;I would 
+1585;6340;Sim;I'll
+1586;6341;Nao;going to be
+1586;6342;Nao;would be
+1586;6343;Sim;will be
+1586;6344;Nao;wouldn't be
+1587;6345;Nao;will
+1587;6346;Sim;won't
+1587;6347;Nao;am not
+1587;6348;Nao;would not
+1588;6349;Nao;I would
+1588;6350;Nao;Am I going to
+1588;6351;Sim;I am going to
+1588;6352;Nao;I won't
+1589;6353;Nao;he's going to
+1589;6354;Nao;he might
+1589;6355;Sim;he'll
+1589;6356;Nao;he won't
+1590;6357;Nao;won't have
+1590;6358;Nao;would have
+1590;6359;Sim;am going to have
+1590;6360;Nao;having
+1591;6361;Sim;ll
+1591;6362;Nao;won't
+1591;6363;Nao;would
+1591;6364;Nao;am going to
+1592;6365;Nao;arrived
+1592;6366;Nao;arriving
+1592;6367;Nao;arrives
+1592;6368;Sim;arrive
+1593;6369;Nao;would arrive
+1593;6370;Nao;will arrive
+1593;6371;Sim;arrive
+1593;6372;Nao;are going to arrive
+1594;6373;Sim;am going
+1594;6374;Nao;will
+1594;6375;Nao;won't
+1594;6376;Nao;would
+1595;6377;Nao;am going to get
+1595;6378;Nao;could get
+1595;6379;Nao;will get
+1595;6380;Sim;get
+1596;6381;Nao;would come
+1596;6382;Nao;will come
+1596;6383;Nao;are going to come
+1596;6384;Sim;come
+1597;6385;Nao;will stop
+1597;6386;Nao;won't stop
+1597;6387;Nao;is going to stop
+1597;6388;Sim;stops
+1598;6389;Nao;would you do
+1598;6390;Nao;you will do
+1598;6391;Sim;are you going to
+1598;6392;Nao;you are going to
+1599;6393;Nao;won't go
+1599;6394;Nao;will go
+1599;6395;Sim;go
+1599;6396;Nao;am going
+1600;6397;Nao;would finish
+1600;6398;Nao;will finish
+1600;6399;Nao;am going to finish
+1600;6400;Sim;finish
+1601;6401;Nao;when
+1601;6402;Nao;which
+1601;6403;Sim;where
+1601;6404;Nao;whose
+1602;6405;Nao;whom
+1602;6406;Nao;he
+1602;6407;Sim;who
+1602;6408;Nao;which
+1603;6409;Nao;who
+1603;6410;Nao;to which
+1603;6411;Sim;that
+1603;6412;Nao;whom
+1604;6413;Nao;of which
+1604;6414;Nao;about
+1604;6415;Nao;who
+1604;6416;Sim;that
+1605;6417;Nao;which
+1605;6418;Nao;where
+1605;6419;Nao;whose
+1605;6420;Sim;who
+1606;6421;Nao;which
+1606;6422;Nao;whose
+1606;6423;Sim;who
+1606;6424;Nao;whom
+1607;6425;Nao;when
+1607;6426;Nao;that
+1607;6427;Sim;where
+1607;6428;Nao;which
+1608;6429;Sim;who
+1608;6430;Nao;which
+1608;6431;Nao;c
+1608;6432;Nao;where
+1609;6433;Nao;whose
+1609;6434;Nao;which
+1609;6435;Sim;who
+1609;6436;Nao;where
+1610;6437;Sim;that
+1610;6438;Nao;where
+1610;6439;Nao;who
+1610;6440;Nao;whose
+1611;6441;Nao;who
+1611;6442;Nao;where
+1611;6443;Nao;whose
+1611;6444;Sim;that
+1612;6445;Nao;of which
+1612;6446;Nao;to whom
+1612;6447;Nao;who
+1612;6448;Sim;whose
+1613;6449;Nao;who
+1613;6450;Sim;that
+1613;6451;Nao;where
+1613;6452;Nao;whose
+1614;6453;Nao;where
+1614;6454;Sim;that
+1614;6455;Nao;whose
+1614;6456;Nao;which
+1615;6457;Nao;which
+1615;6458;Nao;whose
+1615;6459;Sim;where
+1615;6460;Nao;who
+1616;6461;Nao;whose
+1616;6462;Nao;which
+1616;6463;Sim;whom
+1616;6464;Nao;where
+1617;6465;Nao;whose
+1617;6466;Nao;where
+1617;6467;Sim;that
+1617;6468;Nao;which
+1618;6469;Sim;that
+1618;6470;Nao;whom
+1618;6471;Nao;who
+1618;6472;Nao;where
+1619;6473;Sim;where
+1619;6474;Nao;which
+1619;6475;Nao;who
+1619;6476;Nao;whom
+1620;6477;Nao;who
+1620;6478;Nao;whom
+1620;6479;Nao;whose
+1620;6480;Sim;that
+1621;6481;Nao;who
+1621;6482;Nao;whom
+1621;6483;Sim;whose
+1621;6484;Nao;that
+1622;6485;Nao;where
+1622;6486;Nao;who
+1622;6487;Nao;that
+1622;6488;Sim;whose
+1623;6489;Nao;that
+1623;6490;Nao;which
+1623;6491;Nao;who
+1623;6492;Sim;where
+1624;6493;Nao;which
+1624;6494;Nao;whose
+1624;6495;Sim;that
+1624;6496;Nao;where
+1625;6497;Nao;who
+1625;6498;Nao;in which
+1625;6499;Nao;whose
+1625;6500;Sim;that
+1626;6501;Sim;whose
+1626;6502;Nao;which
+1626;6503;Nao;whom
+1626;6504;Nao;who
+1627;6505;Nao;which
+1627;6506;Nao;whom
+1627;6507;Nao;where
+1627;6508;Sim;when
+1628;6509;Nao;which
+1628;6510;Nao;whose
+1628;6511;Nao;to whom
+1628;6512;Sim;when
+1629;6513;Nao;whose
+1629;6514;Nao;whom
+1629;6515;Nao;which
+1629;6516;Sim;who
+1630;6517;Nao;who
+1630;6518;Nao;those
+1630;6519;Nao;when
+1630;6520;Sim;that
+1631;6521;Sim;who
+1631;6522;Nao;of whom
+1631;6523;Nao;which
+1631;6524;Nao;whose
+1632;6525;Nao;who
+1632;6526;Sim;whose
+1632;6527;Nao;which
+1632;6528;Nao;her
+1633;6529;Nao;whose
+1633;6530;Sim;who
+1633;6531;Nao;whom
+1633;6532;Nao;which
+1634;6533;Nao;to which
+1634;6534;Nao;about which
+1634;6535;Nao;of which
+1634;6536;Sim;which
+1635;6537;Nao;whom
+1635;6538;Nao;which
+1635;6539;Nao;of which
+1635;6540;Sim;that
+1636;6541;Nao;it
+1636;6542;Nao;about which
+1636;6543;Nao;who
+1636;6544;Sim;that
+1637;6545;Nao;which
+1637;6546;Nao;whose
+1637;6547;Nao;whom
+1637;6548;Sim;who
+1638;6549;Nao;those
+1638;6550;Nao;whose
+1638;6551;Sim;that
+1638;6552;Nao;which
+1639;6553;Nao;whose
+1639;6554;Sim;who
+1639;6555;Nao;which
+1639;6556;Nao;whom
+1640;6557;Nao;whom
+1640;6558;Nao;which
+1640;6559;Sim;whose
+1640;6560;Nao;those
+1641;6561;Nao;in where
+1641;6562;Sim;in which
+1641;6563;Nao;which
+1641;6564;Nao;that
+1642;6565;Nao;when
+1642;6566;Sim;where
+1642;6567;Nao;which
+1642;6568;Nao;those
+1643;6569;Sim;on when
+1643;6570;Nao;when
+1643;6571;Nao;that
+1643;6572;Nao;on which
+1644;6573;Sim;in which
+1644;6574;Nao;that
+1644;6575;Nao;in where
+1644;6576;Nao;in that
+1645;6577;Sim;where
+1645;6578;Nao;in where
+1645;6579;Nao;when
+1645;6580;Nao;which
+1646;6581;Sim;where
+1646;6582;Nao;which
+1646;6583;Nao;in where
+1646;6584;Nao;that
+1647;6585;Sim;that
+1647;6586;Nao;who
+1647;6587;Nao;of which
+1647;6588;Nao;this
+1648;6589;Nao;who
+1648;6590;Nao;those
+1648;6591;Sim;that
+1648;6592;Nao;when
+1649;6593;Nao;of which
+1649;6594;Sim;that
+1649;6595;Nao;who
+1649;6596;Nao;what
+1650;6597;Nao;those
+1650;6598;Sim;who
+1650;6599;Nao;which
+1650;6600;Nao;whose
+1651;6601;Nao;of which
+1651;6602;Nao;which
+1651;6603;Sim;who
+1651;6604;Nao;whose
+1652;6605;Nao;where
+1652;6606;Nao;whose
+1652;6607;Nao;which
+1652;6608;Sim;who
+1653;6609;Nao;of which
+1653;6610;Nao;whose
+1653;6611;Sim;that
+1653;6612;Nao;who
+1654;6613;Sim;where
+1654;6614;Nao;when
+1654;6615;Nao;which
+1654;6616;Nao;who
+1655;6617;Nao;of which
+1655;6618;Nao;to which
+1655;6619;Nao;whose
+1655;6620;Sim;who
+1656;6621;Sim;whom
+1656;6622;Nao;to which
+1656;6623;Nao;whose
+1656;6624;Nao;which
+1657;6625;Nao;where
+1657;6626;Nao;which
+1657;6627;Sim;that
+1657;6628;Nao;whose
+1658;6629;Nao;of which
+1658;6630;Sim;who
+1658;6631;Nao;where
+1658;6632;Nao;which
+1659;6633;Nao;where
+1659;6634;Sim;who
+1659;6635;Nao;how
+1659;6636;Nao;which
+1660;6637;Nao;when
+1660;6638;Sim;that
+1660;6639;Nao;where
+1660;6640;Nao;whose
+1661;6641;Nao;which
+1661;6642;Nao;when
+1661;6643;Sim;where
+1661;6644;Nao;who
+1662;6645;Nao;whose
+1662;6646;Sim;that
+1662;6647;Nao;of which
+1662;6648;Nao;which
+1663;6649;Sim;that
+1663;6650;Nao;of which
+1663;6651;Nao;where
+1663;6652;Nao;to which
+1664;6653;Nao;of which
+1664;6654;Sim;whose
+1664;6655;Nao;whom
+1664;6656;Nao;who
+1665;6657;Sim;when
+1665;6658;Nao;where
+1665;6659;Nao;whom
+1665;6660;Nao;whose
+1666;6661;Nao;where
+1666;6662;Nao;whose
+1666;6663;Sim;when
+1666;6664;Nao;which
+1667;6665;Nao;how
+1667;6666;Nao;to which
+1667;6667;Nao;which
+1667;6668;Sim;when
+1668;6669;Sim;when
+1668;6670;Nao;where
+1668;6671;Nao;whose
+1668;6672;Nao;which
+1669;6673;Nao;of which
+1669;6674;Sim;where
+1669;6675;Nao;which
+1669;6676;Nao;when
+1670;6677;Nao;how
+1670;6678;Nao;which
+1670;6679;Nao;whose
+1670;6680;Sim;who
+1671;6681;Nao;who
+1671;6682;Nao;where
+1671;6683;Sim;that
+1671;6684;Nao;whose
+1672;6685;Nao;whom
+1672;6686;Nao;of which
+1672;6687;Sim;which
+1672;6688;Nao;whose
+1673;6689;Sim;that
+1673;6690;Nao;who
+1673;6691;Nao;to which
+1673;6692;Nao;whose
+1674;6693;Nao;which
+1674;6694;Sim;whose
+1674;6695;Nao;when
+1674;6696;Nao;whom
+1675;6697;Nao;who
+1675;6698;Nao;where
+1675;6699;Nao;whose
+1675;6700;Sim;that
+1676;6701;Nao;which
+1676;6702;Sim;who
+1676;6703;Nao;to which
+1676;6704;Nao;whose
+1677;6705;Nao;which
+1677;6706;Nao;who
+1677;6707;Sim;whose
+1677;6708;Nao;whom
+1678;6709;Nao;where
+1678;6710;Sim;when
+1678;6711;Nao;which
+1678;6712;Nao;whose
+1679;6713;Nao;of which
+1679;6714;Sim;who
+1679;6715;Nao;whose
+1679;6716;Nao;which
+1680;6717;Nao;whose
+1680;6718;Nao;which
+1680;6719;Nao;where
+1680;6720;Sim;who
+1681;6721;Nao;where
+1681;6722;Nao;who
+1681;6723;Nao;when
+1681;6724;Sim;that
+1682;6725;Nao;of which
+1682;6726;Nao;who
+1682;6727;Nao;to which
+1682;6728;Sim;that
+1683;6729;Sim;which
+1683;6730;Nao;who
+1683;6731;Nao;where
+1683;6732;Nao;when
+1684;6733;Nao;whose
+1684;6734;Nao;where
+1684;6735;Nao;to which
+1684;6736;Sim;that
+1685;6737;Nao;whose
+1685;6738;Nao;which
+1685;6739;Sim;when
+1685;6740;Nao;where
+1686;6741;Nao;where
+1686;6742;Nao;whose
+1686;6743;Nao;when
+1686;6744;Sim;that
+1687;6745;Nao;which
+1687;6746;Nao;who
+1687;6747;Nao;whom
+1687;6748;Sim;whose
+1688;6749;Nao;whom
+1688;6750;Sim;whose
+1688;6751;Nao;who
+1688;6752;Nao;which
+1689;6753;Nao;whose
+1689;6754;Sim;where
+1689;6755;Nao;which
+1689;6756;Nao;whom
+1690;6757;Sim;where
+1690;6758;Nao;whom
+1690;6759;Nao;whose
+1690;6760;Nao;which
+1691;6761;Sim;where
+1691;6762;Nao;which
+1691;6763;Nao;when
+1691;6764;Nao;of which
+1692;6765;Nao;which
+1692;6766;Nao;of which
+1692;6767;Sim;who
+1692;6768;Nao;whose
+1693;6769;Nao;which
+1693;6770;Sim;when
+1693;6771;Nao;where
+1693;6772;Nao;who
+1694;6773;Sim;when
+1694;6774;Nao;where
+1694;6775;Nao;to which
+1694;6776;Nao;whose
+1695;6777;Sim;whose
+1695;6778;Nao;that
+1695;6779;Nao;whom
+1695;6780;Nao;which
+1696;6781;Sim;whose
+1696;6782;Nao;who
+1696;6783;Nao;that
+1696;6784;Nao;of which
+1697;6785;Nao;when
+1697;6786;Sim;which
+1697;6787;Nao;where
+1697;6788;Nao;who
+1698;6789;Nao;to which
+1698;6790;Nao;whose
+1698;6791;Nao;whom
+1698;6792;Sim;which
+1699;6793;Nao;when
+1699;6794;Nao;whose
+1699;6795;Sim;who
+1699;6796;Nao;where
+1700;6797;Nao;whose
+1700;6798;Nao;which
+1700;6799;Sim;who
+1700;6800;Nao;of which
+1701;6801;Nao;or
+1701;6802;Sim;but
+1701;6803;Nao;so
+1701;6804;Nao;as
+1702;6805;Nao;as in
+1702;6806;Sim;such as
+1702;6807;Nao;than
+1702;6808;Nao;in addition
+1703;6809;Nao;unless
+1703;6810;Nao;that
+1703;6811;Nao;while
+1703;6812;Sim;but
+1704;6813;Sim;but
+1704;6814;Nao;unless
+1704;6815;Nao;therefore
+1704;6816;Nao;meanwhile
+1705;6817;Nao;moreover
+1705;6818;Nao;unless
+1705;6819;Nao;suddenly
+1705;6820;Sim;because
+1706;6821;Sim;Besides
+1706;6822;Nao;Such as
+1706;6823;Nao;Unless
+1706;6824;Nao;Because
+1707;6825;Nao;Thus
+1707;6826;Nao;While
+1707;6827;Sim;Besides
+1707;6828;Nao;Such as
+1708;6829;Sim;So
+1708;6830;Nao;With regard to
+1708;6831;Nao;Such as
+1708;6832;Nao;As for
+1709;6833;Nao;For example
+1709;6834;Nao;In addition
+1709;6835;Nao;But
+1709;6836;Sim;Meanwhile
+1710;6837;Nao;but
+1710;6838;Nao;however
+1710;6839;Sim;to begin with
+1710;6840;Nao;furthermore
+1711;6841;Nao;With regard to
+1711;6842;Sim;However
+1711;6843;Nao;Such as
+1711;6844;Nao;Unless
+1712;6845;Nao;Besides
+1712;6846;Nao;Whereas
+1712;6847;Sim;In the end
+1712;6848;Nao;On the other hand
+1713;6849;Nao;whereas
+1713;6850;Sim;such as
+1713;6851;Nao;but
+1713;6852;Nao;finally
+1714;6853;Sim;For example
+1714;6854;Nao;Consequently
+1714;6855;Nao;As a result
+1714;6856;Nao;Meanwhile
+1715;6857;Nao;Firstly
+1715;6858;Nao;With regard to
+1715;6859;Sim;For example
+1715;6860;Nao;Moreover
+1716;6861;Nao;However
+1716;6862;Sim;As a result
+1716;6863;Nao;On the other hand
+1716;6864;Nao;With regard to
+1717;6865;Nao;Such as
+1717;6866;Nao;Because
+1717;6867;Nao;Whereas
+1717;6868;Sim;Therefore
+1718;6869;Nao;But
+1718;6870;Sim;Consequently
+1718;6871;Nao;Whereas
+1718;6872;Nao;Because
+1719;6873;Nao;because
+1719;6874;Nao;however
+1719;6875;Sim;hence
+1719;6876;Nao;to begin with
+1720;6877;Nao;because
+1720;6878;Nao;however
+1720;6879;Sim;hence
+1720;6880;Nao;but
+1721;6881;Sim;whereas
+1721;6882;Nao;for example
+1721;6883;Nao;with regard to
+1721;6884;Nao;such as
+1722;6885;Sim;On the contrary
+1722;6886;Nao;With regard to
+1722;6887;Nao;Firstly
+1722;6888;Nao;For example
+1723;6889;Nao;Secondly
+1723;6890;Nao;For example
+1723;6891;Sim;However
+1723;6892;Nao;With reference to
+1724;6893;Nao;but
+1724;6894;Nao;because
+1724;6895;Nao;meanwhile
+1724;6896;Sim;yet
+1725;6897;Sim;On the other hand
+1725;6898;Nao;Because
+1725;6899;Nao;With regard to
+1725;6900;Nao;In addition
+1726;6901;Nao;Secondly
+1726;6902;Nao;In addition
+1726;6903;Sim;As for
+1726;6904;Nao;Moreover
+1727;6905;Nao;On the contrary
+1727;6906;Sim;With regard to
+1727;6907;Nao;Because
+1727;6908;Nao;In addition
+1728;6909;Sim;As for
+1728;6910;Nao;On the other hand
+1728;6911;Nao;Moreover
+1728;6912;Nao;Such as
+1729;6913;Nao;Firstly
+1729;6914;Nao;Such as
+1729;6915;Nao;Because
+1729;6916;Sim;As for
+1730;6917;Sim;In short
+1730;6918;Nao;With regard to
+1730;6919;Nao;But
+1730;6920;Nao;As for
+1731;6921;Nao;As for
+1731;6922;Nao;Because
+1731;6923;Nao;With reference to
+1731;6924;Sim;On the whole
+1732;6925;Sim;To sum up
+1732;6926;Nao;With regard to
+1732;6927;Nao;As for
+1732;6928;Nao;Such as
+1733;6929;Nao;Because
+1733;6930;Nao;With reference to
+1733;6931;Sim;On the whole
+1733;6932;Nao;As for
+1734;6933;Nao;As for
+1734;6934;Nao;With regard to
+1734;6935;Nao;Moreover
+1734;6936;Sim;On the other hand
+1735;6937;Sim;Otherwise
+1735;6938;Nao;With reference to
+1735;6939;Nao;But
+1735;6940;Nao;Such as
+1736;6941;Nao;So/in addition
+1736;6942;Sim;So/instead
+1736;6943;Nao;Yet/instead
+1736;6944;Nao;Therefore/hence
+1737;6945;Nao;because
+1737;6946;Sim;so that
+1737;6947;Nao;as long as
+1737;6948;Nao;although
+1738;6949;Nao;for
+1738;6950;Nao;the reason that
+1738;6951;Nao;however
+1738;6952;Sim;so that
+1739;6953;Nao;for
+1739;6954;Nao;so that
+1739;6955;Sim;so
+1739;6956;Nao;although
+1740;6957;Nao;therefore
+1740;6958;Nao;hence
+1740;6959;Sim;but
+1740;6960;Nao;so
+1741;6961;Nao;so that
+1741;6962;Nao;due to 
+1741;6963;Nao;otherwise
+1741;6964;Sim;because
+1742;6965;Nao;because
+1742;6966;Nao;for
+1742;6967;Nao;in order to
+1742;6968;Sim;so that
+1743;6969;Nao;in order to
+1743;6970;Nao;as for
+1743;6971;Nao;such as
+1743;6972;Sim;so that
+1744;6973;Nao;Hence
+1744;6974;Nao;However
+1744;6975;Sim;Despite
+1744;6976;Nao;Although
+1745;6977;Nao;because/Then
+1745;6978;Sim;but/So
+1745;6979;Nao;since/So
+1745;6980;Nao;therefore/Then
+1746;6981;Nao;while
+1746;6982;Nao;because
+1746;6983;Nao;as for
+1746;6984;Sim;so
+1747;6985;Nao;Because
+1747;6986;Sim;Consequently
+1747;6987;Nao;But
+1747;6988;Nao;While
+1748;6989;Nao;While
+1748;6990;Sim;As a result
+1748;6991;Nao;Although
+1748;6992;Nao;Whereas
+1749;6993;Sim;therefore
+1749;6994;Nao;but
+1749;6995;Nao;though
+1749;6996;Nao;whereas
+1750;6997;Nao;though
+1750;6998;Nao;whereas
+1750;6999;Sim;so
+1750;7000;Nao;that
+1751;7001;Nao;whereas
+1751;7002;Sim;so
+1751;7003;Nao;although
+1751;7004;Nao;otherwise
+1752;7005;Nao;But
+1752;7006;Sim;Since
+1752;7007;Nao;Otherwise
+1752;7008;Nao;Whereas
+1753;7009;Sim;because
+1753;7010;Nao;although
+1753;7011;Nao;as
+1753;7012;Nao;since
+1754;7013;Nao;otherwise
+1754;7014;Sim;as
+1754;7015;Nao;whereas
+1754;7016;Nao;although
+1755;7017;Nao;because
+1755;7018;Nao;while
+1755;7019;Nao;hence
+1755;7020;Sim;due to
+1756;7021;Nao;although
+1756;7022;Sim;because
+1756;7023;Nao;due to 
+1756;7024;Nao;hence
+1757;7025;Nao;But
+1757;7026;Nao;Otherwise
+1757;7027;Nao;Meanwhile
+1757;7028;Sim;Although
+1758;7029;Nao;But
+1758;7030;Nao;Otherwise
+1758;7031;Sim;Even though
+1758;7032;Nao;Meanwhile
+1759;7033;Nao;otherwise
+1759;7034;Nao;in order to
+1759;7035;Nao;as for
+1759;7036;Sim;but
+1760;7037;Nao;While
+1760;7038;Nao;Although
+1760;7039;Sim;Despite
+1760;7040;Nao;Otherwise
+1761;7041;Nao;Because
+1761;7042;Sim;In spite of
+1761;7043;Nao;Therefore
+1761;7044;Nao;Hence
+1762;7045;Nao;Due to
+1762;7046;Sim;However
+1762;7047;Nao;In spite of
+1762;7048;Nao;Despite
+1763;7049;Nao;in order to
+1763;7050;Sim;nevertheless
+1763;7051;Nao;due to
+1763;7052;Nao;in spite of
+1764;7053;Nao;In spite of
+1764;7054;Sim;On the other hand
+1764;7055;Nao;As
+1764;7056;Nao;Because
+1765;7057;Nao;because
+1765;7058;Sim;while
+1765;7059;Nao;whereas
+1765;7060;Nao;despite
+1766;7061;Sim;as soon as
+1766;7062;Nao;whereas
+1766;7063;Nao;despite
+1766;7064;Nao;in spite of
+1767;7065;Nao;because
+1767;7066;Nao;in spite of
+1767;7067;Nao;as soon as
+1767;7068;Sim;by the time
+1768;7069;Nao;Therefore
+1768;7070;Nao;Hence
+1768;7071;Nao;Although
+1768;7072;Sim;Besides
+1769;7073;Nao;otherwise
+1769;7074;Sim;in addition to
+1769;7075;Nao;hence
+1769;7076;Nao;therefore
+1770;7077;Nao;although
+1770;7078;Sim;and
+1770;7079;Nao;hence
+1770;7080;Nao;otherwise
+1771;7081;Nao;meanwhile
+1771;7082;Sim;in order to
+1771;7083;Nao;because
+1771;7084;Nao;whereas
+1772;7085;Sim;In order not to
+1772;7086;Nao;In spite of
+1772;7087;Nao;Although
+1772;7088;Nao;Because
+1773;7089;Nao;Even though
+1773;7090;Nao;Although
+1773;7091;Sim;Despite
+1773;7092;Nao;Meanwhile
+1774;7093;Nao;Because
+1774;7094;Sim;Even though
+1774;7095;Nao;In spite of
+1774;7096;Nao;But
+1775;7097;Sim;because
+1775;7098;Nao;meanwhile
+1775;7099;Nao;although
+1775;7100;Nao;even though
+1776;7101;Nao;but
+1776;7102;Nao;hence
+1776;7103;Nao;because
+1776;7104;Sim;while
+1777;7105;Sim;Furthermore
+1777;7106;Nao;In spite of
+1777;7107;Nao;Meanwhile
+1777;7108;Nao;Despite
+1778;7109;Nao;Hence
+1778;7110;Sim;Even though
+1778;7111;Nao;Meanwhile
+1778;7112;Nao;But
+1779;7113;Sim;Therefore
+1779;7114;Nao;Despite
+1779;7115;Nao;While
+1779;7116;Nao;But
+1780;7117;Nao;hence
+1780;7118;Sim;even though
+1780;7119;Nao;because
+1780;7120;Nao;in spite of
+1781;7121;Nao;As for
+1781;7122;Nao;Despite
+1781;7123;Nao;Therefore
+1781;7124;Sim;Otherwise
+1782;7125;Nao;Because
+1782;7126;Sim;As for
+1782;7127;Nao;Despite
+1782;7128;Nao;Therefore
+1783;7129;Nao;Therefore
+1783;7130;Nao;On the other hand
+1783;7131;Sim;As for
+1783;7132;Nao;Because
+1784;7133;Nao;whereas
+1784;7134;Nao;in spite of
+1784;7135;Sim;as
+1784;7136;Nao;however
+1785;7137;Sim;Since
+1785;7138;Nao;As for
+1785;7139;Nao;However
+1785;7140;Nao;Therefore
+1786;7141;Sim;because
+1786;7142;Nao;however
+1786;7143;Nao;in spite of
+1786;7144;Nao;as for
+1787;7145;Nao;moreover
+1787;7146;Nao;whereas
+1787;7147;Nao;due to
+1787;7148;Sim;so
+1788;7149;Nao;In spite of
+1788;7150;Nao;Despite
+1788;7151;Sim;Consequently
+1788;7152;Nao;As for
+1789;7153;Nao;However
+1789;7154;Nao;Because
+1789;7155;Nao;As for
+1789;7156;Sim;Therefore
+1790;7157;Nao;in spite of
+1790;7158;Nao;consequently
+1790;7159;Nao;as for
+1790;7160;Sim;since
+1791;7161;Nao;whereas
+1791;7162;Sim;because
+1791;7163;Nao;otherwise
+1791;7164;Nao;in spite of
+1792;7165;Nao;on the other hand
+1792;7166;Sim;due to
+1792;7167;Nao;however
+1792;7168;Nao;as for
+1793;7169;Sim;and
+1793;7170;Nao;because
+1793;7171;Nao;due to 
+1793;7172;Nao;as
+1794;7173;Sim;but
+1794;7174;Nao;otherwise
+1794;7175;Nao;as for
+1794;7176;Nao;is spite of
+1795;7177;Nao;As for
+1795;7178;Nao;In spite of
+1795;7179;Sim;Although
+1795;7180;Nao;As
+1796;7181;Nao;On the other hand
+1796;7182;Nao;Otherwise
+1796;7183;Sim;Even though
+1796;7184;Nao;Despite
+1797;7185;Nao;Despite
+1797;7186;Nao;Because
+1797;7187;Sim;However
+1797;7188;Nao;Otherwise
+1798;7189;Sim;or else
+1798;7190;Nao;in spite of
+1798;7191;Nao;on the other hand
+1798;7192;Nao;as for
+1799;7193;Nao;On the other hand
+1799;7194;Nao;Hence
+1799;7195;Sim;Unless
+1799;7196;Nao;Therefore
+1800;7197;Sim;whether or not
+1800;7198;Nao;as for
+1800;7199;Nao;hence
+1800;7200;Nao;despite
+1801;7201;Sim;mustn't
+1801;7202;Nao;have to
+1801;7203;Nao;should
+1801;7204;Nao;don't have to
+1802;7205;Nao;may
+1802;7206;Nao;should
+1802;7207;Sim;have to
+1802;7208;Nao;can
+1803;7209;Nao;may
+1803;7210;Nao;have to
+1803;7211;Nao;can
+1803;7212;Sim;should
+1804;7213;Nao;would
+1804;7214;Nao;shouldn't
+1804;7215;Sim;should
+1804;7216;Nao;might
+1805;7217;Nao;should
+1805;7218;Nao;can't
+1805;7219;Nao;can
+1805;7220;Sim;couldn't
+1806;7221;Nao;would
+1806;7222;Nao;couldn't
+1806;7223;Sim;mustn't
+1806;7224;Nao;might
+1807;7225;Nao;can
+1807;7226;Nao;can't
+1807;7227;Sim;could
+1807;7228;Nao;shouldn't
+1808;7229;Sim;should
+1808;7230;Nao;would
+1808;7231;Nao;ought
+1808;7232;Nao;might not
+1809;7233;Sim;have to
+1809;7234;Nao;may
+1809;7235;Nao;might not
+1809;7236;Nao;ought to
+1810;7237;Nao;ought to
+1810;7238;Nao;may
+1810;7239;Sim;have to
+1810;7240;Nao;can
+1811;7241;Sim;may
+1811;7242;Nao;ought
+1811;7243;Nao;can
+1811;7244;Nao;must
+1812;7245;Nao;shouldn't
+1812;7246;Nao;has to
+1812;7247;Sim;can
+1812;7248;Nao;must
+1813;7249;Nao;may
+1813;7250;Nao;might not
+1813;7251;Sim;should
+1813;7252;Nao;can't
+1814;7253;Nao;shouldn't
+1814;7254;Nao;can
+1814;7255;Nao;may not
+1814;7256;Sim;mustn't
+1815;7257;Sim;can't
+1815;7258;Nao;can
+1815;7259;Nao;might
+1815;7260;Nao;ought
+1816;7261;Nao;Have to
+1816;7262;Sim;Could
+1816;7263;Nao;Must
+1816;7264;Nao;Should
+1817;7265;Nao;might not
+1817;7266;Nao;ought
+1817;7267;Sim;should
+1817;7268;Nao;can't
+1818;7269;Sim;couldn't
+1818;7270;Nao;can't
+1818;7271;Nao;can
+1818;7272;Nao;may
+1819;7273;Nao;wouldn't
+1819;7274;Nao;shouldn't
+1819;7275;Sim;should
+1819;7276;Nao;couldn't
+1820;7277;Nao;ought
+1820;7278;Nao;can
+1820;7279;Sim;had to
+1820;7280;Nao;wouldn't
+1821;7281;Nao;Wouldn't
+1821;7282;Sim;Should
+1821;7283;Nao;Ought to
+1821;7284;Nao;Would
+1822;7285;Sim;can't
+1822;7286;Nao;didn't have to
+1822;7287;Nao;had to
+1822;7288;Nao;couldn't
+1823;7289;Nao;would
+1823;7290;Sim;have to
+1823;7291;Nao;didn't have to
+1823;7292;Nao;can't
+1824;7293;Nao;mustn't
+1824;7294;Nao;can't
+1824;7295;Sim;doesn't have to
+1824;7296;Nao;ought to
+1825;7297;Nao;have to
+1825;7298;Nao;must
+1825;7299;Nao;can
+1825;7300;Sim;don't have to
+1826;7301;Nao;can
+1826;7302;Sim;would
+1826;7303;Nao;should
+1826;7304;Nao;might
+1827;7305;Nao;Should 
+1827;7306;Nao;Must
+1827;7307;Nao;I have to
+1827;7308;Sim;Can
+1828;7309;Sim;can't
+1828;7310;Nao;shouldn't
+1828;7311;Nao;have to
+1828;7312;Nao;mustn't
+1829;7313;Nao;may
+1829;7314;Nao;might
+1829;7315;Sim;should
+1829;7316;Nao;can't
+1830;7317;Nao;should
+1830;7318;Nao;can
+1830;7319;Nao;mustn't
+1830;7320;Sim;can't
+1831;7321;Nao;can
+1831;7322;Sim;could
+1831;7323;Nao;ought to
+1831;7324;Nao;should
+1832;7325;Nao;should
+1832;7326;Nao;has to
+1832;7327;Sim;may
+1832;7328;Nao;can
+1833;7329;Sim;Can
+1833;7330;Nao;Must
+1833;7331;Nao;Should
+1833;7332;Nao;Might
+1834;7333;Sim;may
+1834;7334;Nao;have to
+1834;7335;Nao;can't
+1834;7336;Nao;can
+1835;7337;Nao;could
+1835;7338;Sim;must
+1835;7339;Nao;should
+1835;7340;Nao;would 
+1836;7341;Nao;may
+1836;7342;Nao;could
+1836;7343;Nao;should
+1836;7344;Sim;must
+1837;7345;Sim;should
+1837;7346;Nao;might
+1837;7347;Nao;can't
+1837;7348;Nao;couldn't
+1838;7349;Nao;must
+1838;7350;Sim;could
+1838;7351;Nao;should
+1838;7352;Nao;ought to
+1839;7353;Nao;will
+1839;7354;Nao;can
+1839;7355;Nao;could
+1839;7356;Sim;may
+1840;7357;Nao;can
+1840;7358;Nao;must
+1840;7359;Nao;must
+1840;7360;Sim;should
+1841;7361;Sim;should
+1841;7362;Nao;mustn't
+1841;7363;Nao;may
+1841;7364;Nao;have to
+1842;7365;Nao;should
+1842;7366;Nao;ought to
+1842;7367;Sim;could
+1842;7368;Nao;must
+1843;7369;Nao;Must
+1843;7370;Nao;Could
+1843;7371;Sim;Would
+1843;7372;Nao;Will
+1844;7373;Nao;must
+1844;7374;Nao;may
+1844;7375;Nao;can
+1844;7376;Sim;could
+1845;7377;Nao;can
+1845;7378;Sim;must
+1845;7379;Nao;may
+1845;7380;Nao;could
+1846;7381;Nao;mustn't
+1846;7382;Nao;can
+1846;7383;Sim;must
+1846;7384;Nao;ought to
+1847;7385;Sim;should have
+1847;7386;Nao;should
+1847;7387;Nao;would have to
+1847;7388;Nao;ought to
+1848;7389;Nao;might
+1848;7390;Nao;couldn't
+1848;7391;Nao;can
+1848;7392;Sim;had to
+1849;7393;Nao;may
+1849;7394;Nao;will
+1849;7395;Sim;could
+1849;7396;Nao;might
+1850;7397;Sim;might have
+1850;7398;Nao;might not
+1850;7399;Nao;would have
+1850;7400;Nao;couldn't
+1851;7401;Sim;would have
+1851;7402;Nao;shouldn't
+1851;7403;Nao;would have to
+1851;7404;Nao;will have
+1852;7405;Sim;should have
+1852;7406;Nao;had to
+1852;7407;Nao;ought to
+1852;7408;Nao;might not
+1853;7409;Sim;will have to
+1853;7410;Nao;might not
+1853;7411;Nao;shouldn't
+1853;7412;Nao;couldn't
+1854;7413;Sim;can't
+1854;7414;Nao;may
+1854;7415;Nao;might
+1854;7416;Nao;mustn't
+1855;7417;Nao;had to
+1855;7418;Nao;will have to
+1855;7419;Nao;wouldn't
+1855;7420;Sim;might not
+1856;7421;Nao;Must
+1856;7422;Sim;Would 
+1856;7423;Nao;Might
+1856;7424;Nao;Can
+1857;7425;Nao;had to
+1857;7426;Nao;could
+1857;7427;Sim;must
+1857;7428;Nao;can't
+1858;7429;Sim;couldn´t
+1858;7430;Nao;should
+1858;7431;Nao;can't
+1858;7432;Nao;shouldn't
+1859;7433;Nao;shouldn't
+1859;7434;Nao;can't
+1859;7435;Sim;should
+1859;7436;Nao;can
+1860;7437;Nao;Must
+1860;7438;Nao;Could
+1860;7439;Sim;Would
+1860;7440;Nao;Can
+1861;7441;Nao;can't
+1861;7442;Sim;should
+1861;7443;Nao;can
+1861;7444;Nao;mustn't
+1862;7445;Nao;has to
+1862;7446;Sim;must
+1862;7447;Nao;should 
+1862;7448;Nao;can
+1863;7449;Nao;did have
+1863;7450;Nao;can't have
+1863;7451;Nao;can have
+1863;7452;Sim;must have
+1864;7453;Nao;don't have to
+1864;7454;Nao;mustn't
+1864;7455;Sim;should
+1864;7456;Nao;have to
+1865;7457;Sim;mustn't
+1865;7458;Nao;shouldn't
+1865;7459;Nao;don't have to
+1865;7460;Nao;might not
+1866;7461;Sim;must
+1866;7462;Nao;might
+1866;7463;Nao;couldn't
+1866;7464;Nao;may
+1867;7465;Sim;mustn't
+1867;7466;Nao;must
+1867;7467;Nao;can
+1867;7468;Nao;may
+1868;7469;Nao;have to
+1868;7470;Nao;can
+1868;7471;Nao;can't
+1868;7472;Sim;don't have to
+1869;7473;Nao;would
+1869;7474;Nao;have to
+1869;7475;Nao;don't have to
+1869;7476;Sim;may
+1870;7477;Nao;can
+1870;7478;Nao;can't
+1870;7479;Sim;may
+1870;7480;Nao;mustn't
+1871;7481;Nao;Might
+1871;7482;Nao;Must
+1871;7483;Sim;Can
+1871;7484;Nao;Shouldn't
+1872;7485;Nao;should
+1872;7486;Nao;must
+1872;7487;Nao;shouldn't
+1872;7488;Sim;mustn't
+1873;7489;Sim;must
+1873;7490;Nao;can
+1873;7491;Nao;shouldn't
+1873;7492;Nao;might
+1874;7493;Nao;can
+1874;7494;Sim;may
+1874;7495;Nao;has to be
+1874;7496;Nao;can't
+1875;7497;Nao;Could/can't
+1875;7498;Nao;Can/couldn't
+1875;7499;Nao;Should/can't
+1875;7500;Sim;Could/couldn't
+1876;7501;Nao;must
+1876;7502;Nao;can't
+1876;7503;Sim;couldn't
+1876;7504;Nao;can
+1877;7505;Nao;can
+1877;7506;Nao;don't have to
+1877;7507;Nao;shouldn't
+1877;7508;Sim;mustn't
+1878;7509;Nao;may
+1878;7510;Sim;must
+1878;7511;Nao;may not
+1878;7512;Nao;can
+1879;7513;Sim;have to
+1879;7514;Nao;might
+1879;7515;Nao;mustn't
+1879;7516;Nao;may
+1880;7517;Sim;should
+1880;7518;Nao;might
+1880;7519;Nao;can
+1880;7520;Nao;may
+1881;7521;Nao;should
+1881;7522;Sim;may
+1881;7523;Nao;must
+1881;7524;Nao;have to
+1882;7525;Nao;have to
+1882;7526;Sim;don't have to
+1882;7527;Nao;mustn't
+1882;7528;Nao;can't
+1883;7529;Nao;must
+1883;7530;Sim;don't have to
+1883;7531;Nao;can't
+1883;7532;Nao;mustn't
+1884;7533;Nao;mustn't
+1884;7534;Nao;may not
+1884;7535;Nao;can't
+1884;7536;Sim;should
+1885;7537;Sim;shouldn't
+1885;7538;Nao;may
+1885;7539;Nao;should
+1885;7540;Nao;can
+1886;7541;Sim;couldn't
+1886;7542;Nao;might
+1886;7543;Nao;can
+1886;7544;Nao;shouldn't
+1887;7545;Nao;Can
+1887;7546;Sim;Could
+1887;7547;Nao;Might
+1887;7548;Nao;May
+1888;7549;Sim;can't
+1888;7550;Nao;would
+1888;7551;Nao;may
+1888;7552;Nao;should
+1889;7553;Sim;must
+1889;7554;Nao;can
+1889;7555;Nao;should
+1889;7556;Nao;could
+1890;7557;Nao;ought
+1890;7558;Nao;could 
+1890;7559;Sim;must
+1890;7560;Nao;can
+1891;7561;Nao;can't
+1891;7562;Nao;could
+1891;7563;Nao;should
+1891;7564;Sim;must
+1892;7565;Nao;may
+1892;7566;Sim;have to
+1892;7567;Nao;can
+1892;7568;Nao;could
+1893;7569;Sim;might
+1893;7570;Nao;could 
+1893;7571;Nao;can
+1893;7572;Nao;may
+1894;7573;Nao;can't
+1894;7574;Sim;couldn't
+1894;7575;Nao;may
+1894;7576;Nao;must
+1895;7577;Nao;should
+1895;7578;Nao;can
+1895;7579;Nao;ought to
+1895;7580;Sim;must
+1896;7581;Nao;can
+1896;7582;Sim;should
+1896;7583;Nao;may
+1896;7584;Nao;might
+1897;7585;Nao;Might
+1897;7586;Nao;Could
+1897;7587;Nao;I have to
+1897;7588;Sim;Should
+1898;7589;Nao;can
+1898;7590;Nao;shouldn't
+1898;7591;Nao;can't
+1898;7592;Sim;will have to
+1899;7593;Sim;must/can't
+1899;7594;Nao;have to/don't
+1899;7595;Nao;must/can
+1899;7596;Nao;have to/couldn't
+1900;7597;Nao;could
+1900;7598;Nao;can't
+1900;7599;Sim;don't have to
+1900;7600;Nao;ought to
+1901;7601;Nao;relaxed
+1901;7602;Nao;peaceful
+1901;7603;Sim;nice
+1901;7604;Nao;laid-back
+1902;7605;Sim;nice
+1902;7606;Nao;sentimental
+1902;7607;Nao;passionate
+1902;7608;Nao;emotional
+1903;7609;Nao;worse
+1903;7610;Nao;more expensive
+1903;7611;Nao;better
+1903;7612;Sim;bigger
+1904;7613;Nao;biggest
+1904;7614;Sim;better
+1904;7615;Nao;most expensive
+1904;7616;Nao;cheapest
+1905;7617;Sim;stranger
+1905;7618;Nao;cheapest
+1905;7619;Nao;best
+1905;7620;Nao;most delicious 
+1906;7621;Nao;prettier
+1906;7622;Nao;more common
+1906;7623;Sim;most popular
+1906;7624;Nao;more beautiful
+1907;7625;Nao;most efficient
+1907;7626;Sim;faster
+1907;7627;Nao;best
+1907;7628;Nao;simplest
+1908;7629;Nao;energetic
+1908;7630;Nao;athletic
+1908;7631;Nao;active
+1908;7632;Sim;talkative
+1909;7633;Nao;further
+1909;7634;Nao;more dangerous
+1909;7635;Nao;bigger
+1909;7636;Sim;coldest
+1910;7637;Nao;most introverted
+1910;7638;Nao;most energetic
+1910;7639;Nao;most sensible
+1910;7640;Sim;funniest
+1911;7641;Nao;quieter
+1911;7642;Nao;most optimistic
+1911;7643;Sim;shyest
+1911;7644;Nao;most clumsy
+1912;7645;Sim;more difficult
+1912;7646;Nao;most difficult 
+1912;7647;Nao;more easy
+1912;7648;Nao;easiest
+1913;7649;Nao;better
+1913;7650;Nao;more exciting
+1913;7651;Sim;shortest
+1913;7652;Nao;longest
+1914;7653;Nao;bigger
+1914;7654;Sim;best
+1914;7655;Nao;most cheap
+1914;7656;Nao;more delicious
+1915;7657;Nao;faster
+1915;7658;Sim;fastest
+1915;7659;Nao;most faster
+1915;7660;Nao;more fast
+1916;7661;Nao;worse
+1916;7662;Nao;best
+1916;7663;Sim;healthier 
+1916;7664;Nao;health
+1917;7665;Nao;nearer
+1917;7666;Nao;less farther
+1917;7667;Nao;near
+1917;7668;Sim;nearest
+1918;7669;Nao;pretty/lively
+1918;7670;Sim;exciting/fascinating
+1918;7671;Nao;cheap/interesting
+1918;7672;Nao;small/peaceful
+1919;7673;Nao;wider
+1919;7674;Nao;more beautiful
+1919;7675;Nao;bigger
+1919;7676;Sim;tallest
+1920;7677;Nao;better
+1920;7678;Nao;more expensive
+1920;7679;Sim;healthiest
+1920;7680;Nao;worse
+1921;7681;Nao;more dangerous/least visible
+1921;7682;Nao;less dangerous/less visible
+1921;7683;Sim;more dangerous/less visible
+1921;7684;Nao;most dangerous/least visible
+1922;7685;Nao;best
+1922;7686;Nao;most special
+1922;7687;Nao;good
+1922;7688;Sim;more important
+1923;7689;Nao;good
+1923;7690;Sim;better
+1923;7691;Nao;more better
+1923;7692;Nao;best
+1924;7693;Sim;higher
+1924;7694;Nao;worst
+1924;7695;Nao;more
+1924;7696;Nao;bad
+1925;7697;Nao;least stressful
+1925;7698;Sim;less stressful 
+1925;7699;Nao;most stressful
+1925;7700;Nao;more stressful
+1926;7701;Nao;very skilled
+1926;7702;Sim;most skilled
+1926;7703;Nao;skilled
+1926;7704;Nao;more skilled
+1927;7705;Nao;taller
+1927;7706;Nao;smartest
+1927;7707;Nao;love
+1927;7708;Sim;lovable
+1928;7709;Sim;peaceful
+1928;7710;Nao;happier
+1928;7711;Nao;richest
+1928;7712;Nao;small
+1929;7713;Sim;scariest
+1929;7714;Nao;darker
+1929;7715;Nao;scarier
+1929;7716;Nao;longer
+1930;7717;Nao;friendlier
+1930;7718;Nao;friend
+1930;7719;Nao;happiest
+1930;7720;Sim;sociable
+1931;7721;Nao;careful
+1931;7722;Sim;clumsiest
+1931;7723;Nao;clumsier
+1931;7724;Nao;most careful
+1932;7725;Nao;nicest
+1932;7726;Nao;nicer
+1932;7727;Sim;unpleasant
+1932;7728;Nao;pleasure
+1933;7729;Sim;frightening
+1933;7730;Nao;frighten
+1933;7731;Nao;scariest
+1933;7732;Nao;nicest
+1934;7733;Sim;smartest
+1934;7734;Nao;more smart
+1934;7735;Nao;smarter
+1934;7736;Nao;most smart
+1935;7737;Nao;more bald
+1935;7738;Nao;most beautiful
+1935;7739;Sim;balder
+1935;7740;Nao;baldest
+1936;7741;Sim;fairer
+1936;7742;Nao;most fair
+1936;7743;Nao;more fair
+1936;7744;Nao;fairest
+1937;7745;Nao;most thick
+1937;7746;Nao;more thick
+1937;7747;Nao;longest
+1937;7748;Sim;longer
+1938;7749;Nao;more long
+1938;7750;Nao;longest
+1938;7751;Sim;curlier
+1938;7752;Nao;curliest
+1939;7753;Nao;most skinny
+1939;7754;Nao;skinniest
+1939;7755;Sim;skinnier
+1939;7756;Nao;fattest
+1940;7757;Nao;darkest/waviest
+1940;7758;Sim;darker/wavier
+1940;7759;Nao;darker/most wavy
+1940;7760;Nao;more dark/wavier
+1941;7761;Nao;dullest
+1941;7762;Sim;funnier
+1941;7763;Nao;funniest
+1941;7764;Nao;boring
+1942;7765;Nao;most strong
+1942;7766;Nao;worse
+1942;7767;Sim;worst
+1942;7768;Nao;stronger
+1943;7769;Nao;friendly
+1943;7770;Sim;friendlier
+1943;7771;Nao;friends
+1943;7772;Nao;friendliest
+1944;7773;Nao;stronger
+1944;7774;Sim;handsome
+1944;7775;Nao;pretty
+1944;7776;Nao;prettier
+1945;7777;Nao;more shy
+1945;7778;Nao;shier
+1945;7779;Sim;shiest
+1945;7780;Nao;most shy
+1946;7781;Nao;most boring
+1946;7782;Nao;more boring
+1946;7783;Sim;most easy-going
+1946;7784;Nao;more easy-going
+1947;7785;Sim;independent
+1947;7786;Nao;nice
+1947;7787;Nao;happier
+1947;7788;Nao;happiest
+1948;7789;Sim;kindest
+1948;7790;Nao;most kind
+1948;7791;Nao;more kind
+1948;7792;Nao;kinder
+1949;7793;Nao;most lazy
+1949;7794;Nao;more lazy
+1949;7795;Sim;laziest
+1949;7796;Nao;lazier
+1950;7797;Nao;costlier
+1950;7798;Nao;cheapest
+1950;7799;Nao;cheap
+1950;7800;Sim;reliable
+1951;7801;Nao;good
+1951;7802;Sim;helpful
+1951;7803;Nao;nicest
+1951;7804;Nao;help
+1952;7805;Nao;nicest
+1952;7806;Nao;nice
+1952;7807;Nao;happier
+1952;7808;Sim;outgoing
+1953;7809;Nao;most tidy
+1953;7810;Sim;tidiest
+1953;7811;Nao;tidier
+1953;7812;Nao;more tidy
+1954;7813;Nao;nicer
+1954;7814;Sim;reliable
+1954;7815;Nao;good
+1954;7816;Nao;kindest
+1955;7817;Nao;lazy
+1955;7818;Nao;nicest
+1955;7819;Sim;hard-working
+1955;7820;Nao;good
+1956;7821;Sim;communicative
+1956;7822;Nao;nicest
+1956;7823;Nao;talk
+1956;7824;Nao;friendliest
+1957;7825;Sim;cheapest
+1957;7826;Nao;better
+1957;7827;Nao;more attractive
+1957;7828;Nao;worst
+1958;7829;Sim;better
+1958;7830;Nao;good
+1958;7831;Nao;best
+1958;7832;Nao;worst
+1959;7833;Nao;more responsible
+1959;7834;Sim;most dedicated
+1959;7835;Nao;nicer
+1959;7836;Nao;better
+1960;7837;Nao;funnier
+1960;7838;Nao;younger
+1960;7839;Sim;tallest
+1960;7840;Nao;nicer
+1961;7841;Sim;most exciting
+1961;7842;Nao;most nice
+1961;7843;Nao;better
+1961;7844;Nao;more mysterious
+1962;7845;Nao;youngest 
+1962;7846;Nao;newer
+1962;7847;Sim;older
+1962;7848;Nao;less
+1963;7849;Nao;worse
+1963;7850;Nao;best
+1963;7851;Sim;bigger
+1963;7852;Nao;most spacious
+1964;7853;Nao;precious
+1964;7854;Nao;expensive
+1964;7855;Nao;valuable
+1964;7856;Sim;hard
+1965;7857;Nao;best
+1965;7858;Sim;nicer
+1965;7859;Nao;smartest
+1965;7860;Nao;most modern 
+1966;7861;Sim;dangerous
+1966;7862;Nao;fast
+1966;7863;Nao;smarter
+1966;7864;Nao;largest
+1967;7865;Nao;longer
+1967;7866;Nao;worse
+1967;7867;Nao;more exciting
+1967;7868;Sim;saddest
+1968;7869;Nao;better
+1968;7870;Nao;more intelligent
+1968;7871;Nao;worse
+1968;7872;Sim;funniest
+1969;7873;Nao;hottest
+1969;7874;Nao;best
+1969;7875;Nao;most dangerous
+1969;7876;Sim;more organized
+1970;7877;Nao;outgoing
+1970;7878;Sim;demanding
+1970;7879;Nao;easy
+1970;7880;Nao;friendly
+1971;7881;Sim;most enjoyable
+1971;7882;Nao;more enjoyable
+1971;7883;Nao;better
+1971;7884;Nao;more delicious
+1972;7885;Nao;brighter
+1972;7886;Nao;most bright
+1972;7887;Sim;brightest
+1972;7888;Nao;more bright
+1973;7889;Nao;older
+1973;7890;Sim;wealthiest
+1973;7891;Nao;prettiest
+1973;7892;Nao;youngest 
+1974;7893;Sim;noisier
+1974;7894;Nao;more noisy
+1974;7895;Nao;the most noisy
+1974;7896;Nao;noisiest
+1975;7897;Nao;saddest
+1975;7898;Nao;worst
+1975;7899;Nao;fast
+1975;7900;Sim;stunning
+1976;7901;Sim;healthier 
+1976;7902;Nao;farthest
+1976;7903;Nao;depressive
+1976;7904;Nao;elderly
+1977;7905;Nao;most noisy
+1977;7906;Sim;more delicious
+1977;7907;Nao;noisiest
+1977;7908;Nao;most delicious
+1978;7909;Nao;abusive
+1978;7910;Sim;amazing
+1978;7911;Nao;abominable
+1978;7912;Nao;absent
+1979;7913;Nao;fortunate
+1979;7914;Nao;less fortunate
+1979;7915;Sim;more fortunate
+1979;7916;Nao;most fortunate
+1980;7917;Sim;taller
+1980;7918;Nao;most skinny
+1980;7919;Nao;skinnier
+1980;7920;Nao;fatter
+1981;7921;Nao;more sociable
+1981;7922;Nao;less sociable
+1981;7923;Sim;most sociable
+1981;7924;Nao;sociable
+1982;7925;Sim;clever
+1982;7926;Nao;limited
+1982;7927;Nao;dumb
+1982;7928;Nao;average
+1983;7929;Nao;quiet
+1983;7930;Nao;shy
+1983;7931;Sim;talkative
+1983;7932;Nao;extrovert
+1984;7933;Nao;clever
+1984;7934;Nao;meticulous
+1984;7935;Nao;smart 
+1984;7936;Sim;absent-minded
+1985;7937;Sim;selfish
+1985;7938;Nao;benevolent
+1985;7939;Nao;contributing
+1985;7940;Nao;philanthropic
+1986;7941;Nao;alert
+1986;7942;Nao;watchful
+1986;7943;Sim;irresponsible
+1986;7944;Nao;meticulous
+1987;7945;Nao;most good
+1987;7946;Sim;better
+1987;7947;Nao;best
+1987;7948;Nao;more good
+1988;7949;Nao;most dirty
+1988;7950;Nao;more dirty
+1988;7951;Nao;dirtier
+1988;7952;Sim;dirtiest
+1989;7953;Nao;prettiest
+1989;7954;Sim;thinner
+1989;7955;Nao;dumber
+1989;7956;Nao;tallest
+1990;7957;Nao;tallest
+1990;7958;Nao;worse
+1990;7959;Sim;more confident
+1990;7960;Nao;more worst
+1991;7961;Nao;politer
+1991;7962;Sim;most charming
+1991;7963;Nao;more beautiful
+1991;7964;Nao;more benevolent
+1992;7965;Nao;soonest
+1992;7966;Sim;sooner
+1992;7967;Nao;most soon
+1992;7968;Nao;more soon
+1993;7969;Nao;most cheaper
+1993;7970;Nao;more expensive
+1993;7971;Sim;most expensive
+1993;7972;Nao;cheaper
+1994;7973;Sim;busiest
+1994;7974;Nao;dumber
+1994;7975;Nao;busier
+1994;7976;Nao;dumbest
+1995;7977;Nao;best
+1995;7978;Sim;better
+1995;7979;Nao;good
+1995;7980;Nao;well
+1996;7981;Sim;better
+1996;7982;Nao;ongoing
+1996;7983;Nao;skinniest
+1996;7984;Nao;more overdressed
+1997;7985;Sim;more objective
+1997;7986;Nao;most dedicated
+1997;7987;Nao;more confused
+1997;7988;Nao;lazier
+1998;7989;Nao;organized
+1998;7990;Nao;most careful
+1998;7991;Nao;most attentive
+1998;7992;Sim;more romantic
+1999;7993;Nao;more rich
+1999;7994;Sim;richer
+1999;7995;Nao;most poor
+1999;7996;Nao;more poor
+2000;7997;Sim;most poisonous
+2000;7998;Nao;more dangerous
+2000;7999;Nao;brighter
+2000;8000;Nao;older

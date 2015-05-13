@@ -3,6 +3,8 @@ var csv = require('csv');
 var transform = require('stream-transform');
 var request = require('request');
 
+
+var total = 0;
 var output = [];
 var parser = csv.parse({delimiter: ';', escape: '\\', quote: '|'})
 // console.log(parser)
@@ -39,7 +41,11 @@ var transformer = transform(function(record){
     , body: recordToPost
     , json: true}
     , function(error, response){
-        console.log(error);
+        if (error) {
+            console.log(error);
+        } else {
+            console.log(++total);
+        }
         // console.log(response);
       }
     );
